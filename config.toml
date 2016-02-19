@@ -1,0 +1,85 @@
+baseurl = "localhost/"
+languageCode = "en-us"
+title = "Stormbots"
+theme = "stormbots"
+
+
+relativeURLs=  true
+metaDataFormat = "toml" 
+staticdir =  "_site"
+
+# if true, use /filename.html instead of /filename/
+uglyURLs =  false
+
+# Depending on our host, we may need to change what directory
+# The content winds up in. This is one option
+# publishdir= "_site"
+
+# Determines how many posts per page
+paginate = 10
+
+[permalinks]
+  post="/:year/:month/:title/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "Stormbots"
+# facebook = "skyview.stormbots"
+  github = "Stormbots"
+
+  
+[params]
+    # Shown in the home page
+    subtitle = "Skyview FRC 2811"
+    brand = "Nav"
+    # CSS name for highlight.js
+    highlightjs = "androidstudio"
+    dateFormat = "02 Jan 2006, 15:04"
+    
+    
+# This is knappy. This should be either 
+# A: Determined by the page, or B
+# B Determined by a data file or something
+# I'm of the opinion config.yml should not contain templating
+
+# These use "font-awesome", which you can find here:
+# http://fortawesome.github.io/Font-Awesome
+[menu]
+# Shown in the side menu.
+   [[menu.main]]
+      name = "Home"
+      pre = "<i class='fa fa-home fa-fw'></i>"
+      weight = 0
+      identifier = "home"
+      url = "/"
+   [[menu.main]]
+      name = "Posts"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 1
+      identifier = "post"
+      url = "/tag/posts/"
+   [[menu.main]]
+      name = "Photos"
+      pre = "<i class='fa fa-camera-retro fa-fw'></i>"
+      weight = 2
+      identifier = "photos"
+      url = "/tags/photo/"
+   [[menu.main]]
+      name = "Videos"
+      pre = "<i class='fa fa-film fa-fw'></i>"
+      weight = 3
+      identifier = "video"
+      url = "/tags/video/"
+   [[menu.main]]
+      name = "Calendar"
+      pre = "<i class='fa fa-calendar fa-fw'></i>"
+      weight = 4
+      identifier = "calendar"
+      url = "/calendar/"
+      [[menu.main]]
+         name = "Partners"
+         pre = "<i class='fa fa-heart fa-fw'></i>"
+         weight = 5
+         identifier = "partners"
+         url = "/partners/"
