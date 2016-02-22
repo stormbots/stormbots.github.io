@@ -57,12 +57,12 @@ paginate = 10
       weight = 1
       identifier = "post"
       url = "/posts/"
-   [[menu.main]]
-      name = "Photos"
-      pre = "<i class='fa fa-camera-retro fa-fw'></i>"
-      weight = 2
-      identifier = "photos"
-      url = "/tags/photo/"
+#   [[menu.main]]
+#      name = "Photos"
+#      pre = "<i class='fa fa-camera-retro fa-fw'></i>"
+#      weight = 2
+#      identifier = "photos"
+#      url = "/tags/photo/"
    [[menu.main]]
       name = "Videos"
       pre = "<i class='fa fa-film fa-fw'></i>"
