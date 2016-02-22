@@ -6,7 +6,6 @@ theme = "stormbots"
 
 relativeURLs=  true
 metaDataFormat = "toml" 
-staticdir =  "_site"
 
 # if true, use /filename.html instead of /filename/
 uglyURLs =  false
@@ -21,22 +20,21 @@ paginate = 10
 [permalinks]
   post="/:year/:month/:title/"
 
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  twitter = "Stormbots"
-# facebook = "skyview.stormbots"
-  github = "Stormbots"
-
   
 [params]
     # Shown in the home page
     subtitle = "Skyview FRC 2811"
-    brand = "Nav"
+    brand = "Stormbots"
     # CSS name for highlight.js
     highlightjs = "androidstudio"
     dateFormat = "02 Jan 2006, 15:04"
     
+    
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+   season = "seasons"
+   partner = "partners"
     
 # This is knappy. This should be either 
 # A: Determined by the page, or B
@@ -58,7 +56,7 @@ paginate = 10
       pre = "<i class='fa fa-list fa-fw'></i>"
       weight = 1
       identifier = "post"
-      url = "/tag/posts/"
+      url = "/posts/"
    [[menu.main]]
       name = "Photos"
       pre = "<i class='fa fa-camera-retro fa-fw'></i>"
@@ -77,9 +75,17 @@ paginate = 10
       weight = 4
       identifier = "calendar"
       url = "/calendar/"
-      [[menu.main]]
-         name = "Partners"
-         pre = "<i class='fa fa-heart fa-fw'></i>"
-         weight = 5
-         identifier = "partners"
-         url = "/partners/"
+   [[menu.main]]
+      name = "Partners"
+      pre = "<i class='fa fa-heart fa-fw'></i>"
+      weight = 5
+      identifier = "partners"
+      url = "/partners/"
+      
+[social]
+# Link your social networking accouns to the side menu
+# by entering your username or ID.
+twitter = "Stormbots"
+# facebook = "skyview.stormbots"
+github = "Stormbots"
+youtube = "Stormbots"

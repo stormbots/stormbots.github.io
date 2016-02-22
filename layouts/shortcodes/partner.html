@@ -1,0 +1,13 @@
+{{$key:=.Get 0}}
+{{range $name,$data := .Page.Site.Data.Partners.List }}
+{{ if eq $key $name }}
+{{with $data}}
+<div class="partner" style="display:block;clear:both all left right;">
+   <img src="/images/partners/{{.logo}}" style="float:right;max-width: 10em; display:inline-block;"/>
+   <img src="/images/{{.level}}" style="float:right;max-width: 10em; display:inline-block;"/>
+   <h2>{{ .name |title }}</h2>
+   <h3>{{ .from  }}</h3>
+</div>
+{{end}}
+{{end}}
+{{end}}

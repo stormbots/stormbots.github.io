@@ -3,7 +3,7 @@
 <div class="header">
   <h1>{{ .Title }}</h1>
 </div>
-<div class="content">
+<div class="content" from="default/terms">
   <ul>
   {{ $data := .Data }}
   {{ range $key, $value := .Data.Terms.ByCount }}
