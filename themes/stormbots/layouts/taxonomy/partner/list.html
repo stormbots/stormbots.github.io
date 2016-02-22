@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+  <h2>{{/* .Site.Params.subtitle */}}</h2>
+</div>
+
+<div class="content" from="partner/list">
+   {{ range .Page.Site.Data.Partners }}
+   {{.Name}}<br>
+   {{ end }}
+
+
+</div>
+  {{/* partial "pagination.html" . */}}
+   {{/* .Render "summary" */}}
+
+{{ partial "footer.html" . }}
