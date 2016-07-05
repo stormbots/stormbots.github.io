@@ -13,7 +13,7 @@ uglyURLs =  false
 # Depending on our host, we may need to change what directory
 # The content winds up in. This is one option
 # publishdir= "_site"
-canonifyurls: true
+canonifyurls = true
 
 # Determines how many posts per page
 paginate = 10
