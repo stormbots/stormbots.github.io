@@ -1,1 +1,1 @@
-hugo.exe --server 
+hugo.exe server 
