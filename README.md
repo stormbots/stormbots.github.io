@@ -1,3 +1,10 @@
+# Website Deployment status: 
+
+### Site Build Status
+[![wercker status](https://app.wercker.com/status/2cdeda6ada12d1bce00f402ba7207ca4/s/master "wercker status")](https://app.wercker.com/project/bykey/2cdeda6ada12d1bce00f402ba7207ca4) 
+
+[![wercker status](https://app.wercker.com/status/2cdeda6ada12d1bce00f402ba7207ca4/m/master "wercker status")](https://app.wercker.com/project/bykey/2cdeda6ada12d1bce00f402ba7207ca4)
+
 # Creating new posts
 Creating new posts is very simple! It just consists of creating a text file in `content/posts/`. 
 
