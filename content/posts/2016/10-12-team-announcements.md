@@ -1,8 +1,6 @@
 ---
 date: 2016-10-12
 title: Stormbots Team List for 2016-2017
-layout: post
-type: post
 season: 2016
 ---
 
@@ -10,10 +8,10 @@ Thank you to everyone that applied to be on the team and attended our Skills Ass
 
 For a description of sub-teams, click on this link:  Sub-Team Descriptions and Next Steps.
 
-For questions, please contact one of our coaches 
-Luke Glassett, lucas.glassett@vansd.org, 
-Kurt Schmidt, kurt.schmidt@vansd.org,  or 
-Kim Hansen, khansen@vansd.org
+For questions, please contact one of our coaches
+[Luke Glassett](mailto:lucas.glassett@vansd.org),
+[Kurt Schmidt](kurt.schmidt@vansd.org),  or
+[Kim Hansen](mailto:khansen@vansd.org)
 
 Be sure to visit FIRST at http://www.firstinspires.org/ to learn more about this exciting program.
 

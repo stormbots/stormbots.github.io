@@ -1,8 +1,6 @@
 ---
 date: 2016-09-22
 title: Upcoming Events
-layout: post
-type: post
 season: 2016
 ---
 
@@ -38,7 +36,7 @@ Enter through the 600 wing door
 - Parent and Team Meeting, Wednesday, October 19th, 6PM
 - Pay $35 ASB Activity Fee online (need an ASB card to do this) and - $165 Fair Share Fee - will be explained on 10/19.
 
-# Girls Generation - October 15th 
+# Girls Generation - October 15th
 Will be at at Catlin Gabel - Girls Only
 
 Specific details about the event will be communicated later to those who are attending.
