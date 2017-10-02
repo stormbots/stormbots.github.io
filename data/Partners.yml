@@ -1,99 +1,126 @@
 # This page provides a list of sponsor information
-# This can be picked up by other templates and content, 
+# This can be picked up by other templates and content,
 # to quickly generate shoutouts to our sponsors,
 # or automatically generate sponsor pages
-# 
-# Note: This page is in YAML format. 
-# The dash on each new line is the separation   
+#
+# Note: This page is in YAML format.
+# The dash on each new line is the separation
 # between each sponsor. These are all accessed as a list in the templates
-# 
-# The ">" under notes indicates a folded line.  
-# This lets you break up long lines for readability, 
+#
+# The ">" under notes indicates a folded line.
+# This lets you break up long lines for readability,
 # and will be treated as a single line in templates.
-# Note you do need to indent one additional level to 
-# make this work 
+# Note you do need to indent one additional level to
+# make this work
 #
 #
 
 LogoDir: "/images/partners/"
-List: 
-   platt:
-      name: Platt Electric Supply
-      from: 2008-Current
-      level: hurricane
-      logo: platt.gif
-   boeing:
-      name: The Boeing Company
-      from: 2008-Current
-      level: hurricane
-      logo: boeing.gif
-   opsi:
-      name: Office of Superintendent of Public Instruction
-      from: 2008-Current
-      level: hurricane
-      logo: ospi.gif
-   protech:
-      name: Pro-Tech
-      from: 2013-Current
-      level: hurricane
-      logo: pro-tech.jpg
-      desc: > 
-         Protec offers us significant amounts of metal, which is used for building our robot and components
-   usdigital:
-      name: US Digital
-      from: 2015
-      level: hurricane
-      logo: usdigital.jpg
-   vps:
-      name: Vancouver Public Schools
-      from: 2008-Current
-      level: torrent
-      logo: vps.gif
-   hp:
-      name: Hewlett-Packard
-      from: 2008-Current
-      level: torrent
-      logo: hp.jpg
-   conmet:
-      name: Con-Met
-      from: 2016-Current
-      level: torrent
-      logo: con-met.jpg
-   usnr:
-      name: United States Natural Resources
-      from: 2014-Current
-      level: thunderstorm
-      logo: usnr.png
-   olympus:
-      name: Olympus Controls
-      from: 2016-Current
-      level: thunderstorm
-      logo: olympuscontrols.jpg
-   vancouverbolt:
-      name: Vancouver Bolt And Supply
-      from: 2013-Current
-      level: thunderstorm
-      logo: vancouverbolt.jpg
-      notes: >
-         Vancouver Bolt offers us significant amounts of fasteners. They really hold our team together. 
-   hightech:
-      name: High Tech Manufacturing
-      from: 2016-Current
-      level: thunderstorm
-      logo: htmfg.jpg
-   lanxess:
-      name: Lanxess
-      from: 2016-Current
-      level: zephyr
-      logo: lanxess.gif
-   garlicjims:
-      name: "Garlic Jim's Pizza, Salmon Creek"
-      from: 2014-Current
-      level: zephyr
-      logo: garlicjims.png
-      notes: > 
-         Hungry? So were we until Garlic Jim's 
-         stepped in. Now we can afford to eat in our late night
-         building sprees
+List:
+- id: platt
+  name: Platt Electric Supply
+  from: 2008-Current
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: hurricane
+  logo: platt.gif
+
+- id: boeing
+  name: The Boeing Company
+  from: 2008-Current
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: hurricane
+  logo: boeing.gif
+
+- id: opsi
+  name: Office of Superintendent of Public Instruction
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: hurricane
+  logo: ospi.gif
+
+- id: protech
+  name: Pro-Tech
+  from: 2013-Current
+  years: [ 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: hurricane
+  logo: pro-tech.jpg
+  desc: >
+     Protec offers us significant amounts of metal, which is used for building our robot and components
+
+- id: usdigital
+  name: US Digital
+  from: [ 2015 ]
+  years: [ 2015 ]
+  level: hurricane
+  logo: usdigital.jpg
+
+- id: vps
+  name: Vancouver Public Schools
+  from: 2008-current
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: torrent
+  logo: vps.gif
+
+- id: hp
+  name: Hewlett-Packard
+  from: 2008-Current
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: torrent
+  logo: hp.jpg
+
+- id: conmet
+  name: Con-Met
+  from: 2016-Current
+  years: [ 2016, 2017 ]
+  level: torrent
+  logo: con-met.jpg
 
 
+- id: usnr
+  name: United States Natural Resources
+  from: 2014-Current
+  years: [ 2014, 2015, 2015, 2016, 2017 ]
+  level: thunderstorm
+  logo: usnr.png
+
+
+- id: olympus
+  name: Olympus Controls
+  from: 2016-Current
+  years: [ 2016, 2017 ]
+  level: thunderstorm
+  logo: olympuscontrols.jpg
+
+
+- id: vancouverbolt
+  name: Vancouver Bolt And Supply
+  from: 2013-Current
+  years: [ 2013, 2014, 2015, 2015, 2016, 2017 ]
+  level: thunderstorm
+  logo: vancouverbolt.jpg
+  notes: >
+     Vancouver Bolt offers us significant amounts of fasteners. They really hold our team together.
+
+- id: hightech
+  name: High Tech Manufacturing
+  from: 2016-Current
+  years: [ 2016, 2017 ]
+  level: thunderstorm
+  logo: htmfg.jpg
+
+- id: lanxess
+  name: Lanxess
+  from: 2016-Current
+  years: [ 2016, 2017 ]
+  level: zephyr
+  logo: lanxess.gif
+
+- id: garlicjims
+  name: "Garlic Jim's Pizza, Salmon Creek"
+  from: 2014-Current
+  years: [ 2014, 2015, 2015, 2016, 2017 ]
+  level: zephyr
+  logo: garlicjims.png
+  notes: >
+     Hungry? So were we until Garlic Jim's
+     stepped in. Now we can afford to eat in our late night
+     building sprees

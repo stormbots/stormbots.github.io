@@ -5,10 +5,13 @@
   <h2>{{/* .Site.Params.subtitle */}}</h2>
 </div>
 
+{{ $currentYear := "2015" }}
+{{ $currentSponsors := where .Site.Data.Partners.List "years" "intersect" (slice 2015) }}
+
 <div class="content" from="layouts/taxonomy/partners.terms">
-   {{ range .Site.Data.Partners.List }}
+  {{ range $currentSponsors }}
       {{ partial "partner.html" . }}
-   {{ end }}
+  {{ end }}
 </div>
 
 {{ partial "footer.html" . }}
