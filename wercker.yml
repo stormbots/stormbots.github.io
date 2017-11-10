@@ -5,14 +5,14 @@
 box: debian
 build:
     steps:
-        - arjen/hugo-build@1.10.1:
+        - arjen/hugo-build:
             version: "0.29"
             flags: --baseURL=https://stormbots.github.io/
 deploy:
     steps:
         - install-packages:
             packages: git ssh-client
-        - lukevivier/gh-pages@0.2.1:
+        - lukevivier/gh-pages:
             token: $GIT_TOKEN
             basedir: public
             branch: master
