@@ -5,7 +5,7 @@ season: 2016
 ---
 
 
-# Tonight
+# Tonight
 Make sure you have signed-in.
 
 Girls - if you want to participate in Girls Generation on Oct 15, sign-up on that sheet too.
@@ -29,9 +29,9 @@ All students and potential mentors need to attend.
 Enter through the 600 wing door
 
 ### Friday, October 7th
-Sub-teams will be announced.
+* Sub-teams will be announced.
 
-If selected to be on the team:
+* If selected to be on the team:
 - Team Meeting - Wednesday, October 12th, 6PM
 - Parent and Team Meeting, Wednesday, October 19th, 6PM
 - Pay $35 ASB Activity Fee online (need an ASB card to do this) and - $165 Fair Share Fee - will be explained on 10/19.
