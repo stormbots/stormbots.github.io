@@ -6,10 +6,8 @@
 </div>
 
 <div class="content" from="index">
-  {{ range .Paginator.Pages }}
-    {{ if eq .Type "post" }}
+  {{ range .Data.Pages }}
       {{ .Render "summary"}}
-    {{ end }}
   {{ end }}
 
   {{ partial "pagination.html" . }}
