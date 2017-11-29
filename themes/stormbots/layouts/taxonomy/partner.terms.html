@@ -5,8 +5,8 @@
   <h2>{{/* .Site.Params.subtitle */}}</h2>
 </div>
 
-{{ $currentYear := "2015" }}
-{{ $currentSponsors := where .Site.Data.Partners.List "years" "intersect" (slice 2015) }}
+{{ $currentYear := 2017 }}
+{{ $currentSponsors := where .Site.Data.Partners.List "years" "intersect" (slice $currentYear) }}
 
 <div class="content" from="layouts/taxonomy/partners.terms">
   {{ range $currentSponsors }}
