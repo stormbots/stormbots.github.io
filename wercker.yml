@@ -17,3 +17,4 @@ deploy:
             basedir: public
             branch: master
             repo: stormbots/stormbots.github.io
+            remote: origin
