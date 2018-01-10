@@ -2,11 +2,11 @@
 # Docker Hub https://registry.hub.docker.com/_/debian/
 # Read more about containers on our dev center
 # http://devcenter.wercker.com/docs/containers/index.html
-box: wercker/default
+box: debian
 build:
     steps:
         - arjen/hugo-build:
-            version: "0.29"
+            version: "0.31"
             flags: --baseURL=https://stormbots.github.io/
 deploy:
     steps:
