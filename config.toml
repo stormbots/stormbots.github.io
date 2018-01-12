@@ -1,104 +1,107 @@
-baseurl = "localhost/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Stormbots"
-theme = "stormbots"
+theme = "hugo-initio"
+publishDir = "public"
 
-
-relativeURLs=  true
-
-# if true, use /filename.html instead of /filename/
-uglyURLs =  false
-
-# Depending on our host, we may need to change what directory
-# The content winds up in. This is one option
-# publishdir= "_site"
-canonifyurls = true
-
-# Determines how many posts per page
-paginate = 10
-
-# Enable :heart: style emojis in posts
-enableEmoji= true # False by default
-
-[permalinks]
-post="/:year/:month/:title/"
-
-
-
-# Configuration of the Markdown engine used by Hugo
-[blackfriday]
-# By default, makes 3/5 and other fractions smaller and stacks them.
-# This can be annoying for dates or other technical writing, so it's disabled.
-# NOTE: This still may happen with 1/2, 2/3, and 3/4 even when disabled >_>
-fractions = false
-
-
-
-[taxonomies]
- tag = "tags"
- category = "categories"
- season = "seasons"
- partner = "partners"
-
-# This shows up as a variable under .Site.Params
 [params]
-    # Shown in the home page
-    subtitle = "Skyview FRC 2811"
-    brand = "Stormbots"
-    # CSS name for highlight.js
-    highlightjs = "androidstudio"
-    dateFormat = "02 Jan 2006, 15:04"
+    name = "Stormbots"
+    description = "A mystery person"
+    email = "anthony.russel42@example.com"
+    phone = "+234 23 9873237"
+    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2017
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
 
-# This is knappy. This should be either
-# A: Determined by the page, or B
-# B Determined by a data file or something
-# I'm of the opinion config.yml should not contain templating
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = true
+    showClients = true
 
-# These use "font-awesome", which you can find here:
-# http://fortawesome.github.io/Font-Awesome
-[menu]
-# Shown in the side menu.
-   [[menu.main]]
-      name = "Home"
-      pre = "<i class='fa fa-home fa-fw'></i>"
-      weight = 0
-      identifier = "home"
-      url = "/"
-   [[menu.main]]
-      name = "Posts"
-      pre = "<i class='fa fa-list fa-fw'></i>"
-      weight = 1
-      identifier = "post"
-      url = "/posts/"
-#   [[menu.main]]
-#      name = "Photos"
-#      pre = "<i class='fa fa-camera-retro fa-fw'></i>"
-#      weight = 2
-#      identifier = "photos"
-#      url = "/tags/photo/"
-   [[menu.main]]
-      name = "Videos"
-      pre = "<i class='fa fa-film fa-fw'></i>"
-      weight = 3
-      identifier = "video"
-      url = "/tags/video/"
-   [[menu.main]]
-      name = "Calendar"
-      pre = "<i class='fa fa-calendar fa-fw'></i>"
-      weight = 4
-      identifier = "calendar"
-      url = "/calendar/"
-   [[menu.main]]
-      name = "Partners"
-      pre = "<i class='fa fa-heart fa-fw'></i>"
-      weight = 5
-      identifier = "partners"
-      url = "/partners/"
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
 
-[social]
-# Link your social networking accouns to the side menu
-# by entering your username or ID.
-twitter = "Stormbots"
-# facebook = "skyview.stormbots"
-github = "Stormbots"
-youtube = "Stormbots"
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
+[[menu.main]]
+    name = "partners"
+    url = "/partners/"
+    weight = 15
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/nickname"
+    icon = "fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/nickname"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/nickname"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "google+"
+	url = "https://plus.google.com/+nickname"
+    icon = "fa-google-plus-square"
+    footer = false
+    sharethis = true
+    network = "googleplus"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fa-linkedin-square"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://nickname.tumblr.com"
+    icon = "fa-tumblr-square"
+    footer = false
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
