@@ -3,7 +3,7 @@
 }
 
 a {
-  color: #3b8bba;
+  color: #05031c;
   text-decoration: none;
 }
 a:hover,
@@ -11,16 +11,18 @@ a:focus {
   text-decoration: underline;
 }
 a:visited {
-  color: #265778;
+  color: #05031c;
 }
 
 .small-print {
   font-size: 0.8em;
   margin: 0.6em;
+  color: #05031c;
 }
 
 .post-meta {
   font-size: 90%;
+  color: #05031c;
 }
 
 article > footer {
@@ -31,20 +33,23 @@ article > footer {
   margin-top: 2em;
   padding-top: 2em;
   padding-bottom: 2em;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid #05031c;
+  border-bottom: 1px solid #05031c;
+  color: #05031c;
 }
 
 .prev-next-post .prev {
   float: left;
   text-align: left;
   overflow: hidden;
+  color: #05031c;
 }
 
 .prev-next-post .next {
   float: right;
   text-align: right;
   overflow: hidden;
+  color: #05031c;
 }
 
 #menu .brand {
@@ -53,20 +58,24 @@ article > footer {
   font-size: 1em;
   letter-spacing: 0.1em;
   text-transform: none;
-  background: transparent;
+  background: none;
   text-decoration: none;
   margin: 0.5em 0;
+  color: #fff;
 }
 
 #menu .pure-menu {
   font-size: 0.9em;
+  color: #fff;
 }
 
 i {
   display: inline-block;
   margin-right: 0.2em;
+  color: #fff;
 }
 
 .pagination {
   text-align: center;
+  color: #fff;
 }

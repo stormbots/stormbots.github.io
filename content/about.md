@@ -5,6 +5,4 @@ title = "about"
 
 +++
 
-Hello there. We're the stormbots.
-
- 
+Hello there. We're the stormbots. Established 2008.

@@ -1,0 +1,123 @@
+baseurl = "localhost/"
+languageCode = "en-us"
+title = "Stormbots"
+theme = "hugo-initio-master"
+
+
+relativeURLs=  true
+
+# if true, use /filename.html instead of /filename/
+uglyURLs =  false
+
+# Depending on our host, we may need to change what directory
+# The content winds up in. This is one option
+# publishdir= "_site"
+canonifyurls = true
+
+# Determines how many posts per page
+paginate = 10
+
+# Enable :heart: style emojis in posts
+enableEmoji= true # False by default
+
+[permalinks]
+post="/:year/:month/:title/"
+
+
+
+# Configuration of the Markdown engine used by Hugo
+[blackfriday]
+# By default, makes 3/5 and other fractions smaller and stacks them.
+# This can be annoying for dates or other technical writing, so it's disabled.
+# NOTE: This still may happen with 1/2, 2/3, and 3/4 even when disabled >_>
+fractions = false
+
+
+
+[taxonomies]
+ tag = "tags"
+ category = "categories"
+ season = "seasons"
+ partner = "partners"
+
+# This shows up as a variable under .Site.Params
+[params]
+    # Shown in the home page
+    subtitle = "Skyview FRC 2811"
+    brand = "Stormbots"
+    # CSS name for highlight.js
+    highlightjs = "androidstudio"
+    dateFormat = "02 Jan 2006, 15:04"
+
+# This is knappy. This should be either
+# A: Determined by the page, or B
+# B Determined by a data file or something
+# I'm of the opinion config.yml should not contain templating
+
+# These use "font-awesome", which you can find here:
+# http://fortawesome.github.io/Font-Awesome
+[menu]
+# Shown in the side menu.
+   [[menu.main]]
+      name = "Home"
+      pre = "<i class='fa fa-home fa-fw'></i>"
+      weight = 1
+      identifier = "home"
+      url = "/"
+
+   [[menu.main]]
+      name = "Parters"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 3
+      identifier = "post"
+      url = "/partners/"
+
+   [[menu.main]]
+      name = "Posts"
+      pre = "<i class='fa fa-film fa-fw'></i>"
+      weight = 4
+      identifier = "video"
+      url = "/posts/"
+
+   [[menu.main]]
+      name = "Games"
+      pre ="<1 class='fa fa-futbol-o fa-fw'></i>"
+      weight = 4.5
+      identifier = "games"
+      url = "/games/"
+
+   [[menu.main]]
+      name = "Media"
+      pre = "<i class='fa fa-calendar fa-fw'></i>"
+      weight = 16
+      identifier = "calendar"
+      url = "/media/"
+
+   [[menu.main]]
+      name = "Calendar"
+      pre = "<i class='fa fa-group fa-fw'></i>"
+      weight = 17
+      identifier = "partners"
+      url = "/calendar/"
+
+   [[menu.main]]
+      name = "Contact"
+      pre = "<i class='fa fa-question-circle fa-fw'></i>"
+      weight = 18
+      identifier = "about"
+      url = "/contact/"
+
+    [[menu.main]]
+       name = "About"
+       pre = "<i class='fa fa-question-circle fa-fw'></i>"
+       weight = 27
+       identifier = "about"
+       url = "/about/"
+
+[social]
+# Link your social networking accounts to the side menu
+# by entering your username or ID.
+twitter = "Stormbots"
+facebook = "skyview.stormbots"
+github = "Stormbots"
+youtube = "Stormbots"

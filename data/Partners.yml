@@ -17,6 +17,9 @@
 
 LogoDir: "/images/partners/"
 List:
+
+  Current
+  
 - id: platt
   name: Platt Electric Supply
   from: 2008-Current
@@ -25,15 +28,15 @@ List:
   logo: platt.gif
 
 - id: boeing
-  name: The Boeing Company
+  name: The One and Only Boeing Company
   from: 2008-Current
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
   level: hurricane
   logo: boeing.gif
 
-- id: opsi
+- id: ospi
   name: Office of Superintendent of Public Instruction
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
   level: hurricane
   logo: ospi.gif
 
@@ -44,14 +47,7 @@ List:
   level: hurricane
   logo: pro-tech.jpg
   desc: >
-     Protec offers us significant amounts of metal, which is used for building our robot and components
-
-- id: usdigital
-  name: US Digital
-  from: [ 2015 ]
-  years: [ 2015 ]
-  level: hurricane
-  logo: usdigital.jpg
+     Protech offers us significant amounts of metal, which is used for building our robot and components
 
 - id: vps
   name: Vancouver Public Schools
@@ -59,6 +55,9 @@ List:
   years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
   level: torrent
   logo: vps.gif
+  test: Hello
+  desc: >
+      I have an "id", "name", "from", "years", "level", "logo", "test" and "desc"!
 
 - id: hp
   name: Hewlett-Packard
@@ -74,7 +73,6 @@ List:
   level: torrent
   logo: con-met.jpg
 
-
 - id: usnr
   name: United States Natural Resources
   from: 2014-Current
@@ -82,14 +80,12 @@ List:
   level: thunderstorm
   logo: usnr.png
 
-
 - id: olympus
-  name: Olympus Controls
+  name: Mount Olympus Controls
   from: 2016-Current
   years: [ 2016, 2017 ]
   level: thunderstorm
   logo: olympuscontrols.jpg
-
 
 - id: vancouverbolt
   name: Vancouver Bolt And Supply
@@ -97,7 +93,7 @@ List:
   years: [ 2013, 2014, 2015, 2015, 2016, 2017 ]
   level: thunderstorm
   logo: vancouverbolt.jpg
-  notes: >
+  desc: >
      Vancouver Bolt offers us significant amounts of fasteners. They really hold our team together.
 
 - id: hightech
@@ -110,9 +106,9 @@ List:
 - id: lanxess
   name: Lanxess
   from: 2016-Current
-  years: [ 2016, 2017 ]
+  years: [ 2015, 2016, 2017 ]
   level: zephyr
-  logo: lanxess.gif
+  logo: lanxess.png
 
 - id: garlicjims
   name: "Garlic Jim's Pizza, Salmon Creek"
@@ -120,7 +116,23 @@ List:
   years: [ 2014, 2015, 2015, 2016, 2017 ]
   level: zephyr
   logo: garlicjims.png
-  notes: >
+  desc: >
      Hungry? So were we until Garlic Jim's
      stepped in. Now we can afford to eat in our late night
      building sprees
+
+Past
+
+- id: usdigital
+ name: US Digital
+ from: 2015-2015
+ years: [ 2015 ]
+ level: hurricane
+ logo: usdigital.jpg
+
+- id: tyler
+ name: Tyler
+ from: 2008-2011
+ years: [2008, 2009, 2010, 2011, 2015 ]
+ level: hurricane
+ logo: tyler.jpg

@@ -7,4 +7,4 @@ tags:
    - build-log
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vjVKM466EEE" frameborder="0" allowfullscreen></iframe>
+{{< youtube vjVKM466EEE >}}

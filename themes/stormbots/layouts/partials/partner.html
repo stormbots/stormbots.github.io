@@ -1,6 +1,10 @@
-<div class="partner" from="partials/partner" style="display:block;clear:both;max-height:3em;">
+<div class="partner" from="partials/partner" style="display:block;clear:both;">
    <img src="/images/partners/{{.level}}.gif" style="float:right;max-width: 10em; display:inline-block;"/>
-   <img src="/images/partners/2016/{{.logo}}" style="float:right;max-width: 10em;max-height:90%; display:inline-block;"/>
+   <img src="/images/partners/2016/{{.logo}}" style="float:right;max-width: 10em; display:inline-block;"/>
    <h2>{{ .name |title }}</h2>
    <h3>{{ .from  }}</h3>
+   <h4>{{ .test }}</h4>
+   <h5>{{ .desc }}</h5>
+
+   {{ if .test }}TEST!{{ else }}NO TEST!{{ end }}
 </div>

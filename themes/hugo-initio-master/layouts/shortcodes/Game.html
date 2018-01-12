@@ -1,0 +1,35 @@
+{{ if .Get 3 = left }}
+
+<tr>
+  <td>
+    <a href="/{{ .Get 0 }}"><img style="text-align: left" src="/images/games/first{{ .Get 0 }}.png"/> </td>
+  <td>
+    <h1 style="text-align: center">
+      First {{ .Get 0 }}: {{ .Get 1 }}
+    </h1>
+    <p style="text-align: center">
+    {{ .Get 2 }}
+    <br />
+    <a href="/{{ .Get 0 }}"><img style="text-align: right" src="/images/LearnMoreButton.png" width="200" height="40"/>
+    </p>
+  </td>
+</tr>
+
+{{ else }}
+
+<tr>
+    <td>
+    <h1 style="text-align: center">
+      First {{ .Get 0 }}: {{ .Get 1 }}
+    </h1>
+    <p style="text-align: center">
+    {{ .Get 2 }}
+    <br />
+    <a href="/{{ .Get 0 }}"><img style="text-align: right" src="/images/LearnMoreButton.png" width="200" height="40"/>
+    </p>
+  </td>
+  <td>
+    <a href="/{{ .Get 0 }}"><img style="text-align: left" src="/images/games/first{{ .Get 0 }}.png"/> </td>
+</tr>
+
+{{ end }}

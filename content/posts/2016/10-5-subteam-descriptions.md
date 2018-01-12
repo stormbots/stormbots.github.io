@@ -14,14 +14,14 @@ This team is responsible for managing our team image and getting the word out ab
 ### Competitions Team
 This team is responsible for creating and managing our excellence during robotics competitions. The team will help create our robot strategy, game strategy, and scouting process. In addition, this team leads our efforts to earn awards at the competitions. This team is a potential fit for a wide range of skills.
 
-### Wingnuts Team
+### Wingnuts Team
 Our most unique team and a true competitive advantage versus all other robotics clubs. This team is responsible for leading our safety culture, building and mobilization of our competition “pit”, and building field elements for robot practice.
 
 
 ### Drive Systems Team – not the “Drive Team”
 This team is responsible for designing AND building the base of our robot and the wheels and gears that make it go. This team needs students who want to design using CAD and then use machine shop tools to create their design.
 
-### Functions Team
+### Functions Team
 This team is responsible for designing and building the various parts of the robot that manipulate, shoot, or otherwise make things happen with game pieces. This team needs students who want to design using CAD and then use machine shop tools to create their design.
 
 ### Controls Team

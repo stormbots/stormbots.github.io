@@ -4,6 +4,7 @@ title: Stormbots Team List for 2016-2017
 season: 2016
 ---
 
+
 Thank you to everyone that applied to be on the team and attended our Skills Assessment on Monday Night.  Our first official all-team meeting is Wednesday, 10/12/16 from 6-9pm in the 600 Wing.  Enter through the 600 wing side door.  The front doors to the school will not be open.
 
 For a description of sub-teams, click on this link:  Sub-Team Descriptions and Next Steps.
@@ -74,7 +75,7 @@ Be sure to visit FIRST at http://www.firstinspires.org/ to learn more about this
 - Terik
 
 ### Wingnuts
-- Timothy
+- Gretta
 - Alec
 - Ryan P
 - Lucas S
