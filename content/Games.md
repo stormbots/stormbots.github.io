@@ -16,7 +16,7 @@ type = "about"
   </thead>
   <tbody>
 
-    {{< Game "Power Up" 2016 "Teams are required to place power cubes on scales and switches to gain ownership. Alliances can also trade power cubes for power ups, giving them a temporary advantage in the game. At the end of the game, robots can climb the tower to defeat the boss." right >}}
+    {{< Game "Power Up" 2018 "Teams are required to place power cubes on scales and switches to gain ownership. Alliances can also trade power cubes for power ups, giving them a temporary advantage in the game. At the end of the game, robots can climb the tower to defeat the boss." right >}}
 
     {{< Game Steamworks 2017 "Teams are required to shoot fuel into a boiler which generates steam for the airship in the middle of the field. Each alliance has one airship, which they load with plastic gears from the field. At the end of the match, robots can climb and hang on to ropes attached to the airship for points." left >}}
 
@@ -24,15 +24,15 @@ type = "about"
 
     {{< Game "Recycle Rush" 2015 "Teams are required to pick up and stack totes on scoring platforms, putt litter inside recycling containers, and place the containers on top of stacks of totes to score points. Alliances can also pool their totes and stack them on a step dividing the field to gain twenty points. Human players can throw the pool noodles across the field to gain points." left >}}
 
-    {{< Game "Aerial Assist" 2014 "" right >}}
+    {{< Game "Aerial Assist" 2014 "Teams are required to get the scoring elements into the scoring areas located on the far end of the field. Throwing the ball over the truss will add points, as will having an alliance partner catch it." right >}}
 
-    {{< Game "Ultimate Ascent" 2013 "" left >}}
+    {{< Game "Ultimate Ascent" 2013 "Teams are required to launch disks into goals on the opposite sides of the field. At the end of the match, robots can climb the pyramids located on the field. Robots earn points by climbing the pyramid based on how high they climb." left >}}
 
-    {{< Game "Rebound Rumble" 2012 "" right >}}
+    {{< Game "Rebound Rumble" 2012 "Teams are required to shoot basket balls into the hoops on the opposing alliances side. At the end of the match, robots must balance the alliance bridges in the center of the field." right >}}
 
-    {{< Game "Logomotion" 2011 "" left >}}
+    {{< Game "Logomotion" 2011 "Teams are required to place squares, circles, and triangles, respective to the FIRST logo, on racks to gain points. At the end of the match, robots deploy minibots to climb a tower." left >}}
 
-    {{< Game "Breakaway" 2010 "" right >}}
+    {{< Game "Breakaway" 2010 "Teams are required to direct soccer balls into goals, traverse bumps in the field, suspend themselves on towers, and go through a tunnel located in the center of the field." right >}}
 
   </tbody>
 </table>
