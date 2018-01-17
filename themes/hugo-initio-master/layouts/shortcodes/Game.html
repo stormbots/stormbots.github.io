@@ -1,5 +1,4 @@
-{{ if .Get 3 = left }}
-
+{{ if eq (.Get 3) "left" }}
 <tr>
   <td>
     <a href="/{{ .Get 0 }}"><img style="text-align: left" src="/images/games/first{{ .Get 0 }}.png"/> </td>
@@ -14,8 +13,9 @@
     </p>
   </td>
 </tr>
+{{ end }}
 
-{{ else }}
+{{ if eq (.Get 3) "right" }}
 
 <tr>
     <td>
@@ -31,5 +31,4 @@
   <td>
     <a href="/{{ .Get 0 }}"><img style="text-align: left" src="/images/games/first{{ .Get 0 }}.png"/> </td>
 </tr>
-
 {{ end }}
