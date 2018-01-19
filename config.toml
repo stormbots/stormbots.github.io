@@ -46,6 +46,15 @@ publishDir = "docs"
     url = "/games/"
     weight = 15
 
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Games <b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><a href="sidebar-left.html">First Steamwoks</a></li>
+            <li><a href="sidebar-right.html">First Stronghold</a></li>
+            <li><a href="single.html">First Recycle Rush</a></li>
+        </ul>
+    </li>
+
 [[menu.main]]
     name = "Media"
     url = "/media/"

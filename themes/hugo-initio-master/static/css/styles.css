@@ -4,7 +4,7 @@ html {
 body {
   font-size: 15px;
   font-size: 0.9375rem;
-  font-family: "Open sans", Helvetica, Arial, sans-serif;
+  font-family: "Genericon", Helvetica, Arial, sans-serif;
   color: #666666;
   padding: 0;
 }
@@ -288,7 +288,7 @@ img {
   font-size: 0.75rem;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Genericon", Helvetica, Arial, sans-serif;
   color: #05031c;
   -webkit-border-radius: 0px;
   -webkit-background-clip: padding-box;
