@@ -1,11 +1,25 @@
 +++
-date = "2016-02-19T02:58:33-08:00"
+date = ""
 description = "FIRST Robotics Competitions"
-sidemenu = "true"
 title = "Partners"
-menu = "Partners"
 type = "about"
 +++
+
+<table border="0" style="margin: 20px">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
+
+    </tbody>
+  </table>
+
+  </table>
 
 <table border="0" style="margin: 20px">
   <thead>
