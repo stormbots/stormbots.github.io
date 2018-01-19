@@ -42,11 +42,6 @@ publishDir = "docs"
     weight = 10
 
 [[menu.main]]
-    name = "Games"
-    url = "/games/"
-    weight = 15
-
-[[menu.main]]
     name = "Media"
     url = "/media/"
     weight = 20
