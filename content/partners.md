@@ -5,43 +5,20 @@ title = "Partners"
 type = "about"
 +++
 
-<table border="0" style="margin: 20px">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
 
     {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
 
-    </tbody>
-  </table>
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
 
-  </table>
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
 
-<table border="0" style="margin: 20px">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://garlicjims.com/"><img style="text-align: right" src="/images/partners/2016/garlicjims.png" width="250" height="150"/>
-      </td>
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
 
-      <td>
-        <h1 style="text-align: center">Garlic Jim’s Pizza</h1>
-        <h2 style="text-align: center">Salmon Creek, WA</h2>
-        <h2 style="text-align: center">2014-2018</h2>       
-      </td>
-    </tr>
-  </tbody>
-</table>
-</table>
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
 
-<h3 style= "text-align: center"> Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees. </h3>
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
+
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
+
+    {{< Partner "garlic jim's pizza" 2014-2018  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
