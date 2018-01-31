@@ -25,7 +25,7 @@ type = "about"
         </h1>
       </td>
       </tr>
-
+___
       <tr>
       <td>
         <a href="https://www.instagram.com/skyview_stormbots/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/instagram.png"/>

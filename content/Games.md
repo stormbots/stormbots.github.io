@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "FIRST Robotics Competitions"
-sidemenu = "true"
 title = ""
 menu = "Games"
 type = "about"
