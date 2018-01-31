@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2014"
 title = "FIRST Aerial Assist: 2014"
 type = "about"

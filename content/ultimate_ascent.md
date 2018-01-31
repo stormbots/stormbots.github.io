@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2013"
 title = "FIRST Ultimate Ascent: 2013"
 type = "about"

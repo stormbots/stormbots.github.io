@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2011"
 title = "FIRST Logomotion: 2011"
 type = "about"

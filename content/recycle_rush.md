@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2015"
 title = "FIRST Recycle Rush: 2015"
 type = "about"
