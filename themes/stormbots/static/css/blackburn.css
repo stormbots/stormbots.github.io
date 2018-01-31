@@ -3,7 +3,7 @@
 }
 
 a {
-  color: #05031c;
+  color: #030366;
   text-decoration: none;
 }
 a:hover,
@@ -11,18 +11,18 @@ a:focus {
   text-decoration: underline;
 }
 a:visited {
-  color: #05031c;
+  color: #030366;
 }
 
 .small-print {
   font-size: 0.8em;
   margin: 0.6em;
-  color: #05031c;
+  color: #030366;
 }
 
 .post-meta {
   font-size: 90%;
-  color: #05031c;
+  color: #030366;
 }
 
 article > footer {
@@ -33,23 +33,23 @@ article > footer {
   margin-top: 2em;
   padding-top: 2em;
   padding-bottom: 2em;
-  border-top: 1px solid #05031c;
-  border-bottom: 1px solid #05031c;
-  color: #05031c;
+  border-top: 1px solid #030366;
+  border-bottom: 1px solid #030366;
+  color: #030366;
 }
 
 .prev-next-post .prev {
   float: left;
   text-align: left;
   overflow: hidden;
-  color: #05031c;
+  color: #030366;
 }
 
 .prev-next-post .next {
   float: right;
   text-align: right;
   overflow: hidden;
-  color: #05031c;
+  color: #030366;
 }
 
 #menu .brand {
