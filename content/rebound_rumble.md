@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2012"
 title = "FIRST Rebound Rumble: 2012"
 type = "about"

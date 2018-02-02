@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "FIRST Robotics Competitions"
 title = ""
 menu = "Games"

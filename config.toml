@@ -38,7 +38,7 @@ publishDir = "docs"
 
 [[menu.main]]
     name = "Posts"
-    url = "/content/posts/2016/test.md"
+    url = "/posts/"
     weight = 10
 
 [[menu.main]]
