@@ -1,0 +1,13 @@
+{{/*
+  This one's funky.
+  "intersect" looks at two arrays, and returns items that exist in both arrays
+  Eg, this matches partner years [2016,2017] with the target year [2016]
+  Because the years are stored as numbers, we need to also
+  "cast" the input value from (.Get 0) to a number, and then insert it into an
+  array using the slice operator, _then_ we can use it to check for an intersect.
+*/}}
+{{ $year := (slice (.Get 0|float) ) }}
+{{ $partners := where .Site.Data.Partners.List "years" "intersect" $year }}
+{{ range ($partners) }}
+{{ partial "partner" . }}
+{{end}}

@@ -1,10 +1,20 @@
 +++
-date = ""
 description = "FIRST Robotics Competitions"
 title = "Partners"
 type = "about"
 +++
 
-    {{< Partner "garlic jim's pizza" "2014-2018"  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
+# VPS, because i need a test subject
+{{< partner "vps" >}}
 
-    {{< Partner "hewlett packards" "2014-2018"  "Salmon Creek, WA" "Hungry? So were we until Garlic Jim’s stepped in. Now we can afford to eat during our late night building sprees." "https://garlicjims.com/" >}}
+# 2015 sponsors, also for a test
+{{< partnerYear "2015" >}}
+
+
+# Sponsors by Sponsor level
+{{< partnerLevel "vps" >}}
+{{< partnerLevel "hurricane" >}}
+{{< partnerLevel "torrent" >}}
+{{< partnerLevel "thunderstorm" >}}
+{{< partnerLevel "zephyr" >}}
+{{< partnerLevel "breeze" >}}
