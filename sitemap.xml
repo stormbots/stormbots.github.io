@@ -1,55 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stormbots.github.io/</loc>
+    <loc>localhost/posts/2016/10-12-team-announcements/</loc>
+    <lastmod>2016-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2016/09-22-upcoming-events/</loc>
+    <lastmod>2016-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2016/10-5-subteam-descriptions/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2016/07-21-blue-banner/</loc>
+    <lastmod>2016-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/calendar/</loc>
+    <lastmod>2016-02-19T02:58:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/about/</loc>
+    <lastmod>2016-02-19T01:50:38-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2016/02-14-bearing-press-fit/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2016/01-09-kickoff/</loc>
+    <lastmod>2016-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/2015/2015-01-03-build-season-clock/</loc>
+    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>localhost/tags/build-log/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/partners/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/posts/</loc>
     <lastmod>2016-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stormbots.github.io/posts/2016-10-12-team-announcements/</loc>
+    <loc>localhost/seasons/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>localhost/</loc>
     <lastmod>2016-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stormbots.github.io/posts/2016-09-22-upcoming-events/</loc>
-    <lastmod>2016-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stormbots.github.io/posts/2016-10-5-subteam-descriptions/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stormbots.github.io/posts/2016-07-21-blue-banner/</loc>
-    <lastmod>2016-07-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stormbots.github.io/calendar/</loc>
-    <lastmod>2016-02-19T02:58:33-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stormbots.github.io/about/</loc>
-    <lastmod>2016-02-19T01:50:38-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stormbots.github.io/posts/2016-02-14-bearing-press-fit/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stormbots.github.io/posts/2016-01-09-kickoff/</loc>
-    <lastmod>2016-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stormbots.github.io/posts/2015-01-03-build-season-clock/</loc>
-    <lastmod>2015-01-03T00:00:00+00:00</lastmod>
+    <loc>localhost/tags/video/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

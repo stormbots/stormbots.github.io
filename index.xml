@@ -2,284 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stormbots</title>
-    <link>https://stormbots.github.io/</link>
+    <link>localhost/</link>
     <description>Recent content on Stormbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://stormbots.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Stormbots Team List for 2016-2017</title>
-      <link>https://stormbots.github.io/posts/2016-10-12-team-announcements/</link>
+      <link>localhost/posts/2016/10-12-team-announcements/</link>
       <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2016-10-12-team-announcements/</guid>
-      <description>
-
-&lt;p&gt;Thank you to everyone that applied to be on the team and attended our Skills Assessment on Monday Night.  Our first official all-team meeting is Wednesday, 10/12/16 from 6-9pm in the 600 Wing.  Enter through the 600 wing side door.  The front doors to the school will not be open.&lt;/p&gt;
-
-&lt;p&gt;For a description of sub-teams, click on this link:  Sub-Team Descriptions and Next Steps.&lt;/p&gt;
-
-&lt;p&gt;For questions, please contact one of our coaches
-Luke Glassett, lucas.glassett@vansd.org,
-Kurt Schmidt, kurt.schmidt@vansd.org,  or
-Kim Hansen, khansen@vansd.org&lt;/p&gt;
-
-&lt;p&gt;Be sure to visit FIRST at &lt;a href=&#34;http://www.firstinspires.org/&#34;&gt;http://www.firstinspires.org/&lt;/a&gt; to learn more about this exciting program.&lt;/p&gt;
-
-&lt;h3 id=&#34;competitions:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Competitions&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Emmett&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Bailey&lt;/li&gt;
-&lt;li&gt;Ryan St.&lt;/li&gt;
-&lt;li&gt;Ryan W.&lt;/li&gt;
-&lt;li&gt;James&lt;/li&gt;
-&lt;li&gt;Pranav&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;controls:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Controls&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Brandon&lt;/li&gt;
-&lt;li&gt;Charlotta&lt;/li&gt;
-&lt;li&gt;Kristen&lt;/li&gt;
-&lt;li&gt;Joseph W.&lt;/li&gt;
-&lt;li&gt;Madison&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;drive-systems:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Drive Systems&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Riley&lt;/li&gt;
-&lt;li&gt;Connor F.&lt;/li&gt;
-&lt;li&gt;Jacob O.&lt;/li&gt;
-&lt;li&gt;Darby&lt;/li&gt;
-&lt;li&gt;Caitlin&lt;/li&gt;
-&lt;li&gt;Caden&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;functions:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Functions&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ella&lt;/li&gt;
-&lt;li&gt;Connor W.&lt;/li&gt;
-&lt;li&gt;Duncan&lt;/li&gt;
-&lt;li&gt;Claire&lt;/li&gt;
-&lt;li&gt;Curtis&lt;/li&gt;
-&lt;li&gt;Lili&lt;/li&gt;
-&lt;li&gt;Eli&lt;/li&gt;
-&lt;li&gt;Charlie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;logistics:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Logistics&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cole&lt;/li&gt;
-&lt;li&gt;Annika&lt;/li&gt;
-&lt;li&gt;Ryan&lt;/li&gt;
-&lt;li&gt;Joseph&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;marketing:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Marketing&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Andrew&lt;/li&gt;
-&lt;li&gt;Laura&lt;/li&gt;
-&lt;li&gt;Ethan&lt;/li&gt;
-&lt;li&gt;Maia&lt;/li&gt;
-&lt;li&gt;Asa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;programming:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Programming&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Edoardo&lt;/li&gt;
-&lt;li&gt;Austin&lt;/li&gt;
-&lt;li&gt;Josh&lt;/li&gt;
-&lt;li&gt;Sandra&lt;/li&gt;
-&lt;li&gt;Wen&lt;/li&gt;
-&lt;li&gt;Tyler&lt;/li&gt;
-&lt;li&gt;Mac&lt;/li&gt;
-&lt;li&gt;Jade&lt;/li&gt;
-&lt;li&gt;John&lt;/li&gt;
-&lt;li&gt;Terik&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;wingnuts:8b2492a7c6a497005583787f9fba6f71&#34;&gt;Wingnuts&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Timothy&lt;/li&gt;
-&lt;li&gt;Alec&lt;/li&gt;
-&lt;li&gt;Ryan P&lt;/li&gt;
-&lt;li&gt;Lucas S&lt;/li&gt;
-&lt;li&gt;Luke W&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>localhost/posts/2016/10-12-team-announcements/</guid>
+      <description>Thank you to everyone that applied to be on the team and attended our Skills Assessment on Monday Night. Our first official all-team meeting is Wednesday, 10/12/16 from 6-9pm in the 600 Wing. Enter through the 600 wing side door. The front doors to the school will not be open.
+For a description of sub-teams, click on this link: Sub-Team Descriptions and Next Steps.
+For questions, please contact one of our coaches Luke Glassett, Kurt Schmidt, or Kim Hansen</description>
     </item>
     
     <item>
       <title>Upcoming Events</title>
-      <link>https://stormbots.github.io/posts/2016-09-22-upcoming-events/</link>
+      <link>localhost/posts/2016/09-22-upcoming-events/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2016-09-22-upcoming-events/</guid>
-      <description>
-
-&lt;h1 id=&#34;tonight:e3f5b7a3a39c45c3b2a6735608faddec&#34;&gt;Tonight&lt;/h1&gt;
-
-&lt;p&gt;Make sure you have signed-in.&lt;/p&gt;
-
-&lt;p&gt;Girls - if you want to participate in Girls Generation on Oct 15, sign-up on that sheet too.&lt;/p&gt;
-
-&lt;p&gt;Potential mentors - Please fill out a Mentor Interest sheet.&lt;/p&gt;
-
-&lt;p&gt;All are Strongly encouraged to complete the application tonight. Link can be found on our website at www.stormbots.com.&lt;/p&gt;
-
-&lt;h3 id=&#34;wednesday-september-28th-6pm-girls-only:e3f5b7a3a39c45c3b2a6735608faddec&#34;&gt;Wednesday, September 28th, 6PM - Girls only&lt;/h3&gt;
-
-&lt;p&gt;First Girls Generation Practice
-Enter through the 600 wing door
-Additional practices times to be determined.&lt;/p&gt;
-
-&lt;h3 id=&#34;friday-september-30th-5pm:e3f5b7a3a39c45c3b2a6735608faddec&#34;&gt;Friday, September 30th, 5PM&lt;/h3&gt;
-
-&lt;p&gt;Deadline to apply to be on the team.
-Note the time, 5pm.
-Application link can be found our &lt;a href=&#34;./&#34;&gt;Stormbots.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;monday-october-3rd-6pm-in-the-600-wing:e3f5b7a3a39c45c3b2a6735608faddec&#34;&gt;Monday, October 3rd, 6PM, in the 600 wing&lt;/h3&gt;
-
-&lt;p&gt;All students and potential mentors need to attend.
-Enter through the 600 wing door&lt;/p&gt;
-
-&lt;h3 id=&#34;friday-october-7th:e3f5b7a3a39c45c3b2a6735608faddec&#34;&gt;Friday, October 7th&lt;/h3&gt;
-
-&lt;p&gt;Sub-teams will be announced.&lt;/p&gt;
-
-&lt;p&gt;If selected to be on the team:
-- Team Meeting - Wednesday, October 12th, 6PM
-- Parent and Team Meeting, Wednesday, October 19th, 6PM
-- Pay $35 ASB Activity Fee online (need an ASB card to do this) and - $165 Fair Share Fee - will be explained on &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;19&lt;/sub&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;girls-generation-october-15th:e3f5b7a3a39c45c3b2a6735608faddec&#34;&gt;Girls Generation - October 15th&lt;/h1&gt;
-
-&lt;p&gt;Will be at at Catlin Gabel - Girls Only&lt;/p&gt;
-
-&lt;p&gt;Specific details about the event will be communicated later to those who are attending.&lt;/p&gt;
-</description>
+      <guid>localhost/posts/2016/09-22-upcoming-events/</guid>
+      <description>Tonight Make sure you have signed-in.
+Girls - if you want to participate in Girls Generation on Oct 15, sign-up on that sheet too.
+Potential mentors - Please fill out a Mentor Interest sheet.
+All are Strongly encouraged to complete the application tonight. Link can be found on our website at www.stormbots.com.
+Wednesday, September 28th, 6PM - Girls only First Girls Generation Practice Enter through the 600 wing door Additional practices times to be determined.</description>
     </item>
     
     <item>
       <title>Stormbot Sub-Team Descriptions</title>
-      <link>https://stormbots.github.io/posts/2016-10-5-subteam-descriptions/</link>
+      <link>localhost/posts/2016/10-5-subteam-descriptions/</link>
       <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2016-10-5-subteam-descriptions/</guid>
-      <description>
-
-&lt;h3 id=&#34;logistics-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Logistics Team&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for team budget, inventory control, robot parts organization and ordering, and event logistics (ie competitions). It is an excellent fit for someone looking to learn business skills as well as some technical skills.&lt;/p&gt;
-
-&lt;h3 id=&#34;marketing-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Marketing Team&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for managing our team image and getting the word out about us through social and traditional media. It is an excellent fit for someone looking to learn or use their marketing and business skills in a real life application.&lt;/p&gt;
-
-&lt;h3 id=&#34;competitions-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Competitions Team&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for creating and managing our excellence during robotics competitions. The team will help create our robot strategy, game strategy, and scouting process. In addition, this team leads our efforts to earn awards at the competitions. This team is a potential fit for a wide range of skills.&lt;/p&gt;
-
-&lt;h3 id=&#34;wingnuts-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Wingnuts Team&lt;/h3&gt;
-
-&lt;p&gt;Our most unique team and a true competitive advantage versus all other robotics clubs. This team is responsible for leading our safety culture, building and mobilization of our competition “pit”, and building field elements for robot practice.&lt;/p&gt;
-
-&lt;h3 id=&#34;drive-systems-team-not-the-drive-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Drive Systems Team – not the “Drive Team”&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for designing AND building the base of our robot and the wheels and gears that make it go. This team needs students who want to design using CAD and then use machine shop tools to create their design.&lt;/p&gt;
-
-&lt;h3 id=&#34;functions-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Functions Team&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for designing and building the various parts of the robot that manipulate, shoot, or otherwise make things happen with game pieces. This team needs students who want to design using CAD and then use machine shop tools to create their design.&lt;/p&gt;
-
-&lt;h3 id=&#34;controls-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Controls Team&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for designing AND building the electrical part of the robot, including the onboard computer, air systems, motor drivers, and wiring all this together.
-&lt;/p&gt;
-
-&lt;h3 id=&#34;programming-team:7501d5aa80550b28555add48d5c6e362&#34;&gt;Programming Team&lt;/h3&gt;
-
-&lt;p&gt;This team is responsible for creating the programming code that makes the robot perform all the required functions. Students will learn and use programming skills and scientific analysis to determine the right programming for the robot to perform autonomous and driver operated tasks.&lt;/p&gt;
-</description>
+      <guid>localhost/posts/2016/10-5-subteam-descriptions/</guid>
+      <description>Logistics Team This team is responsible for team budget, inventory control, robot parts organization and ordering, and event logistics (ie competitions). It is an excellent fit for someone looking to learn business skills as well as some technical skills.
+Marketing Team This team is responsible for managing our team image and getting the word out about us through social and traditional media. It is an excellent fit for someone looking to learn or use their marketing and business skills in a real life application.</description>
     </item>
     
     <item>
       <title>We won a blue banner!</title>
-      <link>https://stormbots.github.io/posts/2016-07-21-blue-banner/</link>
+      <link>localhost/posts/2016/07-21-blue-banner/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2016-07-21-blue-banner/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/2016-season/2016-blue-banner.jpg&#34; alt=&#34;blue banner&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After five hours of watching our robots battle it out, we traversed our way in victory&lt;/p&gt;
-</description>
+      <guid>localhost/posts/2016/07-21-blue-banner/</guid>
+      <description>After five hours of watching our robots battle it out, we traversed our way in victory</description>
     </item>
     
     <item>
       <title>Calendar</title>
-      <link>https://stormbots.github.io/calendar/</link>
+      <link>localhost/calendar/</link>
       <pubDate>Fri, 19 Feb 2016 02:58:33 -0800</pubDate>
       
-      <guid>https://stormbots.github.io/calendar/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=slmntckf7g570g5dn0pohlfkek%40group.calendar.google.com&amp;ctz=America/Los_Angeles&amp;showTitle=0&#34; style=&#34;border: 0&#34; width=&#34;100%&#34; height=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
+      <guid>localhost/calendar/</guid>
+      <description> </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://stormbots.github.io/about/</link>
+      <link>localhost/about/</link>
       <pubDate>Fri, 19 Feb 2016 01:50:38 -0800</pubDate>
       
-      <guid>https://stormbots.github.io/about/</guid>
-      <description>&lt;p&gt;Hello there. We&amp;rsquo;re the stormbots.&lt;/p&gt;
-</description>
+      <guid>localhost/about/</guid>
+      <description>Hello there. We&amp;rsquo;re the stormbots.</description>
     </item>
     
     <item>
       <title>Press Fitting Bearings with Dry Ice</title>
-      <link>https://stormbots.github.io/posts/2016-02-14-bearing-press-fit/</link>
+      <link>localhost/posts/2016/02-14-bearing-press-fit/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2016-02-14-bearing-press-fit/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/vjVKM466EEE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <guid>localhost/posts/2016/02-14-bearing-press-fit/</guid>
+      <description> </description>
     </item>
     
     <item>
       <title>Kickoff!</title>
-      <link>https://stormbots.github.io/posts/2016-01-09-kickoff/</link>
+      <link>localhost/posts/2016/01-09-kickoff/</link>
       <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2016-01-09-kickoff/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/2016-01-09-kickoff/sidebyside.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/2016-01-09-kickoff/sidebyside2.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./images/2016-01-09-kickoff/sidebyside3.jpg&#34; alt=&#34; &#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>localhost/posts/2016/01-09-kickoff/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Build Season Clock</title>
-      <link>https://stormbots.github.io/posts/2015-01-03-build-season-clock/</link>
+      <link>localhost/posts/2015/2015-01-03-build-season-clock/</link>
       <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://stormbots.github.io/posts/2015-01-03-build-season-clock/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./images/build-season-clock.jpg&#34; alt=&#34;Build Season Clock&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Just in time for the 2015 kickoff, we unveil our new invention: A build season clock. This clock is precisely gear to make 1 turn over a 6 week period. When the clock strikes midnight, it&amp;rsquo;s time to bag the robot and pack it in.&lt;/p&gt;
-</description>
+      <guid>localhost/posts/2015/2015-01-03-build-season-clock/</guid>
+      <description>Just in time for the 2015 kickoff, we unveil our new invention: A build season clock. This clock is precisely gear to make 1 turn over a 6 week period. When the clock strikes midnight, it&amp;rsquo;s time to bag the robot and pack it in.</description>
     </item>
     
   </channel>
