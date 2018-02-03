@@ -1,33 +1,5 @@
-<table border="0" style="margin: 20px">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-      <a href="{{ .Get 4 }}"><img style="text-align: left" src="/images/partners/2016/{{ .Get 0 }}.png"/> </td>
-      <td>
+{{ $logodir := .Site.Data.Partners.LogoDir }}
 
-      <h1 style="text-align: center">
-        {{ .Get 0 | title }}
-      </h1>
-
-      <h1 style="text-align: center">
-        {{ .Get 2 }}
-      </h1>
-
-      <h1 style="text-align: center">
-        {{ .Get 1 }}
-      </h1>
-
-  </tbody>
-</table>
-</table>
-
-    <br />
-    <h3 style= "text-align: center">
-    {{ .Get 3 }}
-    </h3>
+{{ range $partner := (where .Site.Data.Partners.List "id" (.Get 0) ) }}
+{{ partial "partner" (dict "logodir" $logodir "partner" $partner) }}
+{{ end }}

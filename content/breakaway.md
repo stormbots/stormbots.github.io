@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2010"
 title = "FIRST Breakaway: 2010"
 type = "about"

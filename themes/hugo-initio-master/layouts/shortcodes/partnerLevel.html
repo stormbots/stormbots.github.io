@@ -1,3 +1,5 @@
-{{range where .Page.Site.Data.Partners.List "level" "eq" (.Get 0) }}
-  {{partial "partner.html" .}}
-{{end}}
+{{ $logodir := .Site.Data.Partners.LogoDir }}
+
+{{ range $partner := (where .Site.Data.Partners.List "level" (.Get 0) ) }}
+{{ partial "partner" (dict "logodir" $logodir "partner" $partner) }}
+{{ end }}

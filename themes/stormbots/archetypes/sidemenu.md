@@ -1,4 +1,3 @@
 +++
-sidemenu = "true"
 description = ""
 +++

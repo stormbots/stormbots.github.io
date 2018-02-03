@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Stormbots in 2017"
 title = "FIRST Steamworks: 2017"
 type = "about"
