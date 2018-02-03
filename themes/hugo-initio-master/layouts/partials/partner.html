@@ -2,20 +2,20 @@
 
 <table>
 <tr>
-  <td>
-    <a href="{{ .url }}">
-      <img style="text-align: left" src="{{.Site.Data.Partners.LogiDir}}/{{ .logo }}.png"/>
+  <td>    
+    <a href="{{ .partner.url }}">
+      <img src="{{ .logodir }}/{{ .partner.logo }}" />
     </a>
   </td>
   <td>
-    <a href="{{ .url }}">
-      {{.name}}
+    <a href="{{ .partner.url }}">
+      {{.partner.name}}
     </a>
   </td>
   <td>
-    {{.desc}}
+    {{.partner.desc}}
     <br/>
-    Sponsor for {{.years }}
+    Sponsor for {{.partner.years }}
   </td>
 </tr>
 </table>

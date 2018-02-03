@@ -6,8 +6,11 @@
   "cast" the input value from (.Get 0) to a number, and then insert it into an
   array using the slice operator, _then_ we can use it to check for an intersect.
 */}}
+
+{{ $logodir := .Site.Data.Partners.LogoDir }}
+
 {{ $year := (slice (.Get 0|float) ) }}
 {{ $partners := where .Site.Data.Partners.List "years" "intersect" $year }}
-{{ range ($partners) }}
-{{ partial "partner" . }}
+{{ range $partner := ($partners) }}
+{{ partial "partner" (dict "logodir" $logodir "partner" $partner) }}
 {{end}}

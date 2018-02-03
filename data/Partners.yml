@@ -15,7 +15,7 @@
 #
 #
 
-LogoDir: "/images/partners/"
+LogoDir: "/images/partners/2016"
 List:
 - id: platt
   name: Platt Electric Supply
@@ -55,7 +55,7 @@ List:
   test: Hello
   desc: >
      Providing both financial support as well as the literal roof over our heads.
-     And there's the whole education thing, which is kind of a big deal. 
+     And there's the whole education thing, which is kind of a big deal.
 
 - id: hp
   name: Hewlett-Packard
