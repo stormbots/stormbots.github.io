@@ -14,7 +14,12 @@ git clone --depth 1 --branch master https://github.com/stormbots/stormbots.githu
 # This will update the `public` folder with the newest build generation
 bin/hugo.linux
 
-# TODO: Get commit date/time/hash to use as our deploy message
+# Generate a helpful commit message to better keep track of 
+# what's being deployed
+DATE=`date +"%Y-%b-%d %H:%M"`
+HASH=`git log --pretty=format:'%h' -n 1`
+DESC=`git log --pretty=format:'%s' -n 1`
+MESSAGE="$HASH $DATE $DESC"
 
 # Need to change directories. This will cause git commands to work on the `master` branch 
 # Containing the generated site, rather than the source code.
@@ -23,7 +28,7 @@ cd public
 	# Add all the changes to our deployed code
 	# TODO: auth using stormbotbot keys
 	git add .
-	git commit -m "Deploy XXXXXX from YYYY-MM-DD HH:MM"
+	git commit -m "Deploy $MESSAGE"
 	git push
 	
 cd ..
