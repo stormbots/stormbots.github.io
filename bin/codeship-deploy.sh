@@ -12,7 +12,10 @@ git clone --depth 1 --branch master https://github.com/stormbots/stormbots.githu
 
 # Build the project using hugo
 # This will update the `public` folder with the newest build generation
-bin/hugo.linux
+bin/hugo.linux  > hugo-build.log
+
+# Make sure that we actually successfully generated a site. If not, quit
+bin/validate.rb hugo-build.log || exit 1
 
 # Generate a helpful commit message to better keep track of 
 # what's being deployed
@@ -24,13 +27,12 @@ MESSAGE="$HASH $DATE $DESC"
 # Need to change directories. This will cause git commands to work on the `master` branch 
 # Containing the generated site, rather than the source code.
 cd public
-	
+	exit(0)
 	# Add all the changes to our deployed code
 	# TODO: auth using stormbotbot keys
 	git add .
 	git commit -m "Deploy $MESSAGE"
 	git push
-	
 cd ..
 
 # TODO: We need to detect if we _have_ changes. Things like adjusting build scripts may not change generated code, so 
