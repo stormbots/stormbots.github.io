@@ -1,5 +1,11 @@
 #!/usr/bin/env ruby
 
+# This script is intended to parse and verify the output of hugo's build system 
+# and report whether or not the build was successful. 
+# This is only required currently since Hugo itself does not provide a mechanism
+# to otherwise get this information.
+
+
 # Shorthand regex to mark the date which is prented next to errors
 date = /\d{4}\/\d{2}\/\d{2} \d{2}:\d{2}:\d{2}/
 
