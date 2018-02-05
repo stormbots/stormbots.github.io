@@ -2,16 +2,51 @@
 
 # This script controls the deployment of code for the site. 
 # This should generally only be run by a continuous integration system, 
-# which will validate the build process and deploy it automatically. 
+# which will validate the build process and deploy it automatically.
+
+# However, it will also work on a standard UNIX system assuming you're set up right.
 
 
 # Make sure we always run from project root
 cd bin 2>/dev/null && cd ..
 
-# Clone the master branch into the public folder so we can look at it later
-#   --depth 1 is a special command that only gets the most recent state, and ignores 
-#   All previous ones. This just makes it faster and reduces downloading of old/deleted files
-git clone --depth 1 --branch master https://github.com/stormbots/stormbots.github.io.git public
+# GITHUB_AUTH_TOKEN is an environmental variable configured in our deployment tools. 
+# We don't want this saved as part of the repo, since it's effectively a full access password
+# to the git repositories StormbotBot can access. Really don't want to lose it!
+# If we don't have this environmental variable, then the script will just prompt us when we 
+# try to run git commands
+if [ -z "$GITHUB_AUTH_TOKEN" ] ; then 
+	echo "-------------------------------------------------------"
+	echo "Could not find GITHUB_AUTH_TOKEN in environment."
+	echo "User will need to provide authentication."
+	echo "-------------------------------------------------------"
+fi
+
+# We need to append the @ to our auth token if we use it since it acts as a username.
+# If it's blank, we can simpy type in credentials while running the script 
+[ -n "$GITHUB_AUTH_TOKEN" ] && GITHUB_AUTH_TOKEN=${GITHUB_AUTH_TOKEN}@
+
+# The URL for our git repo, plus or minus auth
+URL=https://${GITHUB_AUTH_TOKEN}github.com/stormbots/stormbots.github.io.git
+
+# All previous ones. This is not normally wanted, but for this case it just makes 
+# it faster and reduces downloading of old/deleted files. 
+
+# Now we do a git clone of our deployed master output code so we can update it. 
+# This process normally consists of a single command:
+#   git clone --depth 1 --branch master public
+# This more complicated process is needed to avoid saving our GITHUB_AUTH_TOKEN token as part of the 
+# repository configuration, making it not-secret anymore.
+mkdir public
+cd public
+	git init
+	git pull --depth=1 $URL master
+cd .. 
+
+# The command `--depth 1` is a special flag that only gets files in the most recent state, 
+# as of the last commit to master.
+# This is typically undesirable for normal repos, but in this case we only care about this data
+# anyway, and our branch is likely full of lots of old photos which we don't care to deal with.
 
 # Note, at this point we have two "nested" repositories! 
 # Be mindful of the directory you're in.  If you cd below `public`, then git commands will
@@ -32,18 +67,31 @@ HASH=`git log --pretty=format:'%h' -n 1`
 DESC=`git log --pretty=format:'%s' -n 1`
 MESSAGE="$HASH $DATE $DESC"
 
+# Make sure we're actually working in the `production` branch
+# We normally would not want to deploy anything from other branches
+BRANCH=`git rev-parse --abbrev-ref HEAD`
+if [ "production" -ne "$BRANCH" ] ; then
+	echo "-------------------------------------------------------"
+	echo "Build was successful, but stubbornly refusing to deploy"
+	echo "from any branch but 'production'"
+	echo "-------------------------------------------------------"
+	exit 0
+fi
+
 # Need to change directories. This will cause git commands to work on the `master` branch 
 # Containing the generated site, rather than the source code.
 cd public
 	# Check for differences in our newly built repository
 	if [ -z "$(git status --porcelain)" ]; then
+		echo "------------------------------------------------------"
 		echo "Build was successful, but no content changes were made";
+		echo "------------------------------------------------------"
 		exit 0
-	fi	
-		
+	fi
+	
+	exit 0
 	# Add all the changes to our deployed code
-	# TODO: auth using stormbotbot keys
 	git add .
 	git commit -m "Deploy $MESSAGE"
-	git push
+	git push $URL
 cd ..
