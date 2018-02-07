@@ -2,9 +2,8 @@
 
 
 ### Site Build Status
-[![wercker status](https://app.wercker.com/status/2cdeda6ada12d1bce00f402ba7207ca4/s/master "wercker status")](https://app.wercker.com/project/bykey/2cdeda6ada12d1bce00f402ba7207ca4) 
 
-[![wercker status](https://app.wercker.com/status/2cdeda6ada12d1bce00f402ba7207ca4/m/master "wercker status")](https://app.wercker.com/project/bykey/2cdeda6ada12d1bce00f402ba7207ca4)
+Codeship Status for stormbots/stormbots.github.io](https://app.codeship.com/projects/35f14ee0-eb56-0135-6700-5e0b543b6c78/status?branch=production)](https://app.codeship.com/projects/270216)
 
 # Creating new posts
 Creating new posts is very simple! It just consists of creating a text file in `content/posts/`. 

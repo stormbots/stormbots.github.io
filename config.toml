@@ -2,7 +2,7 @@ baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Skyview Stormbots"
 theme = "hugo-initio-master"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = ""
@@ -38,7 +38,7 @@ publishDir = "docs"
 
 [[menu.main]]
     name = "Posts"
-    url = "/content/posts/2016/test.md"
+    url = "/posts/"
     weight = 10
 
 [[menu.main]]

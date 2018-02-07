@@ -15,11 +15,8 @@
 #
 #
 
-LogoDir: "/images/partners/"
+LogoDir: "/images/partners/2016"
 List:
-
-  Current
-  
 - id: platt
   name: Platt Electric Supply
   from: 2008-Current
@@ -57,7 +54,8 @@ List:
   logo: vps.gif
   test: Hello
   desc: >
-      I have an "id", "name", "from", "years", "level", "logo", "test" and "desc"!
+     Providing both financial support as well as the literal roof over our heads.
+     And there's the whole education thing, which is kind of a big deal.
 
 - id: hp
   name: Hewlett-Packard
@@ -121,18 +119,9 @@ List:
      stepped in. Now we can afford to eat in our late night
      building sprees
 
-Past
-
 - id: usdigital
- name: US Digital
- from: 2015-2015
- years: [ 2015 ]
- level: hurricane
- logo: usdigital.jpg
-
-- id: tyler
- name: Tyler
- from: 2008-2011
- years: [2008, 2009, 2010, 2011, 2015 ]
- level: hurricane
- logo: tyler.jpg
+  name: US Digital
+  from: 2015-2015
+  years: [ 2015 ]
+  level: hurricane
+  logo: usdigital.jpg
