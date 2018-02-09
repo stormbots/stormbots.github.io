@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_media on Skyview Stormbots</title>
-    <link>http://localhost:1313/_media/</link>
+    <link>http://stormbots.github.io/_media/</link>
     <description>Recent content in _media on Skyview Stormbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/_media/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://stormbots.github.io/_media/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photos</title>
-      <link>http://localhost:1313/_media/photos/</link>
+      <link>http://stormbots.github.io/_media/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_media/photos/</guid>
+      <guid>http://stormbots.github.io/_media/photos/</guid>
       <description> Photos </description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>http://localhost:1313/_media/videos/</link>
+      <link>http://stormbots.github.io/_media/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_media/videos/</guid>
+      <guid>http://stormbots.github.io/_media/videos/</guid>
       <description> Videos </description>
     </item>
     

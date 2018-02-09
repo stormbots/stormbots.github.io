@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Skyview Stormbots</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://stormbots.github.io/posts/</link>
     <description>Recent content in Posts on Skyview Stormbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://stormbots.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Document!</title>
-      <link>http://localhost:1313/posts/2016/test/</link>
+      <link>http://stormbots.github.io/posts/2016/test/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/test/</guid>
+      <guid>http://stormbots.github.io/posts/2016/test/</guid>
       <description>Heading 1 Heading 2 Heading 3 This text is red! This text is blue! This text is black! This text is green! This text is purple! This text is orange! This text is brown This text is also black! This text is aqua This text is silver This text is maroon This is a paragraph. This is a link!!! This is the bold part of the paragraph. This is the italicized part of the paragraph This is the strikedthrough part of the paragraph.</description>
     </item>
     
     <item>
       <title>Stormbots Team List for 2016-2017</title>
-      <link>http://localhost:1313/posts/2016/10-12-team-announcements/</link>
+      <link>http://stormbots.github.io/posts/2016/10-12-team-announcements/</link>
       <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/10-12-team-announcements/</guid>
+      <guid>http://stormbots.github.io/posts/2016/10-12-team-announcements/</guid>
       <description>Thank you to everyone that applied to be on the team and attended our Skills Assessment on Monday Night. Our first official all-team meeting is Wednesday, 10/12/16 from 6-9pm in the 600 Wing. Enter through the 600 wing side door. The front doors to the school will not be open.
 For a description of sub-teams, click on this link: Sub-Team Descriptions and Next Steps.
 For questions, please contact one of our coaches Luke Glassett, Kurt Schmidt, or Kim Hansen</description>
@@ -33,10 +33,10 @@ For questions, please contact one of our coaches Luke Glassett, Kurt Schmidt, or
     
     <item>
       <title>Upcoming Events</title>
-      <link>http://localhost:1313/posts/2016/09-22-upcoming-events/</link>
+      <link>http://stormbots.github.io/posts/2016/09-22-upcoming-events/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/09-22-upcoming-events/</guid>
+      <guid>http://stormbots.github.io/posts/2016/09-22-upcoming-events/</guid>
       <description>Tonight Make sure you have signed-in.
 Girls - if you want to participate in Girls Generation on Oct 15, sign-up on that sheet too.
 Potential mentors - Please fill out a Mentor Interest sheet.
@@ -46,29 +46,29 @@ Wednesday, September 28th, 6PM - Girls only First Girls Generation Practice Ente
     
     <item>
       <title>Stormbot Sub-Team Descriptions</title>
-      <link>http://localhost:1313/posts/2016/10-5-subteam-descriptions/</link>
+      <link>http://stormbots.github.io/posts/2016/10-5-subteam-descriptions/</link>
       <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/10-5-subteam-descriptions/</guid>
+      <guid>http://stormbots.github.io/posts/2016/10-5-subteam-descriptions/</guid>
       <description>Logistics Team This team is responsible for team budget, inventory control, robot parts organization and ordering, and event logistics (ie competitions). It is an excellent fit for someone looking to learn business skills as well as some technical skills.
 Marketing Team This team is responsible for managing our team image and getting the word out about us through social and traditional media. It is an excellent fit for someone looking to learn or use their marketing and business skills in a real life application.</description>
     </item>
     
     <item>
       <title>We won a blue banner!</title>
-      <link>http://localhost:1313/posts/2016/07-21-blue-banner/</link>
+      <link>http://stormbots.github.io/posts/2016/07-21-blue-banner/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/07-21-blue-banner/</guid>
+      <guid>http://stormbots.github.io/posts/2016/07-21-blue-banner/</guid>
       <description>After five hours of watching our robots battle it out, we traversed our way in victory</description>
     </item>
     
     <item>
       <title>WINNERS 2016 PHILOMATH COMPETITION!</title>
-      <link>http://localhost:1313/posts/2017/2016-mar-27-philomath-competition.md/text/</link>
+      <link>http://stormbots.github.io/posts/2017/2016-mar-27-philomath-competition.md/text/</link>
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2016-mar-27-philomath-competition.md/text/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2016-mar-27-philomath-competition.md/text/</guid>
       <description> WINNERS 2016 PHILOMATH COMPETITION! This weekend, the StormBots won:  Philomath Competition
  Quality Award sponsored by Motorola Solutions Foundation
  Industrial Safety Award sponsored by Underwriters Laboratories
@@ -77,57 +77,57 @@ Marketing Team This team is responsible for managing our team image and getting 
     
     <item>
       <title>Press Fitting Bearings with Dry Ice</title>
-      <link>http://localhost:1313/posts/2016/02-14-bearing-press-fit/</link>
+      <link>http://stormbots.github.io/posts/2016/02-14-bearing-press-fit/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/02-14-bearing-press-fit/</guid>
+      <guid>http://stormbots.github.io/posts/2016/02-14-bearing-press-fit/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Kickoff!</title>
-      <link>http://localhost:1313/posts/2016/01-09-kickoff/</link>
+      <link>http://stormbots.github.io/posts/2016/01-09-kickoff/</link>
       <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2016/01-09-kickoff/</guid>
+      <guid>http://stormbots.github.io/posts/2016/01-09-kickoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Build Season Clock</title>
-      <link>http://localhost:1313/posts/2015/2015-01-03-build-season-clock/</link>
+      <link>http://stormbots.github.io/posts/2015/2015-01-03-build-season-clock/</link>
       <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2015/2015-01-03-build-season-clock/</guid>
+      <guid>http://stormbots.github.io/posts/2015/2015-01-03-build-season-clock/</guid>
       <description>Just in time for the 2015 kickoff, we unveil our new invention: A build season clock. This clock is precisely gear to make 1 turn over a 6 week period. When the clock strikes midnight, it&amp;rsquo;s time to bag the robot and pack it in.</description>
     </item>
     
     <item>
       <title>FRC Kickoff - Saturday, January 3, 2015</title>
-      <link>http://localhost:1313/posts/2017/2014-nov-25-frc-kickoff/</link>
+      <link>http://stormbots.github.io/posts/2017/2014-nov-25-frc-kickoff/</link>
       <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2014-nov-25-frc-kickoff/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2014-nov-25-frc-kickoff/</guid>
       <description>FRC Kickoff - Saturday, January 3, 2015 FRC Kickoff marks the beginning of the design and build season. Teams have the opportunity to meet at &amp;ldquo;local&amp;rdquo; Kickoffs to compare notes, get ideas, make friends, find mentoring teams, learn the game, pick up the Kit of Parts, and get geared up for the exciting competition season.
 To find more information on the calendar competitions, facts for teams, surrogate kit pickup information, and more, visit usfirst.</description>
     </item>
     
     <item>
       <title>BunnyBots 2014</title>
-      <link>http://localhost:1313/posts/2017/2014-dec-1-bunnybots/</link>
+      <link>http://stormbots.github.io/posts/2017/2014-dec-1-bunnybots/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2014-dec-1-bunnybots/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2014-dec-1-bunnybots/</guid>
       <description>BunnyBots 2014 The annual BunnyBots competition is one of the highlights of the FRC off-season for 24 teams in the NW. It expands the boundaries of the 6-week build season to help make FIRST more of a year-round activity.
 See more at Bunny Bots website: Copyright © 2014 · Oregon FIRST Robotics</description>
     </item>
     
     <item>
       <title>Recent Announcements</title>
-      <link>http://localhost:1313/posts/2017/2014-sep-21-recent-announcements/</link>
+      <link>http://stormbots.github.io/posts/2017/2014-sep-21-recent-announcements/</link>
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2014-sep-21-recent-announcements/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2014-sep-21-recent-announcements/</guid>
       <description>Recent Announcements Stormbots Information Meeting StormBots Information Meeting Wednesday 9/24/14, 7:00-8:00 pm600 Wing (You can enter through 600 wing side door, from the teacher&amp;rsquo;s parking lot off of&amp;hellip;
  Posted Sep 21, 2014, 11:35 AM by Kim Hansen
  Untitled Post The StormBots will be in this year’s 2014 Mini-makers faire at OMSI in Portland! On Saturday September 13th and Sunday September 14th the StormBots will be manning a booth at the Mini-maker fair alongside team 1540, The Flaming Chickens, and team&amp;hellip;</description>
@@ -135,28 +135,28 @@ See more at Bunny Bots website: Copyright © 2014 · Oregon FIRST Robotics</desc
     
     <item>
       <title>Competition Season Overview</title>
-      <link>http://localhost:1313/posts/2017/2014-may-22-competition-season-overview/</link>
+      <link>http://stormbots.github.io/posts/2017/2014-may-22-competition-season-overview/</link>
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2014-may-22-competition-season-overview/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2014-may-22-competition-season-overview/</guid>
       <description>Competition Season Overview We competed in the Oregon City competition. We had some problems with our robot in the first few qualification matches, but the team worked together to solve them. After improving in the next few matches, we were selected to be on an alliance. Unfortunately, we lost our first semifinal round and were eliminated from the competition. We finished in 25th place out of 35 teams! Overall, we are proud of our efforts as a team and plan to do even better in our Wilsonville competition this weekend!</description>
     </item>
     
     <item>
       <title>Skyview StormBots Sponsor Night Will Be Rescheduled Due to Weather.</title>
-      <link>http://localhost:1313/posts/2017/2014-feb-5-2014-sponsor-night-reschedule/</link>
+      <link>http://stormbots.github.io/posts/2017/2014-feb-5-2014-sponsor-night-reschedule/</link>
       <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2014-feb-5-2014-sponsor-night-reschedule/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2014-feb-5-2014-sponsor-night-reschedule/</guid>
       <description>Skyview StormBots Sponsor Night Will Be Rescheduled Due to Weather. ~Thursday, February 6, 2014~</description>
     </item>
     
     <item>
       <title>Subteam Updates</title>
-      <link>http://localhost:1313/posts/2017/2014-feb-2-subteam-updates/</link>
+      <link>http://stormbots.github.io/posts/2017/2014-feb-2-subteam-updates/</link>
       <pubDate>Sun, 02 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2014-feb-2-subteam-updates/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2014-feb-2-subteam-updates/</guid>
       <description>Subteam Updates Controls
  Right now, we are setting up the motor controls so they are ready to be put on the board. This week, we hope to mount all the electronics on the board. So far, we have put the fans and fan guards on the motor controls.
  Research and Design
@@ -165,19 +165,19 @@ See more at Bunny Bots website: Copyright © 2014 · Oregon FIRST Robotics</desc
     
     <item>
       <title>(untitled)</title>
-      <link>http://localhost:1313/posts/2017/2013-oct-19-girls-generation/text/</link>
+      <link>http://stormbots.github.io/posts/2017/2013-oct-19-girls-generation/text/</link>
       <pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2013-oct-19-girls-generation/text/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2013-oct-19-girls-generation/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Girls&#39; Generation 2012</title>
-      <link>http://localhost:1313/posts/2017/2012-oct-14-girls-generation/</link>
+      <link>http://stormbots.github.io/posts/2017/2012-oct-14-girls-generation/</link>
       <pubDate>Sun, 14 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2012-oct-14-girls-generation/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2012-oct-14-girls-generation/</guid>
       <description>Girls&amp;rsquo; Generation 2012 The StormBots finished on the 2nd place alliance!
 Congratulations to Laurel, Tori, Becca, Matty and Sara!
 We want to thank the volunteers and parents who helped make this event a success.</description>
@@ -185,10 +185,10 @@ We want to thank the volunteers and parents who helped make this event a success
     
     <item>
       <title>Congradulations!</title>
-      <link>http://localhost:1313/posts/2017/2012-mar-12-autodesk-oregion-regional/</link>
+      <link>http://stormbots.github.io/posts/2017/2012-mar-12-autodesk-oregion-regional/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2012-mar-12-autodesk-oregion-regional/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2012-mar-12-autodesk-oregion-regional/</guid>
       <description>Congratulations! The StormBots tied for 3rd place at the 2012 Seattle FIRST Regional Competition!
 Competition was held at CenturyLink Field in Seattle. The StormBots won the Entrepreneur Award and a Pit Safety Award signed by Dean Kamen!
 Way to go StormBots!</description>
@@ -196,29 +196,29 @@ Way to go StormBots!</description>
     
     <item>
       <title>Robotics Story from March 10 at the 2012 Autodesk Oregon Regional Competition</title>
-      <link>http://localhost:1313/posts/2017/2012-mar-10-autodesk-regional/</link>
+      <link>http://stormbots.github.io/posts/2017/2012-mar-10-autodesk-regional/</link>
       <pubDate>Sat, 10 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2012-mar-10-autodesk-regional/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2012-mar-10-autodesk-regional/</guid>
       <description>Robotics Story from March 10 at the 2012 Autodesk Oregon Regional Competition  Written by: Jason Vilaysanh
  Sitting in the cheering crowd, anticipation flows through my body; the FRC Team 2811 Skyview Stormbot 4, affectionately nicknamed the “Linfiltrator 2811” after the basketball player Jeremy Lin, was about to compete. Amongst the rest of the audience at the 2012 Autodesk Oregon Regional, I cry out in excitement and joy. It would be our time to shine: we would show everyone what the outcome of our hard work would be.</description>
     </item>
     
     <item>
       <title>Portland and Seattle regionals Preparations</title>
-      <link>http://localhost:1313/posts/2017/2012-jan-15-portland-and-seattle-regionals-preperations/</link>
+      <link>http://stormbots.github.io/posts/2017/2012-jan-15-portland-and-seattle-regionals-preperations/</link>
       <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2012-jan-15-portland-and-seattle-regionals-preperations/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2012-jan-15-portland-and-seattle-regionals-preperations/</guid>
       <description>Portland and Seattle regionals Preparations We decided to build two robots this year for the Seattle and Portland regionals. That way, when it&amp;rsquo;s time to bag and tag the robot, we can continue working on the twin, looking for other problems to tweak. We made a shooter mechanism that is unique because it utilizes a rotating wheel to propel the ball ferociously but accurately. Our team also decided to program our robot to score points in autonomous mode, meaning the robot can score by itself.</description>
     </item>
     
     <item>
       <title>Meet Our Team! (2012)</title>
-      <link>http://localhost:1313/posts/2017/2012-jan-1-mentors-and-student-leaders/text/</link>
+      <link>http://stormbots.github.io/posts/2017/2012-jan-1-mentors-and-student-leaders/text/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2012-jan-1-mentors-and-student-leaders/text/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2012-jan-1-mentors-and-student-leaders/text/</guid>
       <description>Meet Our Team Mentors Basil Zhabko:
  I work for Columbia Ultimate, and I am Senior Software Engineer. This will be second season I have mentored for robotics. I like robotics because it is all about learning and knowledge sharing. I mentor for programming, and Competitive Intelligence sub-teams.
  Craig Boezwinkle: &amp;gt;I work for Western Integrated Technologies in Portland. We primarily build and sell hydraulic, pneumatic, and automation systems and components.</description>
@@ -226,47 +226,47 @@ Way to go StormBots!</description>
     
     <item>
       <title>BunnyBots 2011</title>
-      <link>http://localhost:1313/posts/2017/2011-dec-18-bunnybot/</link>
+      <link>http://stormbots.github.io/posts/2017/2011-dec-18-bunnybot/</link>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2011-dec-18-bunnybot/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2011-dec-18-bunnybot/</guid>
       <description>BunnyBots 2011 20 teams attended this year&amp;rsquo;s BunnyBot. Of those 20 teams, our Skyview robotics team took 11th Place in the final standings. Many of the team members who participated either worked on the robot (build team), asked other teams how they raise money (marketing team), and/or drove the robot (drive team). Our drivers were Misha, Kelson, Connor, and Thomas. At BunnyBot each team was pared up with another team.</description>
     </item>
     
     <item>
       <title>Stormbots Volunteer at  the Intel Oregon FIRST LEGO League Tournament</title>
-      <link>http://localhost:1313/posts/2017/2011-dec-5-lego-league-tournament/</link>
+      <link>http://stormbots.github.io/posts/2017/2011-dec-5-lego-league-tournament/</link>
       <pubDate>Mon, 05 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2011-dec-5-lego-league-tournament/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2011-dec-5-lego-league-tournament/</guid>
       <description>Stormbots Volunteer at the Intel Oregon FIRST LEGO League Tournament Over 300 students between the ages of 9 and 14 participated in the FLL Robotics tournament at Salmon Creek Elementary. December 3 - 4. Skyview stormbots helped organize and judge the competition involving Lego robots from over 40 teams. The team demonstrated its 2011 competition robot to inspire the younger students.</description>
     </item>
     
     <item>
       <title>The StormBots Sparkle at Girls Generation</title>
-      <link>http://localhost:1313/posts/2017/2011-nov-10/the-stormbots-sparkle-at-girls-generation/</link>
+      <link>http://stormbots.github.io/posts/2017/2011-nov-10/the-stormbots-sparkle-at-girls-generation/</link>
       <pubDate>Thu, 10 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2011-nov-10/the-stormbots-sparkle-at-girls-generation/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2011-nov-10/the-stormbots-sparkle-at-girls-generation/</guid>
       <description>The StormBots Sparkle at Girls Generation Remember remember the 13th of November!
 On Saturday the thirteenth, the &amp;ldquo;pretty in pink&amp;rdquo; side of the Stormbot&amp;rsquo;s team paraded to Catlin Gable for the first Pacific Northwest Girl&amp;rsquo;s Generation. Thirteen female robotics teams strutted their stuff with last seasons robots on the Breakaway field. Skyview&amp;rsquo;s girls sported hot pink shirts and comprised the largest group of girls of any team. The girls played an exciting game and even scored three goals in a 2.</description>
     </item>
     
     <item>
       <title>StormBots Dominate at Girls Generation 2011</title>
-      <link>http://localhost:1313/posts/2017/2011-oct-29-girls-generation/</link>
+      <link>http://stormbots.github.io/posts/2017/2011-oct-29-girls-generation/</link>
       <pubDate>Sat, 29 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2011-oct-29-girls-generation/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2011-oct-29-girls-generation/</guid>
       <description>StormBots Dominate at Girls Generation 2011 Skyview robotics team girls&amp;ndash;Leslie, Becca, Madeline, Lauren, Zoey, and Hsuan-Ting—took the team’s competition robot from last season to Catlin Gable School on October 29 for the 2nd Annual girls-only “Girls Generation Robotics Competition.” This competition hopes to inspire girls to take advantage of the opportunities through FIRST Robotics to get “hands-on” experience with technology. It gives them a slight “leg up” over their often more domineering male counterparts, and a chance to witness the fun of engineering for themselves.</description>
     </item>
     
     <item>
       <title>Capture the Bunny 2nd Place</title>
-      <link>http://localhost:1313/posts/2017/2011-dec-18/capture-the-bunny-2nd-place/</link>
+      <link>http://stormbots.github.io/posts/2017/2011-dec-18/capture-the-bunny-2nd-place/</link>
       <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2017/2011-dec-18/capture-the-bunny-2nd-place/</guid>
+      <guid>http://stormbots.github.io/posts/2017/2011-dec-18/capture-the-bunny-2nd-place/</guid>
       <description>Capture the Bunny 2nd Place  Posted December 18, 2010
  A solid team effort captures 2nd place at the 2010 BunnyBot competition at Catlin Gable School in Portland. Carrying over the pink theme in shirt design, the team&amp;rsquo;s robust design, flawless programming and outstanding team work enabled them to survive 8 bolt-rattling rounds to make it to the championship finale.
 Other robots were knocked over or had large and small pieces of their &amp;lsquo;bots fly off during intense clashes during play.</description>
@@ -274,10 +274,10 @@ Other robots were knocked over or had large and small pieces of their &amp;lsquo
     
     <item>
       <title>StormBots Strike at 2010 PDX Reigonal</title>
-      <link>http://localhost:1313/posts/2010/2010-mar-01/stormbots-strike-at-2010-pdx-regional/</link>
+      <link>http://stormbots.github.io/posts/2010/2010-mar-01/stormbots-strike-at-2010-pdx-regional/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2010/2010-mar-01/stormbots-strike-at-2010-pdx-regional/</guid>
+      <guid>http://stormbots.github.io/posts/2010/2010-mar-01/stormbots-strike-at-2010-pdx-regional/</guid>
       <description>StormBots Strike at 2010 PDX Reigonal March was the final countdown! The robotics build season amounted up to one peaking moment, the Autodesk Oregon Regional FIRST competition at the Memorial Coliseum. 30 hours of competition over three days were jam packed with spirited teams sporting their colors, mascots dancing to the Macarena, and robots in action battling it out on the field. A total of 104 fierce rounds were played, each consisting of 3 teams on a red alliance and 3 on a blue alliance.</description>
     </item>
     
