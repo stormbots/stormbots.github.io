@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Skyview Stormbots</title>
-    <link>http://stormbots.github.io/tags/video/</link>
+    <link>/tags/video/</link>
     <description>Recent content in Video on Skyview Stormbots</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Feb 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://stormbots.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Press Fitting Bearings with Dry Ice</title>
-      <link>http://stormbots.github.io/posts/2016/02-14-bearing-press-fit/</link>
+      <link>/posts/2016/02-14-bearing-press-fit/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://stormbots.github.io/posts/2016/02-14-bearing-press-fit/</guid>
+      <guid>/posts/2016/02-14-bearing-press-fit/</guid>
       <description>   </description>
     </item>
     
