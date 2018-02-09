@@ -75,7 +75,12 @@ MESSAGE="$HASH $DATE $DESC"
 
 # Make sure we're actually working in the `production` branch
 # We normally would not want to deploy anything from other branches
-BRANCH=$(git rev-parse --abbrev-ref HEAD)
+if [ -z "$CI_BRANCH" ] ; then
+	BRANCH=$CI_BRANCH
+else
+	BRANCH=$(git rev-parse --abrev-ref HEAD)
+fi
+
 if [ "production" != "$BRANCH" ] ; then
 	echo "-------------------------------------------------------"
 	echo "Build was successful, but stubbornly refusing to deploy"
