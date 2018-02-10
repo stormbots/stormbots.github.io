@@ -100,7 +100,6 @@ cd public
 		exit 0
 	fi
 
-	exit 0
 	# Add all the changes to our deployed code
 	git add .
 	git commit -m "Deploy $MESSAGE"
