@@ -75,7 +75,7 @@ MESSAGE="$HASH $DATE $DESC"
 
 # Make sure we're actually working in the `production` branch
 # We normally would not want to deploy anything from other branches
-if [ -z "$CI_BRANCH" ] ; then
+if [ ! -z "$CI_BRANCH" ] ; then
 	BRANCH=$CI_BRANCH
 else
 	BRANCH=$(git rev-parse --abrev-ref HEAD)
