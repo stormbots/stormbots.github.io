@@ -95,10 +95,12 @@ cd public
 	# Check for differences in our newly built repository
 	if [ -z "$(git status --porcelain)" ]; then
 		echo "------------------------------------------------------"
-		echo "Build was successful, but no content changes were made";
+		echo "Build was successful, but no content changes were made"
 		echo "------------------------------------------------------"
 		exit 0
 	fi
+
+	echo "DEPLOYING..."
 
 	# Add all the changes to our deployed code
 	git add .

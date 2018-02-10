@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Skyview Stormbots"
 theme = "hugo-initio-master"
@@ -50,6 +50,21 @@ publishDir = "public"
     name = "Media"
     url = "/media/"
     weight = 20
+    identifier = "media"
+
+[[menu.main]]
+  name = "Photos"
+  url = "/media/photos"
+  weight = 20
+  identifier = "photos"
+  parent = "media"
+
+[[menu.main]]
+  name = "Videos"
+  url = "/media/videos"
+  weight = 20
+  identifier = "videos"
+  parent = "media"
 
 [[menu.main]]
     name = "Calendar"
