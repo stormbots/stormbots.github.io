@@ -37,6 +37,10 @@ URL=https://${GITHUB_AUTH_TOKEN}github.com/stormbots/stormbots.github.io.git
 #   git clone --depth 1 --branch master public
 # This more complicated process is needed to avoid saving our GITHUB_AUTH_TOKEN token as part of the
 # repository configuration, making it not-secret anymore.
+echo "-------------------------------------------------------"
+echo "Checking out master into 'public' directory."
+echo "-------------------------------------------------------"
+
 mkdir public
 cd public
 	git init
@@ -52,6 +56,10 @@ cd ..
 # Be mindful of the directory you're in.  If you cd below `public`, then git commands will
 # work in the `master` branch (containing the generated site) _not_ the source code.
 
+echo "-------------------------------------------------------"
+echo "Using hugo to build site."
+echo "-------------------------------------------------------"
+
 # Build the project using hugo
 # This will update the `public` folder with the newest build generation
 if [ "$(uname)" == "Darwin" ]; then
@@ -61,6 +69,10 @@ elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
 elif [ "$(expr substr $(uname -s) 1 10)" == "MINGW64_NT" ]; then
 	bin/hugo.exe > hugo-build.log
 fi
+
+echo "-------------------------------------------------------"
+echo "Validating..."
+echo "-------------------------------------------------------"
 
 # Make sure that we actually successfully generated a site. If not, quit.
 bin/validate.rb hugo-build.log || exit 1
@@ -100,7 +112,9 @@ cd public
 		exit 0
 	fi
 
-	echo "DEPLOYING..."
+	echo "-------------------------------------------------------"
+	echo "Deploying changes to master branch."
+	echo "-------------------------------------------------------"
 
 	# Add all the changes to our deployed code
 	git add .
