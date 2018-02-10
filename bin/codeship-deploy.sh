@@ -24,7 +24,7 @@ fi
 
 # We need to append the @ to our auth token if we use it since it acts as a username.
 # If it's blank, we can simpy type in credentials while running the script
-[ -n "$GITHUB_AUTH_TOKEN" ] && GITHUB_AUTH_TOKEN=${GITHUB_AUTH_TOKEN}@
+[ -n "$GITHUB_AUTH_TOKEN" ] && GITHUB_AUTH_TOKEN="${GITHUB_AUTH_TOKEN}@"
 
 # The URL for our git repo, plus or minus auth
 URL=https://${GITHUB_AUTH_TOKEN}github.com/stormbots/stormbots.github.io.git
