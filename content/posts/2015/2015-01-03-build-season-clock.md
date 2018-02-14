@@ -2,6 +2,9 @@
 date: 2015-01-03
 title: Build Season Clock
 season: 2015
+categories:
+  - media
+  - photo
 ---
 
 ![Build Season Clock](/images/build-season-clock.jpg)

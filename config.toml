@@ -54,14 +54,14 @@ publishDir = "public"
 
 [[menu.main]]
   name = "Photos"
-  url = "/media/photos"
+  url = "/categories/photo"
   weight = 20
   identifier = "photos"
   parent = "media"
 
 [[menu.main]]
   name = "Videos"
-  url = "/media/videos"
+  url = "/categories/video"
   weight = 20
   identifier = "videos"
   parent = "media"

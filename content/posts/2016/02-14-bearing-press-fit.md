@@ -2,9 +2,8 @@
 season: 2016
 date: 2016-02-16
 title: Press Fitting Bearings with Dry Ice
-tags:
-   - video
-   - build-log
-
+categories:
+  - media
+  - video
 ---
 {{< youtube vjVKM466EEE >}}
