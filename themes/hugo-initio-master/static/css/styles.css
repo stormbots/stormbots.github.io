@@ -586,6 +586,10 @@ img {
   padding-top: 20px;
   margin-bottom: 20px;
 }
+.entry-content img {
+  display: block;
+  margin: auto;
+}
 .meta-nav,
 .more-link {
   font-family: Georgia, serif;
