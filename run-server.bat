@@ -1,1 +1,1 @@
-bin/hugo.exe server -w --disableFastRender 
+bin\hugo.exe server -w --disableFastRender 
