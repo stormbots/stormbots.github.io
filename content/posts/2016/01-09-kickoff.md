@@ -2,10 +2,11 @@
 date: "2016-01-09"
 title: "Kickoff!"
 season: 2016
+categories:
+  - media
+  - photo
 ---
 
-![ ](/images/2016/01-09-kickoff/sidebyside.jpg)
+![ ](/images/KickOff/sidebyside2.jpg)
 
-![ ](/images/2016/01-09-kickoff/sidebyside2.jpg)
-
-![ ](/images/2016/01-09-kickoff/sidebyside3.jpg)
+![ ](/images/KickOff/sidebyside3.jpg)
