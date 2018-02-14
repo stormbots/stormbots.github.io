@@ -1,12 +1,14 @@
 {{ if eq (.Get 3) "left" }}
 <tr>
   <td>
+    <center>
     <a href="/{{ replace (.Get 0) " " "_" }}"><img style="text-align: left" src="/images/games/first{{ replace (.Get 0) " " "_" }}.png"/> </td>
+    </center>
   <td>
     <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
       First {{ .Get 0 | title }}: {{ .Get 1 }}
     </h1>
-    <p style="text-align: center">
+    <p style="text-align: center"> <font face="Helvetica">
     {{ .Get 2 }}
     <br />
     <a href="/{{ replace (.Get 0) " " "_" }}"><img style="text-align: right" src="/images/LearnMoreButton.png" width="200" height="40"/>
@@ -22,13 +24,15 @@
     <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
       First {{ .Get 0 | title }}: {{ .Get 1 }}
     </h1>
-    <p style="text-align: center">
+    <p style="text-align: center"> <font face="Helvetica">
     {{ .Get 2 }}
     <br />
     <a href="/{{ replace (.Get 0) " " "_" }}"><img style="text-align: right" src="/images/LearnMoreButton.png" width="200" height="40"/>
     </p>
   </td>
   <td>
+    <center>
     <a href="/{{ replace (.Get 0) " " "_" }}"><img style="text-align: left" src="/images/games/first{{ replace (.Get 0) " " "_" }}.png"/> </td>
+    </center>
 </tr>
 {{ end }}

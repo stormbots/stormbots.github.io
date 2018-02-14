@@ -45,6 +45,61 @@ publishDir = "public"
     name = "Games"
     url = "/games/"
     weight = 15
+    identifier = "games"
+
+    [[menu.main]]
+      name = "Games"
+      url = "/games/"
+      weight = 14
+      parent = "games"
+
+    [[menu.main]]
+      name = "FIRST Power Up"
+      url = "/power_up.md"
+      weight = 15
+      parent = "games"
+
+      [[menu.main]]
+        name = "FIRST Stronghold"
+        url = "/stronghold.md"
+        weight = 16
+        parent = "games"
+
+        [[menu.main]]
+          name = "FIRST Recycle Rush"
+          url = "/recycle_rush.md"
+          weight = 17
+          parent = "games"
+
+          [[menu.main]]
+            name = "FIRST Aerial Assist"
+            url = "/aerial_assist.md"
+            weight = 18
+            parent = "games"
+
+            [[menu.main]]
+              name = "FIRST Ultimate Ascent"
+              url = "/ultimate_ascent.md"
+              weight = 19
+              parent = "games"
+
+              [[menu.main]]
+                name = "FIRST Rebound Rumble"
+                url = "/rebound_rumble.md"
+                weight = 20
+                parent = "games"
+
+                [[menu.main]]
+                  name = "FIRST Logomotion"
+                  url = "/logomotion.md"
+                  weight = 21
+                  parent = "games"
+
+                  [[menu.main]]
+                    name = "FIRST Breakaway"
+                    url = "/breakaway.md"
+                    weight = 22
+                    parent = "games"
 
 [[menu.main]]
     name = "Media"

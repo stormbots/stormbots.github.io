@@ -1,6 +1,6 @@
 ---
 date: 2016-10-12
-title: Stormbots Team List for 2016-2017
+title: Stormbots Team List for 2017-2018
 season: 2016
 ---
 
@@ -10,73 +10,40 @@ Thank you to everyone that applied to be on the team and attended our Skills Ass
 For a description of sub-teams, click on this link:  Sub-Team Descriptions and Next Steps.
 
 For questions, please contact one of our coaches:
-[Luke Glassett](mailto:lucas.glassett@vansd.org),
-[Kurt Schmidt](kurt.schmidt@vansd.org),  or
-[Kim Hansen](mailto:khansen@vansd.org)
+[Luke Glassett](mailto:lucas.glassett@vansd.org) or
+[Kurt Schmidt](kurt.schmidt@vansd.org)
 
 Be sure to visit FIRST at http://www.firstinspires.org/ to learn more about this exciting program.
 
 ### Competitions
-- Emmett      
-- Bailey
-- Ryan St.
-- Ryan W.
-- James
-- Pranav
+- Joseph
+- Unknown
 
 ### Controls
-- Brandon
-- Charlotta
-- Kristen
-- Joseph W.
-- Madison
+- Unknown
 
 ### Frameworks
-- Riley
-- Connor F.
-- Jacob O.
-- Darby
-- Caitlin
-- Caden
+- Unknown
 
 ### Functions
-- Ella
-- Connor W.
-- Duncan
-- Claire
-- Curtis
-- Lili
-- Eli
-- Charlie
-
-### Logistics
-- Cole
-- Annika
-- Ryan
-- Joseph
+- Unknown
 
 ### Marketing
-- Andrew
 - Laura
-- Ethan
-- Maia
-- Asa
+- Maya
+- Lucas
+- Orion
+- Unknown
 
 ### Programming
-- Edoardo
-- Austin
-- Josh
-- Sandra
-- Wen
-- Tyler
-- Mac
-- Jade
-- John
 - Terik
+- Luke W.
+- Conner
+- Anika
+- Sage
+- Pranav
 
 ### Wingnuts
-- Gretta
-- Alec
-- Ryan P
-- Lucas S
-- Luke W
+- Ryan P.
+- William (Bill)
+- Unknown

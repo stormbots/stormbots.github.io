@@ -7,7 +7,7 @@ type = "about"
 
 <h1 style= "text-align: center"> <font face="Pullman"> Skyview Stormbots: 2811 </h1>
 
-<p style="font-size: 15"> <font face="gearhead"> FRC Team 2811 StormBots calls <a href="http://skyview.vansd.org/" target="_blank">Skyview High School</a> it's home base. Skyview is the Science, Mathematics and Technology (SMT) magnet of the Vancouver Public Schools and is a certified
+<p style="font-size: 15"> <font face="Helvetica"> FRC Team 2811 StormBots calls <a href="http://skyview.vansd.org/" target="_blank">Skyview High School</a> it's home base. Skyview is the Science, Mathematics and Technology (SMT) magnet of the Vancouver Public Schools and is a certified
 
 <a href="https://www.pltw.org/our-programs/pltw-engineering" target="_blank">Project Lead The Way: Pathway to Engineering</a> high school.  The team meets at Skyview High School 1300 NW 139th St., Vancouver, WA 98685. All are welcome to visit us but please contact
 
@@ -18,14 +18,14 @@ us first about your plans since our schedule varies based on seasonal events. Yo
 A team needs a lot of different types of talent to design, build, finance, document (video, web, CAD), organize, transport, promote team spirit, market, etc., it's not just about cutting metal
 
 and connecting wires. We have organized ourselves into various departs.
+<ul>
+  <li>We became a FIRST Robotics Competition team is 2008-2009, our rookie year. We had just 12 students.</li>
+  <li>2010, doubled in size to 24 students. Seniors: Kyle, Calvin, Keaton, Brandon, Peter, Eugene,&  Josh</li>
+  <li>In 2011, we grew to 34 students, one-third of whom are are girls. We also competed in two regional events for the first time. Seniors: Samantha, Aric, George, Dylan, Cameron, Chad, Cody & Ethan.</li>
+  <li>In 2012 we grew to 40+ students and got first place in the Girls Generation competition.  Seniors:  Cody, Tyler, Jeff (President), Ian, Leslie, Hsuan-Ting, Matt, and Jordan.</li>
+</ul>
 
-
-•We became a FIRST Robotics Competition team is 2008-2009, our rookie year. We had just 12 students.
-
-•In 2010, doubled in size to 24 students. Seniors: Kyle, Calvin, Keaton, Brandon, Peter, Eugene,&  Josh
-
-•In 2011, we grew to 34 students, one-third of whom are are girls. We also competed in two regional events for the first time. Seniors: Samantha, Aric, George, Dylan, Cameron, Chad, Cody & Ethan.  
-•In 2012 we grew to 40+ students and got first place in the Girls Generation competition.  Seniors:  Cody, Tyler, Jeff (President), Ian, Leslie, Hsuan-Ting, Matt, and Jordan.
+ We have subteams. Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah. Here They Are:
  </p>
 
 <table border="0" style="width: 100%; margin: 20px">
@@ -39,7 +39,7 @@ and connecting wires. We have organized ourselves into various departs.
 
   <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/competitions.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/competitions.png"height="150"/> </td>
     <td>
       <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
         Competitions
@@ -51,7 +51,7 @@ and connecting wires. We have organized ourselves into various departs.
 
     <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/controls.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/controls.png"height="150"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Controls
@@ -63,7 +63,7 @@ and connecting wires. We have organized ourselves into various departs.
 
     <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/functions.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/functions.png" height="150"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Functions
@@ -75,7 +75,7 @@ and connecting wires. We have organized ourselves into various departs.
 
     <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/frameworks.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/frameworks.png"height="150"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Frameworks
@@ -87,7 +87,7 @@ and connecting wires. We have organized ourselves into various departs.
 
     <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/marketing.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/marketing.png"height="150"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Marketing
@@ -99,7 +99,7 @@ and connecting wires. We have organized ourselves into various departs.
 
     <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/programming.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/programming.png"height="150"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Programming
@@ -111,7 +111,7 @@ and connecting wires. We have organized ourselves into various departs.
 
     <tr>
     <td>
-      <img style="text-align: left" src="/images/subteams/wingnuts.png"/> </td>
+      <img style="text-align: left" src="/images/subteams/wingnuts.png"height="150"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Wingnuts
