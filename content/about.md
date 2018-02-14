@@ -5,11 +5,9 @@ type = "about"
 
 +++
 
-Script
-
 <h1 style= "text-align: center"> <font face="Pullman"> Skyview Stormbots: 2811 </h1>
 
-<p> FRC Team 2811 StormBots calls <a href="http://skyview.vansd.org/" target="_blank">Skyview High School</a> it's home base. Skyview is the Science, Mathematics and Technology (SMT) magnet of the Vancouver Public Schools and is a certified
+<p style="font-size: 15"> <font face="gearhead"> FRC Team 2811 StormBots calls <a href="http://skyview.vansd.org/" target="_blank">Skyview High School</a> it's home base. Skyview is the Science, Mathematics and Technology (SMT) magnet of the Vancouver Public Schools and is a certified
 
 <a href="https://www.pltw.org/our-programs/pltw-engineering" target="_blank">Project Lead The Way: Pathway to Engineering</a> high school.  The team meets at Skyview High School 1300 NW 139th St., Vancouver, WA 98685. All are welcome to visit us but please contact
 
@@ -41,6 +39,8 @@ and connecting wires. We have organized ourselves into various departs.
 
   <tr>
     <td>
+      <img style="text-align: left" src="/images/subteams/competitions.png"/> </td>
+    <td>
       <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
         Competitions
       </h1>
@@ -50,6 +50,8 @@ and connecting wires. We have organized ourselves into various departs.
   </tr>
 
     <tr>
+    <td>
+      <img style="text-align: left" src="/images/subteams/controls.png"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Controls
@@ -60,6 +62,8 @@ and connecting wires. We have organized ourselves into various departs.
     </tr>
 
     <tr>
+    <td>
+      <img style="text-align: left" src="/images/subteams/functions.png"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Functions
@@ -70,6 +74,8 @@ and connecting wires. We have organized ourselves into various departs.
     </tr>
 
     <tr>
+    <td>
+      <img style="text-align: left" src="/images/subteams/frameworks.png"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Frameworks
@@ -80,6 +86,8 @@ and connecting wires. We have organized ourselves into various departs.
     </tr>
 
     <tr>
+    <td>
+      <img style="text-align: left" src="/images/subteams/marketing.png"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Marketing
@@ -90,6 +98,8 @@ and connecting wires. We have organized ourselves into various departs.
     </tr>
 
     <tr>
+    <td>
+      <img style="text-align: left" src="/images/subteams/programming.png"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Programming
@@ -100,6 +110,8 @@ and connecting wires. We have organized ourselves into various departs.
     </tr>
 
     <tr>
+    <td>
+      <img style="text-align: left" src="/images/subteams/wingnuts.png"/> </td>
       <td>
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Wingnuts

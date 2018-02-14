@@ -15,105 +15,143 @@
 #
 #
 
-LogoDir: "/images/partners/2016"
+LogoDir: "/images/partners"
 List:
 - id: platt
+  location: "Vancouver, WA"
   name: Platt Electric Supply
-  from: 2008-Current
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2008-2018
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
   logo: platt.gif
+  url: https://www.platt.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: boeing
   name: The One and Only Boeing Company
-  from: 2008-Current
-  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2008-2018
+  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
   logo: boeing.gif
+  url: http://www.boeing.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: ospi
   name: Office of Superintendent of Public Instruction
-  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2008-2018
+  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
   logo: ospi.gif
+  url: http://www.k12.wa.us/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: protech
   name: Pro-Tech
-  from: 2013-Current
-  years: [ 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2013-2018
+  years: [ 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
   logo: pro-tech.jpg
+  url: http://www.protech.net/
   desc: >
      Protech offers us significant amounts of metal, which is used for building our robot and components
 
 - id: vps
   name: Vancouver Public Schools
-  from: 2008-current
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2008-2018
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: torrent
   logo: vps.gif
   test: Hello
+  url: http://vansd.org/
   desc: >
      Providing both financial support as well as the literal roof over our heads.
      And there's the whole education thing, which is kind of a big deal.
 
 - id: hp
+  location: "Palo Alto, CA"
   name: Hewlett-Packard
-  from: 2008-Current
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2008-2018
+  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: torrent
   logo: hp.jpg
+  url: http://www.hp.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: conmet
   name: Con-Met
-  from: 2016-Current
-  years: [ 2016, 2017 ]
+  from: 2016-2018
+  years: [ 2016, 2017, 2018 ]
   level: torrent
   logo: con-met.jpg
+  url: https://www.conmet.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: usnr
+  location: "Woodland, WA"
   name: United States Natural Resources
-  from: 2014-Current
-  years: [ 2014, 2015, 2015, 2016, 2017 ]
+  from: 2014-2018
+  years: [ 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: thunderstorm
   logo: usnr.png
+  url: https://www.usnr.com/en/page/home
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: olympus
-  name: Mount Olympus Controls
-  from: 2016-Current
-  years: [ 2016, 2017 ]
+  name: Olympus Controls
+  from: 2016-2018
+  years: [ 2016, 2017, 2018 ]
   level: thunderstorm
   logo: olympuscontrols.jpg
+  url: http://olympuscontrols.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: vancouverbolt
   name: Vancouver Bolt And Supply
-  from: 2013-Current
-  years: [ 2013, 2014, 2015, 2015, 2016, 2017 ]
+  from: 2013-2018
+  years: [ 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: thunderstorm
   logo: vancouverbolt.jpg
+  url: http://vancouverbolt.com/
   desc: >
      Vancouver Bolt offers us significant amounts of fasteners. They really hold our team together.
 
 - id: hightech
+  location:
   name: High Tech Manufacturing
-  from: 2016-Current
-  years: [ 2016, 2017 ]
+  from: 2016-2018
+  years: [ 2016, 2017, 2018 ]
   level: thunderstorm
   logo: htmfg.jpg
+  url: http://htmfg.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: lanxess
+  location:
   name: Lanxess
-  from: 2016-Current
-  years: [ 2015, 2016, 2017 ]
+  from: 2016-2018
+  years: [ 2015, 2016, 2017, 2018 ]
   level: zephyr
   logo: lanxess.png
+  url: https://lanxess.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST
 
 - id: garlicjims
-  name: "Garlic Jim's Pizza, Salmon Creek"
-  from: 2014-Current
-  years: [ 2014, 2015, 2015, 2016, 2017 ]
+  location: "Salmon Creek, WA"
+  name: "Garlic Jim's Pizza"
+  from: 2014-2018
+  years: [ 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: zephyr
   logo: garlicjims.png
+  url: https://garlicjims.com/
   desc: >
      Hungry? So were we until Garlic Jim's
      stepped in. Now we can afford to eat in our late night
@@ -121,7 +159,10 @@ List:
 
 - id: usdigital
   name: US Digital
-  from: 2015-2015
-  years: [ 2015 ]
+  from: 2015-2018
+  years: [ 2015, 2016, 2017, 2018 ]
   level: hurricane
   logo: usdigital.jpg
+  url: https://www.usdigital.com/
+  desc: >
+     TEST TEST ETST TEST SETS ET SET SE T SET S ET SE TS ET SET SE T SET SET SET SE TS ETE S TS ET SETT TEST

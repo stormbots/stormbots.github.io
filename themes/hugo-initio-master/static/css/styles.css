@@ -16,6 +16,11 @@ body {
   font-family: "Pullman";
   src: local("Pullman"), url("/fonts/Pullman.otf");
 }
+
+@font-face {
+  font-family: "gearhead";
+  src: local("gearhead"), url("/fonts/gearhead.ttf");
+}
 /*********************************************************************
 
 

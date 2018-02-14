@@ -54,7 +54,7 @@ type = "about"
           </td>
             <td>
               <h1 style="font-size: 50pt; text-align: center"> <font face="Pullman">
-                Email Us At info@stormbots.com
+                Email Us At info<span><font face="gearhead">@</span><font face="Pullman">stormbots<span><font face="gearhead">.</span><font face="Pullman">com
               </h1>
             </td>
             </tr>
