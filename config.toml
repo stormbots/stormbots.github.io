@@ -26,6 +26,11 @@ publishDir = "public"
     footerEnableTextWidget = false
     footerEnableFormWidget = false
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  season = "seasons"
+
 [[menu.main]]
     name = "Home"
     url = "/"
