@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
-# This script is intended to parse and verify the output of hugo's build system 
-# and report whether or not the build was successful. 
+# This script is intended to parse and verify the output of hugo's build system
+# and report whether or not the build was successful.
 # This is only required currently since Hugo itself does not provide a mechanism
 # to otherwise get this information.
 
@@ -19,14 +19,14 @@ ACCEPTABLE = [
 
 # These should generate some sort of message. Not sure how to implement.
 WARNING = [
-]	
+]
 
-# These will cause the build to fail, resulting in not publishing the current site version 
+# These will cause the build to fail, resulting in not publishing the current site version
 ERROR = [
 	/^ERROR/,
 ]
 
-# These represent a line from Hugo that indicates a successful build. 
+# These represent a line from Hugo that indicates a successful build.
 # If we don't see one of these, then assume that the build failed even if we don't have an error
 REQUIRED = [
 	/Built site for language en/,
@@ -34,7 +34,7 @@ REQUIRED = [
 ]
 
 # ARGF is a special param. It reprepsents an opened file (from a parameter),
-# or STDIN if nothing listed 
+# or STDIN if nothing listed
 output = ARGF.each.to_a
 
 # Delete requirements if we run across a line that matches it
@@ -52,7 +52,7 @@ end
 
 # Show the user some information about what's happening
 width = 40
-puts "="*width 
+puts "="*width
 puts "Hugo Build Output"
 puts "="*width
 puts output
@@ -61,7 +61,7 @@ puts output
 exit 0 if errors.none? and REQUIRED.none?
 
 # Otherwise, fail the build and explain why
-STDERR.puts "="*width 
+STDERR.puts "="*width
 STDERR.puts "Build Failed!"
 STDERR.puts "="*width
 if errors.any?

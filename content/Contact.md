@@ -1,5 +1,4 @@
 +++
-date = ""
 description = "Contact The Stormbots"
 title = "Contact The Stormbots"
 menu = "Contact"
@@ -115,5 +114,5 @@ type = "about"
                       </tr>
 
   </tbody>
-</table>    
+</table>
 </table>
