@@ -5,7 +5,7 @@ season: 2016
 ---
 
 
-# Tonight
+### Tonight
 Make sure you have signed-in.
 
 Girls - if you want to participate in Girls Generation on Oct 15, sign-up on that sheet too.
@@ -22,7 +22,7 @@ Additional practices times to be determined.
 ### Friday, September 30th, 5PM
 Deadline to apply to be on the team.
 Note the time, 5pm.
-Application link can be found our [Stormbots.com](/)
+Application link can be found our [home page](/).
 
 ### Monday, October 3rd, 6PM, in the 600 wing
 All students and potential mentors need to attend.
