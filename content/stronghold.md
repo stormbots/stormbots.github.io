@@ -4,8 +4,8 @@ title = "FIRST Stronghold: 2016"
 type = "about"
 +++
 
-<img style="text-align: right" src="/images/RobotsIcons/2016-robot.png" width="500" height="300"/>
-<img style="text-align: right" src="/images/games/firststronghold.png" width="530" height="408"/>
+<img style="text-align: right" src="/images/RobotsIcons/2016-robot.png" width="500"/>
+<img style="text-align: right" src="/images/games/firststronghold.png" width="530"/>
 <br />
 <p>
 Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. >>>> Ask Marketing For Help. <<<< Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game.

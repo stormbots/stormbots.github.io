@@ -9,7 +9,7 @@ season: 2012
 >_Written by: Jason Vilaysanh_
 
 
-![2012 Robot](2012StormBot.4.png)
+![2012 Robot](/images/Robots/2012StormBot.4.png/)
 
   Sitting in the cheering crowd, anticipation flows through my body; the FRC Team 2811 Skyview Stormbot 4, affectionately nicknamed the “Linfiltrator 2811” after the basketball player Jeremy Lin, was about to compete. Amongst the rest of the audience at the 2012 Autodesk Oregon Regional, I cry out in excitement and joy. It would be our time to shine: we would show everyone what the outcome of our hard work would be. Our robot sits still before the match starts. Tension fills my body. Autonomous mode is over, and our robot remains still, as planned. The match starts, and our robot is motionless.
 
