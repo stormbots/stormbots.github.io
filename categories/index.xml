@@ -10,5 +10,32 @@
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Media</title>
+      <link>/categories/media/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo</title>
+      <link>/categories/photo/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/categories/video/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/video/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

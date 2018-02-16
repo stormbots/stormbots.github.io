@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo on Skyview Stormbots</title>
+    <link>/categories/photo/</link>
+    <description>Recent content in Photo on Skyview Stormbots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We won a blue banner!</title>
+      <link>/posts/2016/07-21-blue-banner/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2016/07-21-blue-banner/</guid>
+      <description>After five hours of watching our robots battle it out, we traversed our way in victory</description>
+    </item>
+    
+    <item>
+      <title>Kickoff!</title>
+      <link>/posts/2016/01-09-kickoff/</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2016/01-09-kickoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build Season Clock</title>
+      <link>/posts/2015/2015-01-03-build-season-clock/</link>
+      <pubDate>Sat, 03 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2015/2015-01-03-build-season-clock/</guid>
+      <description>Just in time for the 2015 kickoff, we unveil our new invention: A build season clock. This clock is precisely gear to make 1 turn over a 6 week period. When the clock strikes midnight, it&amp;rsquo;s time to bag the robot and pack it in.</description>
+    </item>
+    
+  </channel>
+</rss>

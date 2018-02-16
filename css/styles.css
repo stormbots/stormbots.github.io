@@ -16,6 +16,11 @@ body {
   font-family: "Pullman";
   src: local("Pullman"), url("/fonts/Pullman.otf");
 }
+
+@font-face {
+  font-family: "gearhead";
+  src: local("gearhead"), url("/fonts/gearhead.ttf");
+}
 /*********************************************************************
 
 
@@ -23,6 +28,11 @@ body {
 
 
 **********************************************************************/
+hr {
+border-bottom: 1px solid #0c0030;
+
+}
+
 .navbar {
   border-width: 1px 0;
   -webkit-border-radius: 0;
@@ -92,8 +102,9 @@ body {
 }
 .navbar-default .dropdown ul.dropdown-menu > li > a:hover {
   background-color: #0c0030;
-  color: #0c0030;
+  color: #ffffff;
 }
+
 .navbar-default .navbar-toggle {
   border-color: #0c0030;
 }
@@ -581,17 +592,21 @@ img {
   padding-top: 20px;
   margin-bottom: 20px;
 }
+.entry-content img {
+  display: block;
+  margin: auto;
+}
 .meta-nav,
 .more-link {
   font-family: Georgia, serif;
   font-style: italic;
   font-weight: bold;
-  color: #666666;
+  color: #0c0030;
   text-decoration: none;
 }
 .meta-nav:hover,
 .more-link:hover {
-  color: #333333;
+  color: #0c0030;
   text-decoration: underline;
 }
 .more-link {
@@ -770,19 +785,19 @@ footer.entry-meta .meta-in {
   background: #0c0030;
   padding: 30px 0 0 0;
   font-size: 12px;
-  color: #0c0030;
+  color: #ffffff;
 }
 #footer a {
-  color: #0c0030;
+  color: #ffffff;
 }
 #footer a:hover {
-  color: #0c0030;
+  color: #ffffff;
 }
 #footer h3.widget-title {
   font-size: 15px;
   font-size: 0.9375rem;
   text-transform: uppercase;
-  color: #0c0030;
+  color: #ffffff;
   margin: 0 0 20px;
 }
 #underfooter {
@@ -792,10 +807,10 @@ footer.entry-meta .meta-in {
   font-size: 12px;
 }
 #underfooter a {
-  color: #0c0030;
+  color: #777;
 }
 #underfooter a:hover {
-  color: #0c0030;
+  color: #777;
 }
 #underfooter p {
   margin: 0;

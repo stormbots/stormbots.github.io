@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/2016/test/</loc>
-    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <loc>/posts/2012/12-02-rsvp-showcase/</loc>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2010/10-11-team-announcements/</loc>
+    <lastmod>2017-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2009/09-01-dates/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/posts/2017/2016-mar-27-philomath-competition.md/text/</loc>
+    <loc>/posts/2016/text/</loc>
     <lastmod>2016-03-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,92 +63,92 @@
   </url>
   
   <url>
-    <loc>/posts/2017/2014-nov-25-frc-kickoff/</loc>
+    <loc>/posts/2014/2014-nov-25-frc-kickoff/</loc>
     <lastmod>2014-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2014-dec-1-bunnybots/</loc>
+    <loc>/posts/2014/2014-dec-1-bunnybots/</loc>
     <lastmod>2014-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2014-sep-21-recent-announcements/</loc>
+    <loc>/posts/2014/2014-sep-21-recent-announcements/</loc>
     <lastmod>2014-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2014-may-22-competition-season-overview/</loc>
+    <loc>/posts/2014/2014-may-22-competition-season-overview/</loc>
     <lastmod>2014-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2014-feb-5-2014-sponsor-night-reschedule/</loc>
+    <loc>/posts/2014/2014-feb-5-2014-sponsor-night-reschedule/</loc>
     <lastmod>2014-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2014-feb-2-subteam-updates/</loc>
+    <loc>/posts/2014/2014-feb-2-subteam-updates/</loc>
     <lastmod>2014-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2013-oct-19-girls-generation/text/</loc>
+    <loc>/posts/2013/text/</loc>
     <lastmod>2013-10-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2012-oct-14-girls-generation/</loc>
+    <loc>/posts/2012/2012-oct-14-girls-generation/</loc>
     <lastmod>2012-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2012-mar-12-autodesk-oregion-regional/</loc>
+    <loc>/posts/2012/2012-mar-12-autodesk-oregion-regional/</loc>
     <lastmod>2012-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2012-mar-10-autodesk-regional/</loc>
+    <loc>/posts/2012/2012-mar-10-autodesk-regional/</loc>
     <lastmod>2012-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2012-jan-15-portland-and-seattle-regionals-preperations/</loc>
+    <loc>/posts/2012/2012-jan-15-portland-and-seattle-regionals-preperations/</loc>
     <lastmod>2012-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2012-jan-1-mentors-and-student-leaders/text/</loc>
+    <loc>/posts/2012/text/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2011-dec-18-bunnybot/</loc>
+    <loc>/posts/2011/2011-dec-18-bunnybot/</loc>
     <lastmod>2011-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2011-dec-5-lego-league-tournament/</loc>
+    <loc>/posts/2011/2011-dec-5-lego-league-tournament/</loc>
     <lastmod>2011-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2011-nov-10/the-stormbots-sparkle-at-girls-generation/</loc>
+    <loc>/posts/2011/the-stormbots-sparkle-at-girls-generation/</loc>
     <lastmod>2011-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2011-oct-29-girls-generation/</loc>
+    <loc>/posts/2011/2011-oct-29-girls-generation/</loc>
     <lastmod>2011-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2017/2011-dec-18/capture-the-bunny-2nd-place/</loc>
+    <loc>/posts/2010/capture-the-bunny-2nd-place/</loc>
     <lastmod>2010-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2010/2010-mar-01/stormbots-strike-at-2010-pdx-regional/</loc>
+    <loc>/posts/2010/stormbots-strike-at-2010-pdx-regional/</loc>
     <lastmod>2010-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -147,12 +157,16 @@
   </url>
   
   <url>
+    <loc>/media/</loc>
+  </url>
+  
+  <url>
     <loc>/partners/</loc>
   </url>
   
   <url>
-    <loc>/tags/build-log/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+    <loc>/seasons/2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,29 +220,46 @@
   </url>
   
   <url>
+    <loc>/categories/media/</loc>
+    <lastmod>2016-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/partners/</loc>
   </url>
   
   <url>
+    <loc>/categories/photo/</loc>
+    <lastmod>2016-07-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
-    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/seasons/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-11-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/video/</loc>
+    <loc>/categories/video/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
