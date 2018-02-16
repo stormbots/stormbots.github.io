@@ -22,12 +22,15 @@ if [ -z "$GITHUB_AUTH_TOKEN" ] ; then
 	echo "-------------------------------------------------------"
 fi
 
+git config --global user.name $GIT_AUTHOR_NAME
+git config --global user.email $GIT_AUTHOR_EMAIL
+
 # We need to append the @ to our auth token if we use it since it acts as a username.
 # If it's blank, we can simpy type in credentials while running the script
-[ -n "$GITHUB_AUTH_TOKEN" ] && GITHUB_AUTH_TOKEN="${GITHUB_AUTH_TOKEN}@"
+[ -n "$GITHUB_AUTH_TOKEN" ] && GITHUB_AUTH_TOKEN="${GITHUB_AUTH_TOKEN}"
 
 # The URL for our git repo, plus or minus auth
-URL=https://${GITHUB_AUTH_TOKEN}github.com/stormbots/stormbots.github.io.git
+URL=https://${GITHUB_AUTH_TOKEN}@github.com/stormbots/stormbots.github.io.git
 
 # All previous ones. This is not normally wanted, but for this case it just makes
 # it faster and reduces downloading of old/deleted files.
@@ -45,6 +48,7 @@ mkdir public
 cd public
 	git init
 	git pull --depth=1 $URL master
+	ls -l
 cd ..
 
 # The command `--depth 1` is a special flag that only gets files in the most recent state,
