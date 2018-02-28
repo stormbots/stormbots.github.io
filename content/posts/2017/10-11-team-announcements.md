@@ -1,7 +1,7 @@
 ---
 date: 2017-09-29
 title: Stormbots Team List for 2017-2018
-season: 2018
+season: 2017
 ---
 Thank you to everyone that applied to be on the team and attended our Skills Assessment last Tuesday. Our first official all-team meeting is Tuesday, October 3rd, from 6-9pm in the 600 Wing. Enter through the 600 wing side door. The front doors to the school will not be open.
 
