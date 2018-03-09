@@ -1,12 +1,12 @@
 ---
 date: 2018-03-05
-title: IMPORTANT - Travel Parent Meeting Tuesday, March 6, 6:15pm
+title: Travel Parent Meeting, March 6 at 6:15pm
 season: 2018
 ---
 
 This note is a reminder of a critical parent meeting Tuesday night at 6:30 pm for the parents of Stormbots who are traveling (see below) to Yakima on March 15-17.   This meeting will cover details of the travel plan, get required forms completed and signed by parents, and collect student travel fees for hotels, etc.  Please bring a checkbook.  Please let us know any questions.
 
-The normal all team Stormbot meeting will happen at 6:00 pm.  Parents are welcome to be there at that time, but not required until 6:15.
+The normal all team StormBot meeting will happen at 6:00 pm.  Parents are welcome to be there at that time, but not required until 6:15.
 
 ONLY THE PARENTS OF STUDENTS ON THE BELOW LIST NEED TO ATTEND:
 

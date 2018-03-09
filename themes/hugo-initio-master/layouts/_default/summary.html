@@ -1,11 +1,10 @@
 <article from="default/summary">
   <header>
-    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-
   </header>
 
   <p>
-  {{ .Summary }}
+    <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }}>
+    {{ .Summary }}
   </p>
 
   <footer>
