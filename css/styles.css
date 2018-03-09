@@ -125,6 +125,10 @@ border-bottom: 1px solid #0c0030;
   background-color: #ffffff;
   color: #0c0030;
 }
+
+.navbar-default li.dropdown:hover ul {
+  display: block;
+}
 /****************************************************************************************
 
 
