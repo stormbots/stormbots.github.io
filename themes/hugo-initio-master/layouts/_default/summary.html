@@ -1,0 +1,13 @@
+<article from="default/summary">
+  <header>
+  </header>
+
+  <p>
+    <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }}>
+    {{ .Summary }}
+  </p>
+
+  <footer>
+    <a href="{{ .RelPermalink }}">Read More<i class="fa fa-angle-double-right fa-fw"></i></a>
+  </footer>
+</article>

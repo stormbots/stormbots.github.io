@@ -60,49 +60,49 @@ publishDir = "public"
 
     [[menu.main]]
       name = "FIRST Power Up"
-      url = "/power_up.md"
+      url = "/power_up/"
       weight = 15
       parent = "games"
 
       [[menu.main]]
         name = "FIRST Stronghold"
-        url = "/stronghold.md"
+        url = "/stronghold/"
         weight = 16
         parent = "games"
 
         [[menu.main]]
           name = "FIRST Recycle Rush"
-          url = "/recycle_rush.md"
+          url = "/recycle_rush/"
           weight = 17
           parent = "games"
 
           [[menu.main]]
             name = "FIRST Aerial Assist"
-            url = "/aerial_assist.md"
+            url = "/aerial_assist/"
             weight = 18
             parent = "games"
 
             [[menu.main]]
               name = "FIRST Ultimate Ascent"
-              url = "/ultimate_ascent.md"
+              url = "/ultimate_ascent/"
               weight = 19
               parent = "games"
 
               [[menu.main]]
                 name = "FIRST Rebound Rumble"
-                url = "/rebound_rumble.md"
+                url = "/rebound_rumble/"
                 weight = 20
                 parent = "games"
 
                 [[menu.main]]
                   name = "FIRST Logomotion"
-                  url = "/logomotion.md"
+                  url = "/logomotion/"
                   weight = 21
                   parent = "games"
 
                   [[menu.main]]
                     name = "FIRST Breakaway"
-                    url = "/breakaway.md"
+                    url = "/breakaway/"
                     weight = 22
                     parent = "games"
 
