@@ -44,8 +44,8 @@ and connecting wires. We have organized ourselves into various departs.
       <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
         Competitions
       </h1>
-      <p style="text-align: center">
-      Who ARE The Competitions?
+      <p style="text-align: center"> <font face="Helvetica">
+      Who ARE The Competitions? This team is responsible for creating and managing our excellence during robotics competitions. The team will help create our robot strategy, game strategy, and scouting process. In addition, this team leads our efforts to earn awards at the competitions. This team is a potential fit for a wide range of skills.
     </td>
   </tr>
 
@@ -56,8 +56,8 @@ and connecting wires. We have organized ourselves into various departs.
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Controls
         </h1>
-        <p style="text-align: center">
-        Who ARE The Controls?
+        <p style="text-align: center"> <font face="Helvetica">
+        Who ARE The Controls? This team is responsible for designing AND building the electrical part of the robot, including the onboard computer, air systems, motor drivers, and wiring all this together. 
       </td>
     </tr>
 
@@ -68,8 +68,8 @@ and connecting wires. We have organized ourselves into various departs.
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Functions
         </h1>
-        <p style="text-align: center">
-        What ARE The Functions?
+        <p style="text-align: center"> <font face="Helvetica">
+        What ARE The Functions? This team is responsible for designing and building the various parts of the robot that manipulate, shoot, or otherwise make things happen with game pieces. This team needs students who want to design using CAD and then use machine shop tools to create their design.
       </td>
     </tr>
 
@@ -80,8 +80,8 @@ and connecting wires. We have organized ourselves into various departs.
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Frameworks
         </h1>
-        <p style="text-align: center">
-        Who ARE The Frameworks?
+        <p style="text-align: center"> <font face="Helvetica">
+        Who ARE The Frameworks? This team is responsible for designing AND building the base of our robot and the wheels and gears that make it go. This team needs students who want to design using CAD and then use machine shop tools to create their design.
       </td>
     </tr>
 
@@ -92,8 +92,8 @@ and connecting wires. We have organized ourselves into various departs.
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Marketing
         </h1>
-        <p style="text-align: center">
-        Who ARE The Marketings?
+        <p style="text-align: center"> <font face="Helvetica">
+        Who ARE The Marketings? This team is responsible for managing our team image and getting the word out about us through social and traditional media. It is an excellent fit for someone looking to learn or use their marketing and business skills in a real life application.
       </td>
     </tr>
 
@@ -104,8 +104,8 @@ and connecting wires. We have organized ourselves into various departs.
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Programming
         </h1>
-        <p style="text-align: center">
-        Who ARE The Programmings?
+        <p style="text-align: center"> <font face="Helvetica">
+        Who ARE The Programmings? This team is responsible for creating the programming code that makes the robot perform all the required functions. Students will learn and use programming skills and scientific analysis to determine the right programming for the robot to perform autonomous and driver operated tasks.
       </td>
     </tr>
 
@@ -116,8 +116,8 @@ and connecting wires. We have organized ourselves into various departs.
         <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman">
           Wingnuts
         </h1>
-        <p style="text-align: center">
-        Who ARE The Wingnuts?
+        <p style="text-align: center"> <font face="Helvetica">
+        Who ARE The Wingnuts? Our most unique team and a true competitive advantage versus all other robotics clubs. This team is responsible for leading our safety culture, building and mobilization of our competition “pit”, and building field elements for robot practice.
       </td>
     </tr>
 

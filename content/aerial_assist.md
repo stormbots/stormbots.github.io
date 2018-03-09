@@ -4,7 +4,7 @@ title = "FIRST Aerial Assist: 2014"
 type = "about"
 +++
 
-<img style="text-align: right" src="/images/Robot2014Placeholder.png" width="500"/>
+<img style="text-align: right" src="/images/RobotsIcons/2014 Robot.png" width="500"/>
 <img style="text-align: right" src="/images/games/firstaerial_assist.png" width="530"/>
 <br />
 <p>
