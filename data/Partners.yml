@@ -171,7 +171,7 @@ List:
   name: F5
   from: 2018
   years: [ 2018 ]
-  level: hurricane
+  level: torrent
   logo: f5.jpg
   url: http://f5.com
   desc: >
@@ -182,7 +182,7 @@ List:
   name: DZ & Family Machine Works, LLC
   from: 2018
   years: [ 2018 ]
-  level: torrent
+  level: thunderstorm
   logo: dz.jpg
   url: http://www.machineworks.biz/
   desc: >
@@ -192,7 +192,7 @@ List:
   name: FIRST Washington
   from: 2018
   years: [ 2018 ]
-  level: hurricane
+  level: torrent
   logo: first-washington-logo.jpg
   url: https://www.firstwa.org/
   desc: >
@@ -212,7 +212,7 @@ List:
   name: Thomas & Betts, A Member of the ABB Group
   from: 2018
   years: [ 2018 ]
-  level: torrent
+  level: hurricane
   logo: tb-abb-logo.jpg
   url: http://www.tnb.com/pub/index.php
   desc: >
