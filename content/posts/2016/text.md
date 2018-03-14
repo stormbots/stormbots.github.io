@@ -2,6 +2,7 @@
 date: 2016-03-27
 title: WINNERS 2016 PHILOMATH COMPETITION!
 season: 2016
+featured_image: "Noname.jpg"
 ---
 
 # WINNERS 2016 PHILOMATH COMPETITION!

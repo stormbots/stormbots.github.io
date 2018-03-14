@@ -2,6 +2,7 @@
 date: 2012-03-10
 title: Robotics Story from March 10 at the 2012 Autodesk Oregon Regional Competition           
 season: 2012
+featured_image: "/images/Robots/2012StormBot.4.png/"
 ---
 
 # Robotics Story from March 10 at the 2012 Autodesk Oregon Regional Competition           
