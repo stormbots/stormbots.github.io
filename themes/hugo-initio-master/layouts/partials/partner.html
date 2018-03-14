@@ -3,20 +3,24 @@
     <tr>
       <th></th>
       <th></th>
+      <th></th>
     </tr>
   </thead>
 <tbody>
   <tr>
     <td>
-      <a href="{{ .partner.url }}"><img style="text-align: left" src="{{ .logodir }}/{{ .partner.logo }}"/> </td>
+      <a href="{{ .partner.url }}"><img width="400" style="text-align: left" src="{{ .logodir }}/{{ .partner.logo }}"/> </td>
     <td>
-      <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman"> <a href="{{ .partner.url }}" target="_blank">
+      <td>
+        <a href="{{ .partner.url }}"><img width="100" style="text-align: left" src="{{ .logodir }}/icons/{{ .partner.level }}.png"/> </td>
+      <td>
+      <h1 style="font-size: 40pt; text-align: center"> <font face="Helvetica"> <a href="{{ .partner.url }}" target="_blank">
         {{.partner.name}}
       </h1> </a>
-      <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman"> <a href="{{ .partner.url }}" target="_blank">
+      <h1 style="font-size: 40pt; text-align: center"> <font face="Helvetica"> <a href="{{ .partner.url }}" target="_blank">
         {{.partner.location}}
       </h1> </a>
-      <h1 style="font-size: 40pt; text-align: center"> <font face="Pullman"> <a href="{{ .partner.url }}" target="_blank">
+      <h1 style="font-size: 40pt; text-align: center"> <font face="Helvetica"> <a href="{{ .partner.url }}" target="_blank">
         {{.partner.from }}
       </h1> </a>
     </p>
@@ -28,3 +32,5 @@
 </table>
 
 <p style="font-size: 15pt; text-align: center"> {{.partner.desc}} </p>
+
+<hr>
