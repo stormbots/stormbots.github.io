@@ -2,6 +2,7 @@
 date: 2010-12-18
 title: Capture the Bunny 2nd Place
 season: 2010
+featured_image: "/images/Robots/_bunny score2.jpg"
 ---
 
 # Capture the Bunny 2nd Place

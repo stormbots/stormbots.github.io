@@ -2,6 +2,7 @@
 date: 2011-11-10
 title: The StormBots Sparkle at Girls Generation
 season: 2011
+featured_image: "/images/Awards/Girls-of-2811-small.jpg"
 ---
 
 # The StormBots Sparkle at Girls Generation

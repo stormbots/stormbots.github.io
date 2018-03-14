@@ -2,6 +2,7 @@
 date: "2017-12-02"
 title: "RSVP For The 2017-2018 Stormbots' Showcase"
 season: 2017
+featured_image: "https://web.archive.org/web/20171202134218/https://docs.google.com/forms/d/e/1FAIpQLSdWNyIyqe86bZ7VfYQHZNLL-wW4tGtuqKzBugxxsbkbm3UApg/viewform"
 ---
 
 The StormBots' Showcase is scheduled for Thursday, February 8, 2018

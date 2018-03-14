@@ -2,6 +2,7 @@
 date: 2015-01-03
 title: Build Season Clock
 season: 2015
+featured_image: "/images/KickOff/build-season-clock.jpg"
 categories:
   - media
   - photo

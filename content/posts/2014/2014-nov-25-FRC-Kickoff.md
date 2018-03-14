@@ -2,6 +2,7 @@
 date: 2014-11-25
 title: FRC Kickoff - Saturday, January 3, 2015
 season: 2014
+featured_image: "https://www.firstinspires.org/robotics/frc"
 ---
 
 # FRC Kickoff - Saturday, January 3, 2015
