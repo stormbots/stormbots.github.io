@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<main id="main">
+	<div class="container">
+		<div class="row topspace">
+			<div class="col-sm-12 col-sm-offset-0">
+
+				<h1>{{ .Data.Plural | title }}</h1>
+
+				{{ $data := .Data }}
+				{{ range $key, $value := .Data.Terms.Alphabetical }}
+					<li>
+						<a href="{{ $.Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }}
+					</li>
+				{{ end }}
+
+				<br />
+				<br />
+
+			</div>
+		</div>
+	</div>	<!-- /container -->
+</main>
+
+{{ partial "footer.html" . }}
