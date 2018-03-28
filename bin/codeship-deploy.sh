@@ -47,7 +47,8 @@ echo "-------------------------------------------------------"
 mkdir public
 cd public
 	git init
-	git pull --depth=1 $URL master
+	git remote add origin $URL
+	git pull --depth=1 origin master
 	ls -l
 cd ..
 
