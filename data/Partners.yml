@@ -23,7 +23,7 @@ List:
   from: 2008-2018
   years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
-  logo: platt.gif
+  logo: /TEMP/platt.png
   url: https://www.platt.com/
   desc: >
     Electrical supply chain with a wide range of products including generators, lighting, tools & fuses.
@@ -33,7 +33,7 @@ List:
   from: 2008-2018
   years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
-  logo: boeing.gif
+  logo: /TEMP/boeing.png
   url: http://www.boeing.com/
   desc: >
     Boeing is the world's largest aerospace company and leading manufacturer of commercial jetliners and defense, space and security systems. A top U.S. exporter, the company supports airlines and U.S. and allied government customers in 150 countries.
@@ -43,7 +43,7 @@ List:
   from: 2008-2018
   years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
-  logo: ospi.gif
+  logo: /TEMP/ospi.png
   url: http://www.k12.wa.us/
   desc: >
     The Office of Superintendent of Public Instruction (OSPI) is the primary agency charged with overseeing K-12 public education in Washington state. Led by State School Superintendent Chris Reykdal, OSPI works with the state’s 295 school districts to administer basic education programs and implement education reform on behalf of more than one million public school students.
@@ -53,7 +53,7 @@ List:
   from: 2013-2018
   years: [ 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: hurricane
-  logo: pro-tech.jpg
+  logo: /TEMP/pro-tech.png
   url: http://www.protech.net/
   desc: >
      Protech offers us significant amounts of metal, which is used for building our robot and components
@@ -63,7 +63,7 @@ List:
   from: 2008-2018
   years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: torrent
-  logo: vps.gif
+  logo: /TEMP/vps.png
   test: Hello
   url: http://vansd.org/
   desc: >
@@ -76,7 +76,7 @@ List:
   from: 2008-2018
   years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: torrent
-  logo: hp.png
+  logo: /TEMP/hp.png
   url: http://www.hp.com/
   desc: >
     Our vision is to create technology that makes life better for everyone, everywhere — every person, every organization, and every community around the globe.
@@ -86,7 +86,7 @@ List:
   from: 2016-2018
   years: [ 2016, 2017, 2018 ]
   level: torrent
-  logo: con-met.jpg
+  logo: /TEMP/con-met.png
   url: https://www.conmet.com/
   desc: >
     We supply the commercial vehicle industry with wheel ends, hub assemblies, brake drums, hubs, rotors, aftermarket wheel products & OEM genuine products.
@@ -97,7 +97,7 @@ List:
   from: 2014-2018
   years: [ 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: thunderstorm
-  logo: usnr.png
+  logo: /TEMP/usnr.png
   url: https://www.usnr.com/en/page/home
   desc: >
     USNR is the world's largest, most comprehensive supplier of equipment and technologies for the wood processing industry.
@@ -107,7 +107,7 @@ List:
   from: 2016-2018
   years: [ 2016, 2017, 2018 ]
   level: thunderstorm
-  logo: olympuscontrols.jpg
+  logo: /TEMP/olympuscontrols.png
   url: http://olympuscontrols.com/
   desc: >
     Olympus Controls is an Engineering Services company that specializes in the integration of motion control, machine vision, and robotic technologies.
@@ -117,7 +117,7 @@ List:
   from: 2013-2018
   years: [ 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: thunderstorm
-  logo: vancouverbolt.jpg
+  logo: /TEMP/vancouverbolt.png
   url: http://vancouverbolt.com/
   desc: >
      Vancouver Bolt offers us significant amounts of fasteners. They really hold our team together.
@@ -128,7 +128,7 @@ List:
   from: 2016-2018
   years: [ 2016, 2017, 2018 ]
   level: thunderstorm
-  logo: htmfg.jpg
+  logo: /TEMP/htmfg.png
   url: http://htmfg.com/
   desc: >
     High Tech Manufacturing has provided outsourced manufacturing services to a local Semiconductor Industry Customer for many years and has developed from a supplier who originally source only R&D parts to a full service supplier able to support follow on manufacturing of production parts as well.
@@ -139,7 +139,7 @@ List:
   from: 2016-2018
   years: [ 2015, 2016, 2017, 2018 ]
   level: zephyr
-  logo: lanxess.png
+  logo: /TEMP/lanxess.png
   url: https://lanxess.com/
   desc:
     Lanxess Aktiengesellschaft is a specialty chemicals company based in Cologne, Germany that was founded in 2004 via the spin-off of the chemicals division and parts of the polymers business from Bayer AG.
@@ -150,7 +150,7 @@ List:
   from: 2014-2018
   years: [ 2014, 2015, 2015, 2016, 2017, 2018 ]
   level: zephyr
-  logo: garlicjims.png
+  logo: /TEMP/garlicjims.png
   url: https://garlicjims.com/
   desc: >
      Hungry? So were we until Garlic Jim's
@@ -162,7 +162,7 @@ List:
   from: 2015-2018
   years: [ 2015, 2016, 2017, 2018 ]
   level: hurricane
-  logo: usdigital.jpg
+  logo: /TEMP/usdigital.png
   url: https://www.usdigital.com/
   desc: >
       US Digital designs and manufactures optical encoders, inclinometers & motion control components.
@@ -172,7 +172,7 @@ List:
   from: 2018
   years: [ 2018 ]
   level: torrent
-  logo: f5.jpg
+  logo: /TEMP/f5.png
   url: http://f5.com
   desc: >
     At F5, we make apps go. Faster. Smarter. Safer.
@@ -183,7 +183,7 @@ List:
   from: 2018
   years: [ 2018 ]
   level: thunderstorm
-  logo: dz.jpg
+  logo: /TEMP/dz.png
   url: http://www.machineworks.biz/
   desc: >
     We are a full service industrial machine shop in Woodland, WA.
@@ -193,7 +193,7 @@ List:
   from: 2018
   years: [ 2018 ]
   level: torrent
-  logo: first-washington-logo.jpg
+  logo: /TEMP/first-washington-logo.png
   url: https://www.firstwa.org/
   desc: >
     FIRST Washington inspires all young people to be science and technology leaders, by engaging them in exciting mentor-based programs that build science, engineering, and technology skills, that inspire innovation, and foster well-rounded life capabilities including self-confidence, communication, and leadership.
@@ -203,7 +203,7 @@ List:
   from: 2018
   years: [ 2018 ]
   level: torrent
-  logo: hdg-logo.jpg
+  logo: /TEMP/hdg-logo.png
   url: http://hdgpdx.com/
   desc: >
     Humber Design Group specializes in the civil engineering and re-engineering of sites for all types and sizes of projects throughout the Pacific Northwest.
@@ -213,7 +213,7 @@ List:
   from: 2018
   years: [ 2018 ]
   level: hurricane
-  logo: tb-abb-logo.jpg
+  logo: /TEMP/tb-abb-logo.png
   url: http://www.tnb.com/pub/index.php
   desc: >
     Wherever electricity goes, so does Thomas & Betts.
