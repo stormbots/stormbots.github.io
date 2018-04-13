@@ -32,6 +32,8 @@ type = "about"
 
     {{< Game "breakaway" 2010 "Teams are required to direct soccer balls into goals, traverse bumps in the field, suspend themselves on towers, and go through a tunnel located in the center of the field." right >}}
 
+    {{< Game "lunacy" 2009 "Teams are required to place Moon Rocks, Empty Cells, and Super Cells into the opposing teams trailers, as well as giving the Empty Cells to the 'payload specialist' in the middle of the field." left >}}
+
   </tbody>
 </table>
 

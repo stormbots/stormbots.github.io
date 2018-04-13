@@ -8,5 +8,7 @@ type = "about"
 <img style="text-align: right" src="/images/games/firstbreakaway.png" width="530"/>
 <br />
 <p>
-Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. >>>> Ask Marketing For Help. <<<< Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game.
+In the 2010 season, we competed at the Autodesk Oregon Regional and ranked 8th out of 61 teams. We also earned the Industrial Design Award, sponsored by General Motors.
+
+Fun Fact: This was the first year the StormBots earned an award at a competition!
 </p>

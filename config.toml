@@ -106,6 +106,12 @@ publishDir = "public"
                     weight = 22
                     parent = "games"
 
+                    [[menu.main]]
+                      name = "FIRST Lunacy"
+                      url = "/lunacy/"
+                      weight = 23
+                      parent = "games"
+
 [[menu.main]]
     name = "Media"
     url = "/media/"

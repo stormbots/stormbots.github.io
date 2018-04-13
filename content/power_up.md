@@ -8,5 +8,11 @@ type = "about"
 <img style="text-align: right" src="/images/games/firstpower_up.png" width="530"/>
 <br />
 <p>
-Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. >>>> Ask Marketing For Help. <<<< Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game.
+- Robot Name: Zeus
+
+During their tenth year, the StormBots competed in five competitions, and won two. Zeus was capable of placing Power Cubes in the switch, scale, and vault.
+
+Fun Fact: This was the first year that the StormBots qualified for the World Championships!
+
+Fun Fact: This was the first year that the StormBots won multiple competitions in one year!
 </p>

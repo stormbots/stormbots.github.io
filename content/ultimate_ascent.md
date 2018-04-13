@@ -8,5 +8,11 @@ type = "about"
 <img style="text-align: right" src="/images/games/firstultimate_ascent.png" width="530"/>
 <br />
 <p>
-Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. >>>> Ask Marketing For Help. <<<< Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game. Text about our time in the game.
+- Robot Name: Stanley
+
+During Ultimate Ascent, our robot was able to collect frisbees from the human player station and shoot them into the high goal. We named the robot Stanley due to the inclusion of a tape measure as part of the climbing mechanism. We attended the Autodesk Oregon Regional and the Central Washington Regional and earned the Industrial Safety Award and the Team Spirit Award.
+
+Fun Fact: The tape measure wasn't actually a Stanley brand.
+
+Fun Fact: Our BunnyBot robot that year was named Zippy, due to the excessive use of zip-ties.
 </p>
