@@ -55,7 +55,7 @@ These are the seven main subteams that make up our team:
           Controls
         </h1>
         <p style="text-align: center"> <font face="Helvetica">
-        This team is responsible for designing AND building the electrical part of the robot, including the onboard computer, air systems, motor drivers, and wiring all this together. Alex is a huge dummy.
+        This team is responsible for designing AND building the electrical part of the robot, including the onboard computer, air systems, motor drivers, and wiring all this together.
       </td>
     </tr>
 
