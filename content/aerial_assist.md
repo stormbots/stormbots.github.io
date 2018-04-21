@@ -14,3 +14,9 @@ The StormBots won our first blue banner at the Oregon State University competiti
 
 Fun Fact: 2014 was the first year the StormBots ever won a competition!
 </p>
+
+{{% banner %}}
+Winner
+
+2017 Oregon State University District
+{{% /banner %}}
