@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/2018/districtchampionshipavailablity/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018/houstontravelmeetingtuesdaynight/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018/spiritgearfromyakima/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2018/practiceschedulechangesthisweek/</loc>
+    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2018/travelparentmeetingmarch6/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
@@ -260,8 +280,18 @@
   </url>
   
   <url>
+    <loc>/seasons/2018/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/2018/-date-celebratingyakima/</loc>
   </url>
   
   <url>
@@ -278,6 +308,10 @@
   
   <url>
     <loc>/logomotion/</loc>
+  </url>
+  
+  <url>
+    <loc>/lunacy/</loc>
   </url>
   
   <url>
@@ -322,7 +356,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -334,7 +368,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
