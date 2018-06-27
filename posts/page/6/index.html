@@ -24,6 +24,8 @@
     
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=123456789012345678901234&product=inline-share-buttons"></script>
     
+	
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 <body class="home">
@@ -155,6 +157,32 @@
 		<div class="row topspace">
 			<div class="col-sm-12 col-sm-offset-0">
 
+                
+				<article class="post">
+					<header class="entry-header">
+						<div class="entry-meta">
+							<span class="posted-on"><time class="entry-date published" date="2010-03-01 00:00:00 &#43;0000 UTC">March 1, 2010</time></span>
+						</div>
+						<h1 class="entry-title"><a href="/posts/2010/stormbots-strike-at-2010-pdx-regional/" rel="bookmark">StormBots Strike at 2010 PDX Regional</a></h1>
+					</header>
+					<div class="entry-content">
+						<article from="default/summary">
+  <header>
+  </header>
+
+  <p>
+    <img src="https://web.archive.org/web/20110208033304/http://www2.usfirst.org/2010comp/events/OR/rankings.html">
+    March was the final countdown! The robotics build season amounted up to one peaking moment, the Autodesk Oregon Regional FIRST competition at the Memorial Coliseum. 30 hours of competition over three days were jam packed with spirited teams sporting their colors, mascots dancing to the Macarena, and robots in action battling it out on the field. A total of 104 fierce rounds were played, each consisting of 3 teams on a red alliance and 3 on a blue alliance.
+  </p>
+
+  <footer>
+    <a href="/posts/2010/stormbots-strike-at-2010-pdx-regional/">Read More<i class="fa fa-angle-double-right fa-fw"></i></a>
+  </footer>
+</article>
+
+					</div>
+				</article>
+				<hr />
                 
 				<article class="post">
 					<header class="entry-header">
@@ -346,6 +374,19 @@
 
   ga('create', 'GA-000000000-0', 'auto');
   ga('send', 'pageview');
+</script>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 </script>
 
 </body>

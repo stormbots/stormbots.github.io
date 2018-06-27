@@ -24,6 +24,8 @@
     
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=123456789012345678901234&product=inline-share-buttons"></script>
     
+	
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 </head>
 <body class="home">
@@ -589,6 +591,19 @@ With the conclusion of our FIRST LEGO League Oregon Qualifying Events and the St
 
   ga('create', 'GA-000000000-0', 'auto');
   ga('send', 'pageview');
+</script>
+
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
 </script>
 
 </body>
