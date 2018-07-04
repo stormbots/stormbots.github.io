@@ -70,24 +70,28 @@ subteams:
       the robot, including the onboard computer, air systems, motor drivers, and
       wiring all this together. 
     title: Controls
+    image: /images/uploads/controls.png
   - description: >-
       This team is responsible for designing and building the various parts of
       the robot that manipulate, shoot, or otherwise make things happen with
       game pieces. This team needs students who want to design using CAD and
       then use machine shop tools to create their designs. 
     title: Functions
+    image: /images/uploads/functions.png
   - description: >-
       This team is responsible for designing AND building the base of our robot
       and the wheels and gears that make it go. This team needs students who
       want to design using CAD and then use machine shop tools to create their
       design. 
     title: frameworks
+    image: /images/uploads/frameworks.png
   - description: >-
       This team is responsible for managing our team image and getting the word
       out about us though social and traditional media. It is an excellent fit
       for someone looking to learn or use their marketing and business skills in
       a real application. 
     title: Marketing
+    image: /images/uploads/marketing.png
   - description: >-
       This team is responsible for creating the programming code that makes the
       robot perform all the required functions. Students will learn and use
@@ -95,9 +99,11 @@ subteams:
       programming for the robot to perform autonomous and driver operated
       tasks. 
     title: Programming
+    image: /images/uploads/programming.png
   - description: >-
       Our most unique team and a true competitive advantage versus all other
       robotics clubs. This team is responsible for leading our safety culture,
       building and mobilization of our competition "pit", and building field
       elements for robot practice. 
     title: Wingnuts
+    image: /images/uploads/wingnuts.png
