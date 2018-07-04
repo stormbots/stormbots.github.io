@@ -56,9 +56,37 @@ main_content: >-
 
 
   These are the seven main subteams that make up our team:
-competitions: >-
-  This team is responsible for creating and managing our excellence during
-  robotics competitions. The team will help create our robot strategy, game
-  strategy, and scouting process. In addition, this team leads, our efforts to
-  earn awards at the competitions. This team is a potential fit for a wide range
-  of skills.
+subteams:
+  - name: competitions
+    title: Competitions
+    image: /images/subteams/competitions.png
+    description: >-
+      This team is responsible for creating and managing our excellence during
+      robotics competitions. The team will help create our robot strategy, game
+      strategy, and scouting process. In addition, this team leads, our efforts to
+      earn awards at the competitions. This team is a potential fit for a wide range
+      of skills.
+  - name: controls
+    title: Controls
+    image: /images/subteams/controls.png
+    description:
+  - name: functions
+    title: Functions
+    image: /images/subteams/functons.png
+    description:
+  - name: frameworks
+    title: frameworks
+    image: /images/subteams/frameworks.png
+    description:
+  - name: marketing
+    title: Marketing
+    image: /images/subteams/marketing.png
+    description:
+  - name: programming
+    title: Programming
+    image: /images/subteams/programming.png
+    description:
+  - name: wingnuts
+    title: Wingnuts
+    image: /images/subteams/wingnuts.png
+    description:

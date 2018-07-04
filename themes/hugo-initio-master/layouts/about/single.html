@@ -22,7 +22,7 @@
                 <h1 style="text-align: center"><font face="Pullman"> Skyview Stormbots: 2811</h1>
 
                 <p style="font-size: 15"><font face="Helvetica">
-                    {{ partial "about/content.md" | markdownify }}
+                    {{ .Site.Data.about.main_content | markdownify }}
                 </p>
 
                 <table border="0" style="width: 100%; margin: 20px">
@@ -42,7 +42,7 @@
                                 Competitions
                             </h1>
                             <p style="text-align: center"><font face="Helvetica">
-                                {{ partial "about/competitions.md" | markdownify }}
+                                {{ .Site.Data.about.competitions | markdownify }}
                         </td>
                     </tr>
 
