@@ -6,6 +6,7 @@ public_folder: "/images/uploads"
 collections:
 - name: "about"
   label: "About Page"
+  frontmatter_delimiter: "<!-->"
   files:
     - name: "about-content"
       label: "About - main content"
