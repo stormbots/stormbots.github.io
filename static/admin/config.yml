@@ -7,6 +7,11 @@ collections:
 - name: "about"
   label: "About Page"
   files:
+    - name: "about-data"
+      label: "About - data"
+      file: "layouts/partials/about/data.yml"
+      fields:
+        - { label: "Main Content", name: "main_content", widget: "markdown" }
     - name: "about-content"
       label: "About - main content"
       file: "layouts/partials/about/content.md"
