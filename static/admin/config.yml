@@ -16,8 +16,9 @@ collections:
           name: "subteams"
           widget: "list"
           fields:
-            - {label: "Name", name: "title", widget: "string"}
+            - {label: "Title", name: "title", widget: "string"}
             - {label: "Description", name: "description", widget: "markdown"}
+            - {label: "Image", name: "image", widget: "image"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts" # The path to the folder where the documents are stored
