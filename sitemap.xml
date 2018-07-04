@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/posts/2018/amazingpreformance/</loc>
+    <loc>/posts/2018/2018-03-03-amazingperformance/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,11 +153,6 @@
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-02-19T01:50:38-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/2016/02-14-bearing-press-fit/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -200,11 +195,6 @@
   <url>
     <loc>/posts/2014/2014-feb-2-subteam-updates/</loc>
     <lastmod>2014-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/2012/2012-oct-14-girls-generation-2/</loc>
-    <lastmod>2012-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,6 +253,11 @@
   </url>
   
   <url>
+    <loc>/posts/2018/celebrating-yakima/</loc>
+    <lastmod>1970-01-01T00:33:38+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/games/</loc>
   </url>
   
@@ -279,12 +274,6 @@
   </url>
   
   <url>
-    <loc>/seasons/2012/</loc>
-    <lastmod>2012-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/seasons/2017/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -297,12 +286,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/posts/2018/-date-celebratingyakima/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -373,7 +362,7 @@
   
   <url>
     <loc>/seasons/</loc>
-    <lastmod>2012-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
