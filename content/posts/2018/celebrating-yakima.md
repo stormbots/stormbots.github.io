@@ -1,6 +1,6 @@
 ---
 title: Celebrating Yakima
-date:
+date: 2018
 seasons: [2018]
 ---
 
