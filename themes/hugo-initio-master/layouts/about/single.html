@@ -34,29 +34,10 @@
                     </thead>
                     <tbody>
 
-                    <tr>
-                        <td>
-                            <img style="text-align: left" src="/images/subteams/competitions.png" width="300"/></td>
-                        <td>
-                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
-                                Competitions
-                            </h1>
-                            <p style="text-align: center"><font face="Helvetica">
-                                {{ .Site.Data.about.competitions | markdownify }}
-                        </td>
-                    </tr>
+                    {{ range .Site.Data.about.subteams }}
+                        {{ partial "about/partner" . }}
+                    {{ end }}
 
-                    <tr>
-                        <td>
-                            <img style="text-align: left" src="/images/subteams/controls.png" width="300"/></td>
-                        <td>
-                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
-                                Controls
-                            </h1>
-                            <p style="text-align: center"><font face="Helvetica">
-                                {{ partial "about/controls.md" | markdownify }}
-                        </td>
-                    </tr>
 
                     <tr>
                         <td>
