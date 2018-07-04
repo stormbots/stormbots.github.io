@@ -8,7 +8,11 @@ collections:
   label: "About Page"
   folder: "layouts/partials/about"
   fields:
-    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
+- name: "about-content"
+  label: "About - main content"
+  file: "layouts/partials/about/content.md"
+  fields:
     - {label: "Body", name: "body", widget: "markdown"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
