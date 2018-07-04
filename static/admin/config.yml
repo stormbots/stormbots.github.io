@@ -9,19 +9,10 @@ collections:
   files:
     - name: "about-data"
       label: "About - data"
-      file: "layouts/partials/about/data.yml"
+      file: "data/about.yml"
       fields:
         - { label: "Main Content", name: "main_content", widget: "markdown" }
-    - name: "about-content"
-      label: "About - main content"
-      file: "layouts/partials/about/content.md"
-      fields:
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "about-competitions"
-      label: "About - Competitions"
-      file: "layouts/partials/about/competitions.md"
-      fields:
-        - {label: "Body", name: "body", widget: "markdown"}
+        - { label: "Competitions", name: "competitions", widget: "markdown" }
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts" # The path to the folder where the documents are stored
