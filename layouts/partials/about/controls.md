@@ -1,1 +1,0 @@
-This team is responsible for designing AND building the electrical part of the robot, including the onboard computer, air systems, motor drivers, and wiring all this together.

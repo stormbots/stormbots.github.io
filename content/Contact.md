@@ -2,7 +2,7 @@
 description = "Contact The Stormbots"
 title = "Contact The Stormbots"
 menu = "Contact"
-type = "about"
+type = "general"
 +++
 
 <table  border="0" style="width: 100%; margin: 20px">

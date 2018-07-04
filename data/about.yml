@@ -72,7 +72,7 @@ subteams:
     description:
   - name: functions
     title: Functions
-    image: /images/subteams/functons.png
+    image: /images/subteams/functions.png
     description:
   - name: frameworks
     title: frameworks

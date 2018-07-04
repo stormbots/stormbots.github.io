@@ -4,17 +4,7 @@
 
     <div class="container">
 
-        <div class="row topspace">
-
-            <!-- Sidebar -->
-            <aside class="col-sm-0 sidebar sidebar-right">
-
-                <div class="nav text-left nav-side">
-                    <li class="active">{{ .Title }}</li>
-                </div>
-
-            </aside>
-            <!-- /Sidebar -->
+        <div class="row">
 
             <!-- Article main content -->
             <article class="col-sm-12 maincontent">
@@ -35,7 +25,7 @@
                     <tbody>
 
                     {{ range .Site.Data.about.subteams }}
-                        {{ partial "about/partner" . }}
+                        {{ partial "about/subteam" . }}
                     {{ end }}
 
 
