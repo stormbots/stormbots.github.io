@@ -11,7 +11,8 @@ collections:
       name: "about"
       label: "About"
       fields:
-        - { label: "Title", name: "title", widget: "string"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Body", name: "body", widget: "markdown"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts" # The path to the folder where the documents are stored
