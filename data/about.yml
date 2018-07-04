@@ -57,36 +57,46 @@ main_content: >-
 
   These are the seven main subteams that make up our team:
 subteams:
-  - name: competitions
-    title: Competitions
-    image: /images/subteams/competitions.png
-    description: >-
+  - description: >-
       This team is responsible for creating and managing our excellence during
       robotics competitions. The team will help create our robot strategy, game
-      strategy, and scouting process. In addition, this team leads, our efforts to
-      earn awards at the competitions. This team is a potential fit for a wide range
-      of skills.
-  - name: controls
+      strategy, and scouting process. In addition, this team leads, our efforts
+      to earn awards at the competitions. This team is a potential fit for a
+      wide range of skills.
+    title: Competitions
+  - description: >-
+      This team is responsible for designing AND building the electrical part of
+      the robot, including the onboard computer, air systems, motor drivers, and
+      wiring all this together. 
     title: Controls
-    image: /images/subteams/controls.png
-    description:
-  - name: functions
+  - description: >-
+      This team is responsible for designing and building the various parts of
+      the robot that manipulate, shoot, or otherwise make things happen with
+      game pieces. This team needs students who want to design using CAD and
+      then use machine shop tools to create their designs. 
     title: Functions
-    image: /images/subteams/functions.png
-    description:
-  - name: frameworks
+  - description: >-
+      This team is responsible for designing AND building the base of our robot
+      and the wheels and gears that make it go. This team needs students who
+      want to design using CAD and then use machine shop tools to create their
+      design. 
     title: frameworks
-    image: /images/subteams/frameworks.png
-    description:
-  - name: marketing
+  - description: >-
+      This team is responsible for managing our team image and getting the word
+      out about us though social and traditional media. It is an excellent fit
+      for someone looking to learn or use their marketing and business skills in
+      a real application. 
     title: Marketing
-    image: /images/subteams/marketing.png
-    description:
-  - name: programming
+  - description: >-
+      This team is responsible for creating the programming code that makes the
+      robot perform all the required functions. Students will learn and use
+      programming skills and scientific analysis to determine the right
+      programming for the robot to perform autonomous and driver operated
+      tasks. 
     title: Programming
-    image: /images/subteams/programming.png
-    description:
-  - name: wingnuts
+  - description: >-
+      Our most unique team and a true competitive advantage versus all other
+      robotics clubs. This team is responsible for leading our safety culture,
+      building and mobilization of our competition "pit", and building field
+      elements for robot practice. 
     title: Wingnuts
-    image: /images/subteams/wingnuts.png
-    description:
