@@ -2,29 +2,144 @@
 
 <main id="main">
 
-	<div class="container">
+    <div class="container">
 
-		<div class="row topspace">
+        <div class="row topspace">
 
-			<!-- Sidebar -->
-			<aside class="col-sm-0 sidebar sidebar-right">
+            <!-- Sidebar -->
+            <aside class="col-sm-0 sidebar sidebar-right">
 
-				<div class="nav text-left nav-side">
-					<li class="active">{{ .Title }}</li>
-				</div>
+                <div class="nav text-left nav-side">
+                    <li class="active">{{ .Title }}</li>
+                </div>
 
-			</aside>
-			<!-- /Sidebar -->
+            </aside>
+            <!-- /Sidebar -->
 
-			<!-- Article main content -->
-			<article class="col-sm-12 maincontent">
-                {{ .Content }}
-			</article>
-			<!-- /Article -->
+            <!-- Article main content -->
+            <article class="col-sm-12 maincontent">
+
+                <h1 style="text-align: center"><font face="Pullman"> Skyview Stormbots: 2811</h1>
+
+                <p style="font-size: 15"><font face="Helvetica">
+                    {{ partial "about/content.md" | markdownify }}
+                </p>
+
+                <table border="0" style="width: 100%; margin: 20px">
+                    <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/competitions.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Competitions
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                {{ partial "about/competitions.md" | markdownify }}
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/controls.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Controls
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                {{ partial "about/controls.md" | markdownify }}
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/functions.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Functions
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                This team is responsible for designing and building the various parts of the robot that
+                                manipulate, shoot, or otherwise make things happen with game pieces. This team needs
+                                students who want to design using CAD and then use machine shop tools to create their
+                                designs.
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/frameworks.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Frameworks
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                This team is responsible for designing AND building the base of our robot and the wheels
+                                and gears that make it go. This team needs students who want to design using CAD and
+                                then use machine shop tools to create their design.
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/marketing.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Marketing
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                This team is responsible for managing our team image and getting the word out about us
+                                though social and traditional media. It is an excellent fit for someone looking to learn
+                                or use their marketing and business skills in a real application.
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/programming.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Programming
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                This team is responsible for creating the programming code that makes the robot perform
+                                all the required functions. Students will learn and use programming skills and
+                                scientific analysis to determine the right programming for the robot to perform
+                                autonomous and driver operated tasks.
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <img style="text-align: left" src="/images/subteams/wingnuts.png" width="300"/></td>
+                        <td>
+                            <h1 style="font-size: 40pt; text-align: center"><font face="Pullman">
+                                Wingnuts
+                            </h1>
+                            <p style="text-align: center"><font face="Helvetica">
+                                Our most unique team and a true competitive advantage versus all other robotics clubs.
+                                This team is responsible for leading our safety culture, building and mobilization of
+                                our competition “pit”, and building field elements for robot practice.
+                        </td>
+                    </tr>
+
+                    </tbody>
+                </table>
+
+                </table>
+            </article>
+            <!-- /Article -->
 
 
-		</div>
-	</div>	<!-- /container -->
+        </div>
+    </div>    <!-- /container -->
 
 </main>
 

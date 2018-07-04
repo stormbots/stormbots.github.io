@@ -1,0 +1,1 @@
+This team is responsible for creating and managing our excellence during robotics competitions. The team will help create our robot strategy, game strategy, and scouting process. In addition, this team leads, our efforts to earn awards at the competitions. This team is a potential fit for a wide range of skills.
