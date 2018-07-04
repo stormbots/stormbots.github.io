@@ -3,6 +3,14 @@ backend:
 media_folder: "static/images"
 public_folder: "/images"
 collections:
+- name: "pages"
+  label: "Pages"
+  files:
+    - file: "content/about.md"
+      name: "about"
+      label: "About"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
 - name: "posts-2018" # Used in routes, e.g., /admin/collections/blog
   label: "Posts - 2018" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored
