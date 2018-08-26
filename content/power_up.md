@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2018"
 title = "FIRST Power Up: 2018"
-type = "about"
+type = "general"
 +++
 
 

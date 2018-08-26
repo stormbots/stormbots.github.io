@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2014"
 title = "FIRST Aerial Assist: 2014"
-type = "about"
+type = "general"
 +++
 
 <img style="text-align: right" src="/images/RobotsIcons/2014 Robot.png" width="500"/>

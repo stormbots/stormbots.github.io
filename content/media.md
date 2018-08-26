@@ -2,7 +2,7 @@
 description = "Stormbots Team Content"
 title = ""
 menu = "Media"
-type = "about"
+type = "general"
 +++
 
 <table border="0" width="100%" style="margin: 0px">

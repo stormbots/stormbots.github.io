@@ -2,7 +2,7 @@
 description = "FIRST Robotics Competitions"
 title = ""
 menu = "Games"
-type = "about"
+type = "general"
 +++
 
 <table border="0" style="margin: 20px">

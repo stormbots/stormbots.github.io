@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2013"
 title = "FIRST Ultimate Ascent: 2013"
-type = "about"
+type = "general"
 +++
 
 <img style="text-align: right" src="/images/RobotsIcons/2013 Robot.png" width="500"/>

@@ -1,7 +1,7 @@
 +++
 description = "FIRST Robotics Competitions"
 title = "Partners"
-type = "about"
+type = "general"
 +++
 
 {{< partnerLevel "hurricane" >}}

@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2009"
 title = "FIRST Lunacy: 2009"
-type = "about"
+type = "general"
 +++
 
 <img style="text-align: right" src="/images/Robot2011Placeholder.png" width="500"/>

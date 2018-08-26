@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2017"
 title = "FIRST Steamworks: 2017"
-type = "about"
+type = "general"
 +++
 
 <img style="text-align: right" src="/images/RobotsIcons/2017-robot.png" width="500"/>

@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2010"
 title = "FIRST Breakaway: 2010"
-type = "about"
+type = "general"
 +++
 
 <img style="text-align: right" src="/images/Robot2010Placeholder.png" width="500"/>
