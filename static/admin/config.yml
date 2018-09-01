@@ -19,6 +19,15 @@ collections:
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Description", name: "description", widget: "markdown"}
             - {label: "Image", name: "image", widget: "image"}
+- name: "games"
+  label: "games"
+  folder: "content"
+  create: true
+  slug: "{{slug}}"
+  fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Description", name: "description", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored
