@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+
+<main id="main">
+
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Article main content -->
+            <article class="col-sm-12 maincontent">
+
+                <table border="0" style="width: 100%; margin: 20px">
+                    <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    {{ range .Site.Data.games.games }}
+                        {{ partial "games/game" . }}
+                    {{ end }}
+
+                    </tbody>
+                </table>
+
+                </table>
+            </article>
+            <!-- /Article -->
+
+
+        </div>
+    </div>    <!-- /container -->
+
+</main>
+
+{{ partial "footer.html" . }}

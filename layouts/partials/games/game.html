@@ -1,0 +1,38 @@
+{{ if eq (.align) "left" }}
+<tr>
+  <td>
+    <center>
+    <a href="/{{ replace (.title) " " "_" }}"><img style="text-align: left" src="/images/games/first{{ replace (.title) " " "_" }}.png"/> </td>
+    </center>
+  <td>
+    <h1 style="font-size: 40pt; text-align: center">
+      First {{ .title | title }}: {{ .year }}
+    </h1>
+    <p style="text-align: center">
+    {{ .description }}
+    <br />
+    <a href="/{{ replace (.title) " " "_" }}"><img style="text-align: right" src="/images/LearnMoreButton.png" width="200" height="40"/>
+    </p>
+  </td>
+</tr>
+{{ end }}
+
+{{ if eq (.align) "right" }}
+
+<tr>
+    <td>
+    <h1 style="font-size: 40pt; text-align: center">
+      First {{ .title | title }}: {{ .year }}
+    </h1>
+    <p style="text-align: center">
+    {{ .description }}
+    <br />
+    <a href="/{{ replace (.title) " " "_" }}"><img style="text-align: right" src="/images/LearnMoreButton.png" width="200" height="40"/>
+    </p>
+  </td>
+  <td>
+    <center>
+    <a href="/{{ replace (.title) " " "_" }}"><img style="text-align: left" src="/images/games/first{{ replace (.title) " " "_" }}.png"/> </td>
+    </center>
+</tr>
+{{ end }}

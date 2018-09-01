@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2016"
 title = "FIRST Stronghold: 2016"
-type = "general"
+type = "game"
 +++
 
 <img style="text-align: right" src="/images/RobotsIcons/2016-robot.png" width="500"/>

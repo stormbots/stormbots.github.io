@@ -20,14 +20,16 @@ collections:
             - {label: "Description", name: "description", widget: "markdown"}
             - {label: "Image", name: "image", widget: "image"}
 - name: "games"
-  label: "games"
-  folder: "content"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Description", name: "description", widget: "string"}
-    - {label: "Body", name: "body", widget: "markdown"}
+  label: "Games"
+  files:
+    - name: games-data
+      label: "Games"
+      file: "data/games.yml"
+      create: true
+      fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Description", name: "description", widget: "markdown"}
+        - {label: "Year", name: "year", widget: "string"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored

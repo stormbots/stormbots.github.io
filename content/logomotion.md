@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2011"
 title = "FIRST Logomotion: 2011"
-type = "general"
+type = "game"
 +++
 
 <img style="text-align: right" src="/images/Robot2011Placeholder.png" width="500"/>

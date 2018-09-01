@@ -1,7 +1,7 @@
 +++
 description = "Stormbots in 2015"
 title = "FIRST Recycle Rush: 2015"
-type = "general"
+type = "game"
 +++
 
 <img style="text-align: right" src="/images/RobotsIcons/2015 Robot.png" width="500"/>
