@@ -8,7 +8,7 @@ collections:
   label: "About Page"
   files:
     - name: "about-data"
-      label: "About - data"
+      label: "About"
       file: "data/about.yml"
       fields:
         - { label: "Main Content", name: "main_content", widget: "markdown" }
@@ -25,11 +25,20 @@ collections:
     - name: games-data
       label: "Games"
       file: "data/games.yml"
-      create: true
       fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Description", name: "description", widget: "markdown"}
-        - {label: "Year", name: "year", widget: "string"}
+        - label: Games
+          name: games
+          widget: list
+          fields:
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Description", name: "description", widget: "markdown"}
+            - {label: "Year", name: "year", widget: "string"}
+            - {label: "Alignment", name: "align", widget: "select", options: ["right", "left"]}
+            - label: Banners
+              name: banners
+              widget: list
+              fields:
+                - {label: "Text", name: "text", widget: "string"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored
