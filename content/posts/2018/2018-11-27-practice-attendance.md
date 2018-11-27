@@ -1,7 +1,7 @@
 ---
 title: 'Practice attendance '
-date: '2018-11-27T08:14:17-08:00'
+date: '2018-11-27T11:55:51-08:00'
 seasons:
   - ''
 ---
-**Please, fill this form if you will be late, absent or leaving early: **[**https://goo.gl/forms/FolR2oQi8Sa4vxHX2**](https://docs.google.com/forms/d/e/1FAIpQLSe1qr6r_auiUgDDAkX3pnciFab436d_gRCBOeXFbJwIjyXBWg/viewform?usp=send_form)
+Please, fill [this form](https://goo.gl/forms/FolR2oQi8Sa4vxHX2) if you will be late, absent or leaving early
