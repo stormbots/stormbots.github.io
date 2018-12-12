@@ -179,7 +179,7 @@ List:
 
 - id: dz
   location: "Woodland, WA"
-  name: DZ & Family Machine Works, LLC
+  name: DZ &amp; Family Machine Works, LLC
   from: 2018
   years: [ 2018 ]
   level: thunderstorm
@@ -209,7 +209,7 @@ List:
     Humber Design Group specializes in the civil engineering and re-engineering of sites for all types and sizes of projects throughout the Pacific Northwest.
 
 - id: tbabb
-  name: Thomas & Betts, A Member of the ABB Group
+  name: Thomas &amp; Betts, A Member of the ABB Group
   from: 2018
   years: [ 2018 ]
   level: hurricane
