@@ -11,13 +11,13 @@
       <a href="{{ .partner.url }}"><img width="400" style="text-align: left" src="{{ .logodir }}/{{ .partner.logo }}"/> </td>
     <td>
       <h1 style="font-size: 30pt; text-align: center">
-        {{htmlUnescape (replace .partner.name "&" "<span class='clearfont'>&</span>")}}
+        {{safeHTML (replace (replace .partner.name "&" (htmlUnescape "<span class='clearfont'>&amp;</span>")) "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>"))}}
       </h1> </a>
       <h1 style="font-size: 30pt; text-align: center">
         {{.partner.location}}
       </h1> </a>
       <h1 style="font-size: 30pt; text-align: center">
-        {{.partner.from }}
+        {{safeHTML (replace .partner.from "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
       </h1> </a>
     </p>
     </td>
