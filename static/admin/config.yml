@@ -11,7 +11,11 @@ collections:
       label: "Home"
       file: "data/home.yml"
       fields:
-        - {label: "Text", name: "text", widget: "markdown"}
+        - {label: "Main Header", name: "header1", widget: "string"}
+        - {label: "Main Subheader", name: "header2", widget: "string"}
+        - {label: "Main Content", name: "main_content", widget: "markdown"}
+        - {label: "Secondary Header", name: "secondary_header", widget: "string"}
+        - {label: "Secondary Content", name: "secondary_content", widget: "markdown"}
 - name: "about"
   label: "About Page"
   files:
