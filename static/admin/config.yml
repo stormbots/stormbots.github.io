@@ -10,6 +10,8 @@ collections:
     - name: "home-data"
       label: "Home"
       file: "data/home.yml"
+      fields:
+        - {label: "Text", name: "text", widget: "markdown"}
 - name: "about"
   label: "About Page"
   files:
