@@ -4,6 +4,12 @@ backend:
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 collections:
+- name: "home"
+  label: "Home Page"
+  files:
+    - name: "home-data"
+      label: "Home"
+      file: "data/home.yml"
 - name: "about"
   label: "About Page"
   files:
