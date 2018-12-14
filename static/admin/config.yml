@@ -51,6 +51,22 @@ collections:
               widget: list
               fields:
                 - {label: "Text", name: "text", widget: "string"}
+- name: "partners"
+  label: "Partners"
+  files:
+    - name: "partners-data"
+      label: "Partners"
+      file: "data/Partners.yml"
+      fields:
+        - label: "Partners"
+          name: "List"
+          widget: "list"
+          fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Location", name: "location", widget: "string"}
+            - {label: "From", name: "from", widget: "string"}
+            - {label: "URL", name: "url", widget: "string"}
+            - {label: "Description", name: "desc", widget: "markdown"}
 - name: "posts" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored
