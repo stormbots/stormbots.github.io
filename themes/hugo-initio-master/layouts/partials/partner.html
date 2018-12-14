@@ -8,7 +8,7 @@
 <tbody>
   <tr>
     <td>
-      <a href="{{ .partner.url }}"><img width="400" style="text-align: left" src="{{ .logodir }}/{{ .partner.logo }}"/> </td>
+      <a href="{{ .partner.url }}"><img width="400" style="text-align: left" src="{{ .partner.logo }}"/> </td>
     <td>
       <h1 style="font-size: 30pt; text-align: center">
         {{safeHTML (replace (replace .partner.name "&" (htmlUnescape "<span class='clearfont'>&amp;</span>")) "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
