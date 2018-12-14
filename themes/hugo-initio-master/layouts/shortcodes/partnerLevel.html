@@ -1,5 +1,7 @@
 {{ $logodir := .Site.Data.Partners.LogoDir }}
 
+<table>
 {{ range $partner := (where .Site.Data.Partners.List "level" (.Get 0) ) }}
 {{ partial "partner" (dict "logodir" $logodir "partner" $partner) }}
 {{ end }}
+</table>

@@ -1,32 +1,32 @@
-<table border="0" width="100%" style="margin: 20px">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-<tbody>
-  <tr>
-    <td>
-      <a href="{{ .partner.url }}"><img width="400" style="text-align: left" src="{{ .partner.logo }}"/> </td>
-    <td>
-      <h1 style="font-size: 30pt; text-align: center">
-        {{safeHTML (replace (replace .partner.name "&" (htmlUnescape "<span class='clearfont'>&amp;</span>")) "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
-      </h1> </a>
-      <h1 style="font-size: 30pt; text-align: center">
-        {{.partner.location}}
-      </h1> </a>
-      <h1 style="font-size: 30pt; text-align: center">
-        {{safeHTML (replace .partner.from "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
-      </h1> </a>
-    </p>
+<tr>
+    <td width="300">
+        <a href="{{ .partner.url }}">
+            <img style="text-align: left" src="{{ .partner.logo }}"/>
+        </a>
     </td>
-  </tr>
-</tbody>
-</table>
-
-</table>
-
-<p style="font-size: 15pt; text-align: center"> {{.partner.desc}} </p>
-
-<hr>
+    <td width="50">&nbsp;</td>
+    <td>
+        <a href="{{ .partner.url }}">
+            <h1>
+                {{safeHTML (replace (replace .partner.name "&" (htmlUnescape "<span class='clearfont'>&amp;</span>")) "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
+            </h1>
+        </a>
+        <h3 class="clearfont">
+            {{.partner.location}}
+        </h3>
+        <h3 class="clearfont">
+            {{ .partner.from }}
+        </h3>
+    </td>
+</tr>
+<tr>
+    <td colspan="3">
+        <br />
+        <p style="font-size: 15pt; text-align: center"> {{.partner.desc}} </p>
+    </td>
+</tr>
+<tr>
+    <td colspan="3">
+        <hr />
+    </td>
+</tr>
