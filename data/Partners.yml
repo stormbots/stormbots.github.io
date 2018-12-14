@@ -1,219 +1,172 @@
-# This page provides a list of sponsor information
-# This can be picked up by other templates and content,
-# to quickly generate shoutouts to our sponsors,
-# or automatically generate sponsor pages
-#
-# Note: This page is in YAML format.
-# The dash on each new line is the separation
-# between each sponsor. These are all accessed as a list in the templates
-#
-# The ">" under notes indicates a folded line.
-# This lets you break up long lines for readability,
-# and will be treated as a single line in templates.
-# Note you do need to indent one additional level to
-# make this work
-#
-#
-
-LogoDir: "/images/partners"
 List:
-- id: platt
-  location: "Vancouver, WA"
-  name: Platt Electric Supply
-  from: 2008-2018
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: hurricane
-  logo: /TEMP/platt.png
-  url: https://www.platt.com/
-  desc: >
-    Electrical supply chain with a wide range of products including generators, lighting, tools & fuses.
-
-- id: boeing
-  name: The One and Only Boeing Company
-  from: 2008-2018
-  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: hurricane
-  logo: /TEMP/boeing.png
-  url: http://www.boeing.com/
-  desc: >
-    Boeing is the world's largest aerospace company and leading manufacturer of commercial jetliners and defense, space and security systems. A top U.S. exporter, the company supports airlines and U.S. and allied government customers in 150 countries.
-
-- id: ospi
-  name: Office of Superintendent of Public Instruction
-  from: 2008-2018
-  years: [ 2008, 2009, 2001, 2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: hurricane
-  logo: /TEMP/ospi.png
-  url: http://www.k12.wa.us/
-  desc: >
-    The Office of Superintendent of Public Instruction (OSPI) is the primary agency charged with overseeing K-12 public education in Washington state. Led by State School Superintendent Chris Reykdal, OSPI works with the state’s 295 school districts to administer basic education programs and implement education reform on behalf of more than one million public school students.
-
-- id: protech
-  name: Pro-Tech
-  from: 2013-2018
-  years: [ 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: hurricane
-  logo: /TEMP/pro-tech.png
-  url: http://www.protech.net/
-  desc: >
-     Protech offers us significant amounts of metal, which is used for building our robot and components
-
-- id: vps
-  name: Vancouver Public Schools
-  from: 2008-2018
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: torrent
-  logo: /TEMP/vps.png
-  test: Hello
-  url: http://vansd.org/
-  desc: >
-     Providing both financial support as well as the literal roof over our heads.
-     And there's the whole education thing, which is kind of a big deal.
-
-- id: hp
-  location: "Palo Alto, CA"
-  name: Hewlett-Packard
-  from: 2008-2018
-  years: [ 2008,2009,2001,2011, 2012, 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: torrent
-  logo: /TEMP/hp.png
-  url: http://www.hp.com/
-  desc: >
-    Our vision is to create technology that makes life better for everyone, everywhere — every person, every organization, and every community around the globe.
-
-- id: conmet
-  name: Con-Met
-  from: 2016-2018
-  years: [ 2016, 2017, 2018 ]
-  level: torrent
-  logo: /TEMP/con-met.png
-  url: https://www.conmet.com/
-  desc: >
-    We supply the commercial vehicle industry with wheel ends, hub assemblies, brake drums, hubs, rotors, aftermarket wheel products & OEM genuine products.
-
-- id: usnr
-  location: "Woodland, WA"
-  name: United States Natural Resources
-  from: 2014-2018
-  years: [ 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: thunderstorm
-  logo: /TEMP/usnr.png
-  url: https://www.usnr.com/en/page/home
-  desc: >
-    USNR is the world's largest, most comprehensive supplier of equipment and technologies for the wood processing industry.
-
-- id: olympus
-  name: Olympus Controls
-  from: 2016-2018
-  years: [ 2016, 2017, 2018 ]
-  level: thunderstorm
-  logo: /TEMP/olympuscontrols.png
-  url: http://olympuscontrols.com/
-  desc: >
-    Olympus Controls is an Engineering Services company that specializes in the integration of motion control, machine vision, and robotic technologies.
-
-- id: vancouverbolt
-  name: Vancouver Bolt And Supply
-  from: 2013-2018
-  years: [ 2013, 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: thunderstorm
-  logo: /TEMP/vancouverbolt.png
-  url: http://vancouverbolt.com/
-  desc: >
-     Vancouver Bolt offers us significant amounts of fasteners. They really hold our team together.
-
-- id: hightech
-  location:
-  name: High Tech Manufacturing
-  from: 2016-2018
-  years: [ 2016, 2017, 2018 ]
-  level: thunderstorm
-  logo: /TEMP/htmfg.png
-  url: http://htmfg.com/
-  desc: >
-    High Tech Manufacturing has provided outsourced manufacturing services to a local Semiconductor Industry Customer for many years and has developed from a supplier who originally source only R&D parts to a full service supplier able to support follow on manufacturing of production parts as well.
-
-- id: lanxess
-  location:
-  name: Lanxess
-  from: 2016-2018
-  years: [ 2015, 2016, 2017, 2018 ]
-  level: zephyr
-  logo: /TEMP/lanxess.png
-  url: https://lanxess.com/
-  desc:
-    Lanxess Aktiengesellschaft is a specialty chemicals company based in Cologne, Germany that was founded in 2004 via the spin-off of the chemicals division and parts of the polymers business from Bayer AG.
-
-- id: garlicjims
-  location: "Salmon Creek, WA"
-  name: "Garlic Jim's Pizza"
-  from: 2014-2018
-  years: [ 2014, 2015, 2015, 2016, 2017, 2018 ]
-  level: zephyr
-  logo: /TEMP/garlicjims.png
-  url: https://garlicjims.com/
-  desc: >
-     Hungry? So were we until Garlic Jim's
-     stepped in. Now we can afford to eat in our late night
-     building sprees.
-
-- id: usdigital
-  name: US Digital
-  from: 2015-2018
-  years: [ 2015, 2016, 2017, 2018 ]
-  level: hurricane
-  logo: /TEMP/usdigital.png
-  url: https://www.usdigital.com/
-  desc: >
-      US Digital designs and manufactures optical encoders, inclinometers & motion control components.
-
-- id: f5
-  name: F5
-  from: 2018
-  years: [ 2018 ]
-  level: torrent
-  logo: /TEMP/f5.png
-  url: http://f5.com
-  desc: >
-    At F5, we make apps go. Faster. Smarter. Safer.
-
-- id: dz
-  location: "Woodland, WA"
-  name: DZ & Family Machine Works, LLC
-  from: 2018
-  years: [ 2018 ]
-  level: thunderstorm
-  logo: /TEMP/dz.png
-  url: http://www.machineworks.biz/
-  desc: >
-    We are a full service industrial machine shop in Woodland, WA.
-
-- id: firstwa
-  name: FIRST Washington
-  from: 2018
-  years: [ 2018 ]
-  level: torrent
-  logo: /TEMP/first-washington-logo.png
-  url: https://www.firstwa.org/
-  desc: >
-    FIRST Washington inspires all young people to be science and technology leaders, by engaging them in exciting mentor-based programs that build science, engineering, and technology skills, that inspire innovation, and foster well-rounded life capabilities including self-confidence, communication, and leadership.
-
-- id: humber
-  name: Humber Design Group, Inc.
-  from: 2018
-  years: [ 2018 ]
-  level: torrent
-  logo: /TEMP/hdg-logo.png
-  url: http://hdgpdx.com/
-  desc: >
-    Humber Design Group specializes in the civil engineering and re-engineering of sites for all types and sizes of projects throughout the Pacific Northwest.
-
-- id: tbabb
-  name: Thomas & Betts, A Member of the ABB Group
-  from: 2018
-  years: [ 2018 ]
-  level: hurricane
-  logo: /TEMP/tb-abb-logo.png
-  url: http://www.tnb.com/pub/index.php
-  desc: >
-    Wherever electricity goes, so does Thomas & Betts.
+  - desc: >
+      Electrical supply chain with a wide range of products including
+      generators, lighting, tools & fuses.
+    from: 2008-2018
+    level: hurricane
+    location: 'Vancouver, WA'
+    logo: /images/uploads/platt.png
+    name: Platt Electric Supply
+    url: 'https://www.platt.com/'
+  - desc: >
+      Boeing is the world's largest aerospace company and leading manufacturer
+      of commercial jetliners and defense, space and security systems. A top
+      U.S. exporter, the company supports airlines and U.S. and allied
+      government customers in 150 countries.
+    from: 2008-2018
+    level: hurricane
+    logo: /images/uploads/boeing.png
+    name: The One and Only Boeing Company
+    url: 'http://www.boeing.com/'
+  - desc: >
+      The Office of Superintendent of Public Instruction (OSPI) is the primary
+      agency charged with overseeing K-12 public education in Washington state.
+      Led by State School Superintendent Chris Reykdal, OSPI works with the
+      state’s 295 school districts to administer basic education programs and
+      implement education reform on behalf of more than one million public
+      school students.
+    from: 2008-2018
+    level: hurricane
+    logo: /images/uploads/ospi.png
+    name: Office of Superintendent of Public Instruction
+    url: 'http://www.k12.wa.us/'
+  - desc: >
+      Protech offers us significant amounts of metal, which is used for building
+      our robot and components
+    from: 2013-2018
+    level: hurricane
+    logo: /images/uploads/pro-tech.png
+    name: Pro-Tech
+    url: 'http://www.protech.net/'
+  - desc: >
+      Providing both financial support as well as the literal roof over our
+      heads. And there's the whole education thing, which is kind of a big deal.
+    from: 2008-2018
+    level: torrent
+    logo: /images/uploads/vps.png
+    name: Vancouver Public Schools
+    url: 'http://vansd.org/'
+  - desc: >
+      Our vision is to create technology that makes life better for everyone,
+      everywhere — every person, every organization, and every community around
+      the globe.
+    from: 2008-2018
+    level: torrent
+    location: 'Palo Alto, CA'
+    logo: /images/uploads/hp.png
+    name: Hewlett-Packard
+    url: 'http://www.hp.com/'
+  - desc: >
+      We supply the commercial vehicle industry with wheel ends, hub assemblies,
+      brake drums, hubs, rotors, aftermarket wheel products & OEM genuine
+      products.
+    from: 2016-2018
+    level: torrent
+    logo: /images/uploads/con-met.png
+    name: Con-Met
+    url: 'https://www.conmet.com/'
+  - desc: >
+      USNR is the world's largest, most comprehensive supplier of equipment and
+      technologies for the wood processing industry.
+    from: 2014-2018
+    level: thunderstorm
+    location: 'Woodland, WA'
+    logo: /images/uploads/usnr.png
+    name: United States Natural Resources
+    url: 'https://www.usnr.com/en/page/home'
+  - desc: >
+      Olympus Controls is an Engineering Services company that specializes in
+      the integration of motion control, machine vision, and robotic
+      technologies.
+    from: 2016-2018
+    level: thunderstorm
+    logo: /images/uploads/olympuscontrols.png
+    name: Olympus Controls
+    url: 'http://olympuscontrols.com/'
+  - desc: >
+      Vancouver Bolt offers us significant amounts of fasteners. They really
+      hold our team together.
+    from: 2013-2018
+    level: thunderstorm
+    logo: /images/uploads/vancouverbolt.png
+    name: Vancouver Bolt And Supply
+    url: 'http://vancouverbolt.com/'
+  - desc: >
+      High Tech Manufacturing has provided outsourced manufacturing services to
+      a local Semiconductor Industry Customer for many years and has developed
+      from a supplier who originally source only R&D parts to a full service
+      supplier able to support follow on manufacturing of production parts as
+      well.
+    from: 2016-2018
+    level: thunderstorm
+    logo: /images/uploads/htmfg.png
+    name: High Tech Manufacturing
+    url: 'http://htmfg.com/'
+  - desc: >-
+      Lanxess Aktiengesellschaft is a specialty chemicals company based in
+      Cologne, Germany that was founded in 2004 via the spin-off of the
+      chemicals division and parts of the polymers business from Bayer AG.
+    from: 2016-2018
+    level: zephyr
+    logo: /images/uploads/lanxess.png
+    name: Lanxess
+    url: 'https://lanxess.com/'
+  - desc: >
+      Hungry? So were we until Garlic Jim's stepped in. Now we can afford to eat
+      in our late night building sprees.
+    from: 2014-2018
+    level: zephyr
+    location: 'Salmon Creek, WA'
+    logo: /images/uploads/garlicjims.png
+    name: Garlic Jim's Pizza
+    url: 'https://garlicjims.com/'
+  - desc: >
+      US Digital designs and manufactures optical encoders, inclinometers &
+      motion control components.
+    from: 2015-2018
+    level: hurricane
+    logo: /images/uploads/usdigital.png
+    name: US Digital
+    url: 'https://www.usdigital.com/'
+  - desc: |
+      At F5, we make apps go. Faster. Smarter. Safer.
+    from: 2018
+    level: torrent
+    logo: /images/uploads/f5.png
+    name: F5
+    url: 'http://f5.com'
+  - desc: |
+      We are a full service industrial machine shop in Woodland, WA.
+    from: 2018
+    level: thunderstorm
+    location: 'Woodland, WA'
+    logo: /images/uploads/dz.png
+    name: 'DZ & Family Machine Works, LLC'
+    url: 'http://www.machineworks.biz/'
+  - desc: >
+      FIRST Washington inspires all young people to be science and technology
+      leaders, by engaging them in exciting mentor-based programs that build
+      science, engineering, and technology skills, that inspire innovation, and
+      foster well-rounded life capabilities including self-confidence,
+      communication, and leadership.
+    from: 2018
+    level: torrent
+    logo: /images/uploads/first-washington-logo.png
+    name: FIRST Washington
+    url: 'https://www.firstwa.org/'
+  - desc: >
+      Humber Design Group specializes in the civil engineering and
+      re-engineering of sites for all types and sizes of projects throughout the
+      Pacific Northwest.
+    from: 2018
+    level: torrent
+    logo: /images/uploads/hdg-logo.png
+    name: 'Humber Design Group, Inc.'
+    url: 'http://hdgpdx.com/'
+  - desc: |
+      Wherever electricity goes, so does Thomas & Betts.
+    from: 2018
+    level: hurricane
+    logo: /images/uploads/tb-abb-logo.png
+    name: 'Thomas & Betts, A Member of the ABB Group'
+    url: 'http://www.tnb.com/pub/index.php'
