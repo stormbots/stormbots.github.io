@@ -11,12 +11,12 @@
                 {{safeHTML (replace (replace .partner.name "&" (htmlUnescape "<span class='clearfont'>&amp;</span>")) "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
             </h1>
         </a>
-        <h3 class="clearfont">
+        <h4 class="clearfont">
             {{.partner.location}}
-        </h3>
-        <h3 class="clearfont">
+        </h4>
+        <h4 class="clearfont">
             {{ .partner.from }}
-        </h3>
+        </h4>
     </td>
 </tr>
 <tr>
