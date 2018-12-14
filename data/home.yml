@@ -1,5 +1,7 @@
 header1:
 header2:
 secondary_header:
-main_content:
-secondary_content:
+main_content: >-
+  main content
+secondary_content: >-
+  secondary content
