@@ -11,7 +11,7 @@
       <a href="{{ .partner.url }}"><img width="400" style="text-align: left" src="{{ .logodir }}/{{ .partner.logo }}"/> </td>
     <td>
       <h1 style="font-size: 30pt; text-align: center">
-        {{.partner.name}}
+        {{replace .partner.name "&" "<span class='clearfont'>&</span>"}}
       </h1> </a>
       <h1 style="font-size: 30pt; text-align: center">
         {{.partner.location}}
