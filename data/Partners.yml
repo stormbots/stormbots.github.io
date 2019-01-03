@@ -15,7 +15,7 @@ List:
       government customers in 150 countries.
     from: 2008-2018
     level: hurricane
-    logo: /images/uploads/boeing.png
+    logo: /images/uploads/boeing-new.png
     name: The One and Only Boeing Company
     url: 'http://www.boeing.com/'
   - desc: >
@@ -170,3 +170,21 @@ List:
     logo: /images/uploads/tb-abb-logo.png
     name: 'Thomas & Betts, A Member of the ABB Group'
     url: 'http://www.tnb.com/pub/index.php'
+  - desc: >-
+      Microsoft enables digital transformation for the era of an intelligent
+      cloud and an intelligent edge. Its mission is to empower every person and
+      every organization on the planet to achieve more.
+    from: '2018'
+    level: thunderstorm
+    logo: /images/uploads/microsoft.png
+    name: Microsoft
+    url: 'https://www.microsoft.com'
+  - desc: >-
+      First Tech specializes in serving the needs of the world's most
+      forward-thinking companies, including HP, Microsoft, Agilent Technologies,
+      Amazon, Cisco and many more.
+    from: '2018'
+    level: torrent
+    logo: /images/uploads/first-tech-fed.jpg
+    name: First Tech Federal Credit Union
+    url: 'https://www.firsttechfed.com'
