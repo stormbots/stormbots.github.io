@@ -54,7 +54,7 @@ collections:
 - name: "partners_page"
   label: "Partners Page"
   files:
-    - name: "partners-data"
+    - name: "partners-data-content"
       label: "Content"
       file: "data/Partners.yml"
       fields:
