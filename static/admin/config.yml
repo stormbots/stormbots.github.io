@@ -51,11 +51,11 @@ collections:
               widget: list
               fields:
                 - {label: "Text", name: "text", widget: "string"}
-- name: "partners"
-  label: "Partners"
+- name: "partners_page"
+  label: "Partners Page"
   files:
     - name: "partners-data"
-      label: "Partners"
+      label: "Content"
       file: "data/Partners.yml"
       fields:
         - label: Title
@@ -70,6 +70,12 @@ collections:
           fields:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "Amount", name: "amount", widget: "string"}
+- name: "partners"
+  label: "Partners List"
+  files:
+    - name: "partners-data"
+      label: "Partners"
+      file: "data/Partners.yml"
         - label: "Partners List"
           name: "List"
           widget: "list"
