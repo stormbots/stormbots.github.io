@@ -11,13 +11,7 @@ background-color:#4e82d0;
 height:auto;
 }
 
-/* Styling for the header container*/
-#header {
-margin: 10px 20px 10px 20px;
-color: #fff;
-font-size: 18px;
-background-color: #888;
-}
+
 
 /* Styling for an individual calendar event item */
 
