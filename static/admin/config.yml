@@ -76,6 +76,7 @@ collections:
     - name: "partners-data"
       label: "Partners"
       file: "data/Partners.yml"
+      fields:
         - label: "Partners List"
           name: "List"
           widget: "list"
