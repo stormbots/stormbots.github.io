@@ -58,7 +58,19 @@ collections:
       label: "Partners"
       file: "data/Partners.yml"
       fields:
-        - label: "Partners"
+        - label: Title
+          name: title
+          widget: string
+        - label: Body
+          name: content
+          widget: markdown
+        - label: "Partner Levels"
+          name: "Levels"
+          widget: "list"
+          fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Amount", name: "amount", widget: "string"}
+        - label: "Partners List"
           name: "List"
           widget: "list"
           fields:
