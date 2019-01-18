@@ -70,6 +70,13 @@ collections:
           fields:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "Amount", name: "amount", widget: "string"}
+        - label: "Testimonials"
+          name: "testimonials"
+          widget: "list"
+          fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Grade", name: "grade", widget: "string"}
+            - {label: "Testimonial", name: "testimonial", widget: "string"}
 - name: "partners"
   label: "Partners List"
   files:
