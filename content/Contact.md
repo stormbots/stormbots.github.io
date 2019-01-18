@@ -5,7 +5,7 @@ menu = "Contact"
 type = "general"
 +++
 
-<table  border="0" style="width: 100%; margin: 20px">
+<table  border="0" cellpadding="5" style="width: 100%; margin: 20px">
   <thead>
     <tr>
       <th></th>
@@ -16,11 +16,11 @@ type = "general"
 
     <tr>
     <td>
-      <a href="https://twitter.com/stormbots" target="_blank"><img width="150" height="120" "text-align: center" src="/images/Contact/twitter.png"/>
+      <a href="https://twitter.com/stormbots" target="_blank"><img width="150" height="120" "text-align: center" src="/images/Contact/twitter.png" /></a>
     </td>
       <td>
-        <h1 style="color: blue; font-size: 50pt; text-align: center"> 
-          <a href="https://twitter.com/stormbots" target="_blank">Follow Us On Twitter/>
+        <h1 style="color: blue; font-size: 40px; text-align: center"> 
+          <a href="https://twitter.com/stormbots" target="_blank">Follow Us On Twitter</a>
         </h1>
       </td>
       </tr>
@@ -28,21 +28,22 @@ type = "general"
       <tr>
       <td>
         <a href="https://www.instagram.com/skyview_stormbots/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/instagram.png"/>
+        </a>
       </td>
         <td>
-          <h1 style="font-size: 50pt; text-align: center"> 
-            <a href="https://www.instagram.com/skyview_stormbots/" target="_blank">Follow Us On Instagram/>
+          <h1 style="font-size: 40px; text-align: center"> 
+            <a href="https://www.instagram.com/skyview_stormbots/" target="_blank">Follow Us On Instagram</a>
           </h1>
         </td>
         </tr>
 
         <tr>
         <td>
-          <a href="https://www.facebook.com/Skyview-StormBots-486806891361771/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/facebook.png"/>
+          <a href="https://www.facebook.com/Skyview-StormBots-486806891361771/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/facebook.png"/></a>
         </td>
           <td>
-            <h1 style="font-size: 50pt; text-align: center"> 
-              <a href="https://www.facebook.com/Skyview-StormBots-486806891361771/" target="_blank">Like Us On Facebook/>
+            <h1 style="font-size: 40px; text-align: center"> 
+              <a href="https://www.facebook.com/Skyview-StormBots-486806891361771/" target="_blank">Like Us On Facebook</a>
             </h1>
           </td>
           </tr>
@@ -52,63 +53,63 @@ type = "general"
             <img width="150" height="150" "text-align: center" src="/images/Contact/email.png"/>
           </td>
             <td>
-              <h1 style="font-size: 50pt; text-align: center"> 
-                Email Us At info<span><font face="Helvetica">@</span>stormbots<span><font face="Helvetica">.</span>com
+              <h1 style="font-size: 40px; text-align: center"> 
+                Email Us At info@stormbots.com
               </h1>
             </td>
             </tr>
 
             <tr>
             <td>
-              <a href="https://www.youtube.com/user/stormbots2811" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/youtube.png"/>
+              <a href="https://www.youtube.com/user/stormbots2811" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/youtube.png"/></a>
             </td>
               <td>
-                <h1 style="font-size: 50pt; text-align: center"> 
-                  <a href="https://www.youtube.com/user/stormbots2811" target="_blank">Subscribe On YouTube/>
+                <h1 style="font-size: 40px; text-align: center"> 
+                  <a href="https://www.youtube.com/user/stormbots2811" target="_blank">Subscribe On YouTube</a>
                 </h1>
               </td>
               </tr>
 
               <tr>
               <td>
-                <a href="https://www.youtube.com/user/stormbots2811" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/github.png"/>
+                <a href="https://www.youtube.com/user/stormbots2811" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/github.png"/></a>
               </td>
                 <td>
-                  <h1 style="font-size: 50pt; text-align: center"> 
-                    <a href="https://www.youtube.com/user/stormbots2811" target="_blank">Visit Us On GitHub/>
+                  <h1 style="font-size: 40px; text-align: center"> 
+                    <a href="https://www.youtube.com/user/stormbots2811" target="_blank">Visit Us On GitHub</a>
                   </h1>
                 </td>
                 </tr>
 
                 <tr>
                 <td>
-                  <a href="http://skyview.vansd.org/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/skyview.png"/>
+                  <a href="http://skyview.vansd.org/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/skyview.png"/></a>
                 </td>
                   <td>
-                    <h1 style="font-size: 50pt; text-align: center"> 
-                      <a href="http://skyview.vansd.org/" target="_blank">Our Schools Website/>
+                    <h1 style="font-size: 40px; text-align: center"> 
+                      <a href="http://skyview.vansd.org/" target="_blank">Our School's Website</a>
                     </h1>
                   </td>
                   </tr>
 
                   <tr>
                   <td>
-                    <a href="http://vansd.org/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/vancouverpublicschools.png"/>
+                    <a href="http://vansd.org/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/vancouverpublicschools.png"/></a>
                   </td>
                     <td>
-                      <h1 style="font-size: 50pt; text-align: center"> 
-                        <a href="http://vansd.org/" target="_blank">Our District Website/>
+                      <h1 style="font-size: 40px; text-align: center"> 
+                        <a href="http://vansd.org/" target="_blank">Our District Website</a>
                       </h1>
                     </td>
                     </tr>
 
                     <tr>
                     <td>
-                      <a href="https://www.firstinspires.org/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/first.png"/>
+                      <a href="https://www.firstinspires.org/" target="_blank"><img width="150" height="150" "text-align: center" src="/images/Contact/first.png"/></a>
                     </td>
                       <td>
-                        <h1 style="font-size: 50pt; text-align: center"> 
-                          <a href="https://www.firstinspires.org/" target="_blank">FIRST Robotics Website/>
+                        <h1 style="font-size: 40px; text-align: center"> 
+                          <a href="https://www.firstinspires.org/" target="_blank">FIRST Robotics Website</a>
                         </h1>
                       </td>
                       </tr>
