@@ -58,13 +58,14 @@ List:
     logo: /images/uploads/vps.png
     name: Vancouver Public Schools
     url: 'http://vansd.org/'
-  - desc: >
+  - desc: >-
       Our vision is to create technology that makes life better for everyone,
       everywhere — every person, every organization, and every community around
-      the globe.
+      the globe. HP has provided the team with financial support as well as
+      volunteer mentors.
     from: 2008-2018
     level: torrent
-    location: 'Palo Alto, CA'
+    location: 'Vancouver, WA'
     logo: /images/uploads/hp.png
     name: Hewlett-Packard
     url: 'http://www.hp.com/'
