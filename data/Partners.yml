@@ -9,15 +9,16 @@ List:
     logo: /images/uploads/platt.png
     name: Platt Electric Supply
     url: 'https://www.platt.com/'
-  - desc: >
+  - desc: >-
       Boeing is the world's largest aerospace company and leading manufacturer
       of commercial jetliners and defense, space and security systems. A top
       U.S. exporter, the company supports airlines and U.S. and allied
-      government customers in 150 countries.
+      government customers in 150 countries. Boeing has provided financial
+      support and volunteer mentors to the team since our team's inception.
     from: 2008-2018
     level: hurricane
     logo: /images/uploads/boeing-new.png
-    name: The One and Only Boeing Company
+    name: The Boeing Company
     url: 'http://www.boeing.com/'
   - desc: >
       The Office of Superintendent of Public Instruction (OSPI) is the primary
