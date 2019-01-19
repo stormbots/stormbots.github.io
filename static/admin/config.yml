@@ -118,4 +118,4 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Seasons", name: "seasons", widget: "list"}
     - {label: "Image", name: "image", widget: "image"}
-    - {label: "Video", name: "video", widget: "youtube"}
+    - {label: "Video", name: "video", widget: "youtube", extraInfo: false, APIkey: "AIzaSyBmzt9SFB41JYufGB3fsSxIARAIavonLrU"}
