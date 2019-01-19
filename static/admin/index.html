@@ -27,6 +27,9 @@
     
     CMS.registerPreviewTemplate("posts2018", PostPreview);
     CMS.registerPreviewTemplate("posts2019", PostPreview);
+
+    CMS.registerWidget('youtube', youtubeControl, youtubePreview)
+
     CMS.registerEditorComponent({
       id: "youtube",
       label: "Youtube",
