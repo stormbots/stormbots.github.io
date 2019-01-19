@@ -106,7 +106,6 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Seasons", name: "seasons", widget: "list"}
     - {label: "Image", name: "image", widget: "image"}
-    - {label: "Video", name: "video", widget: "youtube"}
 - name: "posts2018" # Used in routes, e.g., /admin/collections/blog
   label: "Posts 2018" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored
@@ -118,4 +117,3 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Seasons", name: "seasons", widget: "list"}
     - {label: "Image", name: "image", widget: "image"}
-    - {label: "Video", name: "video", widget: "youtube", extraInfo: false, APIkey: "AIzaSyBmzt9SFB41JYufGB3fsSxIARAIavonLrU"}
