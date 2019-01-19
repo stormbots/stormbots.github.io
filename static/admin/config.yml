@@ -95,8 +95,18 @@ collections:
             - {label: "Description", name: "desc", widget: "markdown"}
             - {label: "Level", name: "level", widget: "select", options: ["hurricane", "torrent", "thunderstorm", "zephyr", "breeze"]}
             - {label: "Logo", name: "logo", widget: "image"}
-- name: "posts" # Used in routes, e.g., /admin/collections/blog
-  label: "Posts" # Used in the UI
+- name: "posts2019" # Used in routes, e.g., /admin/collections/blog
+  label: "Posts 2019" # Used in the UI
+  folder: "content/posts/2019" # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  fields: # The fields for each document, usually in front matter
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime"}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Seasons", name: "seasons", widget: "list"}
+- name: "posts2018" # Used in routes, e.g., /admin/collections/blog
+  label: "Posts 2018" # Used in the UI
   folder: "content/posts/2018" # The path to the folder where the documents are stored
   create: true # Allow users to create new documents in this collection
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
