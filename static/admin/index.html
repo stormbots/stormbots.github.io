@@ -16,20 +16,6 @@
   <script>
     CMS.registerPreviewStyle("/css/styles.css");
 
-    var PostPreview = createClass({
-      render: function () {
-        var entry = this.props.entry;
-        return h('div', {},
-          h('h1', {}, entry.getIn(['data', 'title'])),
-          h('h3', {}, entry.getIn(['data', 'date'])),
-          h('div', { "className": "text" }, this.props.widgetFor('body'))
-        );
-      }
-    });
-
-    CMS.registerPreviewTemplate("posts2018", PostPreview);
-    CMS.registerPreviewTemplate("posts2019", PostPreview);
-
     CMS.registerEditorComponent({
       id: "youtube",
       label: "Youtube",
