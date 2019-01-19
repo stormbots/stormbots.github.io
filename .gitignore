@@ -11,5 +11,8 @@
 # Do not ignore the gitignore file though! 
 !.gitignore
 
+# or .keep files I use to commit empty folders.
+!.keep
+
 # text editor temp file
 *~
