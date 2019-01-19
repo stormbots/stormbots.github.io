@@ -8,7 +8,8 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-  <script src='/cms.js'></script>
+  <script src="https://unpkg.com/netlify-cms-widget-youtube@^0.3.0"></script>
+ 
   <script>
     var PostPreview = createClass({
       render: function() {
@@ -24,7 +25,8 @@
       }
     });
     
-    CMS.registerPreviewTemplate("posts", PostPreview);
+    CMS.registerPreviewTemplate("posts2018", PostPreview);
+    CMS.registerPreviewTemplate("posts2019", PostPreview);
     CMS.registerEditorComponent({
       id: "youtube",
       label: "Youtube",
