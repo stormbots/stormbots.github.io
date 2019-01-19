@@ -218,6 +218,7 @@ h6,
     font-family: "Righteous", Helvetica, Arial, sans-serif;
     font-weight: 400;
     color: #0c0030;
+    text-transform: uppercase;
 }
 
 h1 {
@@ -901,6 +902,17 @@ footer.entry-meta .meta-in {
 
 #respond {
     margin: 55px 0 0 0;
+}
+
+/*****
+CONTACT
+****/
+
+#contact-table img {
+    max-width: 120px;
+}
+#contact-table td {
+    vertical-align: middle;
 }
 
 /*********************************************************************
