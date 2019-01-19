@@ -1,5 +1,5 @@
 ---
-date: 2018-01-11
+date: 2018-01-11T00:00:00.000Z
 title: SNAP Fundraiser Update!
 season: 2018
 ---
