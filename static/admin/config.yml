@@ -51,13 +51,24 @@ collections:
               widget: list
               fields:
                 - {label: "Text", name: "text", widget: "string"}
-- name: "partners_page"
-  label: "Partners Page"
+- name: "partners"
+  label: "Partners"
   files:
     - name: "partners-data-content"
       label: "Content"
       file: "data/Partners.yml"
       fields:
+        - label: "Partners List"
+          name: "List"
+          widget: "list"
+          fields:
+            - {label: "Name", name: "name", widget: "string"}
+            - {label: "Location", name: "location", widget: "string"}
+            - {label: "From", name: "from", widget: "string"}
+            - {label: "URL", name: "url", widget: "string"}
+            - {label: "Description", name: "desc", widget: "markdown"}
+            - {label: "Level", name: "level", widget: "select", options: ["hurricane", "torrent", "thunderstorm", "zephyr", "breeze"]}
+            - {label: "Logo", name: "logo", widget: "image"}
         - label: Title
           name: title
           widget: string
@@ -77,24 +88,6 @@ collections:
             - {label: "Name", name: "name", widget: "string"}
             - {label: "Grade", name: "grade", widget: "string"}
             - {label: "Testimonial", name: "testimonial", widget: "string"}
-- name: "partners"
-  label: "Partners List"
-  files:
-    - name: "partners-data"
-      label: "Partners"
-      file: "data/Partners.yml"
-      fields:
-        - label: "Partners List"
-          name: "List"
-          widget: "list"
-          fields:
-            - {label: "Name", name: "name", widget: "string"}
-            - {label: "Location", name: "location", widget: "string"}
-            - {label: "From", name: "from", widget: "string"}
-            - {label: "URL", name: "url", widget: "string"}
-            - {label: "Description", name: "desc", widget: "markdown"}
-            - {label: "Level", name: "level", widget: "select", options: ["hurricane", "torrent", "thunderstorm", "zephyr", "breeze"]}
-            - {label: "Logo", name: "logo", widget: "image"}
 - name: "posts2019" # Used in routes, e.g., /admin/collections/blog
   label: "Posts 2019" # Used in the UI
   folder: "content/posts/2019" # The path to the folder where the documents are stored
