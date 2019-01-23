@@ -10,231 +10,27 @@ Levels:
   - amount: 40
     name: thunderstorm
 testimonials:
-  - grade: 11
+  - grade: Class of 2013
     name: Sara A
     testimonial: >-
       I started out not even knowing what HTML was or how to make graphs in
       Excel, and now I know a lot about making websites, and how to use SQL
       server database and run macros in Excel.
-  - grade: '12'
+  - grade: Class of 2012
     name: Jeff B
     testimonial: >-
-      AS a senior, it was my job to start stepping back this year and letting
+      As a senior, it was my job to start stepping back this year and letting
       the younger students learn  how to build robots and take from my
       experience to help them learn faster than I did.
-  - grade: '11'
+  - grade: Class of 2012
     name: 'Hsuan-ting '
     testimonial: >-
       I volunteered at the FIRST Lego League robotics tournament for score
       keeping and technical  check-in ... without participating on the
       StormBots, I would probably have missed out on this chance to see little
       kids with their passion in robotics.
-  - grade: '12'
+  - grade: Class of 2012
     name: Ian H
     testimonial: >-
       I learned a lot about the physics of flight which we used to determine
       flight angle and trajectory for our shooter device. 
-List:
-  - desc: >-
-      Electrical supply chain with a wide range of products including
-      generators, lighting, tools & fuses. Platt Electric has been a supporter
-      since our team's inception with donated materials and volunteer mentors.
-    from: 2008-2018
-    level: hurricane
-    location: 'Vancouver, WA'
-    logo: /images/uploads/platt.png
-    name: Platt Electric Supply
-    url: 'https://www.platt.com/'
-  - desc: >-
-      Boeing is the world's largest aerospace company and leading manufacturer
-      of commercial jetliners and defense, space and security systems. A top
-      U.S. exporter, the company supports airlines and U.S. and allied
-      government customers in 150 countries. 
-
-
-      Boeing has provided financial support and volunteer mentors to the team
-      since our team's inception.
-    from: 2008-2018
-    level: hurricane
-    logo: /images/uploads/boeing-new.png
-    name: The Boeing Company
-    url: 'http://www.boeing.com/'
-  - desc: >
-      The Office of Superintendent of Public Instruction (OSPI) is the primary
-      agency charged with overseeing K-12 public education in Washington state.
-      Led by State School Superintendent Chris Reykdal, OSPI works with the
-      state’s 295 school districts to administer basic education programs and
-      implement education reform on behalf of more than one million public
-      school students.
-    from: 2008-2018
-    level: hurricane
-    location: 'Olympia, WA'
-    logo: /images/uploads/ospi.png
-    name: Office of Superintendent of Public Instruction
-    url: 'http://www.k12.wa.us/'
-  - desc: >-
-      When you rely on your tractor trailer to earn a living, make sure you
-      protect your investment with the best equipment and accessories possible.
-      Each product ProTech builds is crafted to specifically fit your truck and
-      to be of the highest standard and quality possible.
-
-
-      Protech offers us significant amounts of metal, which is used for building
-      our robot and components.
-    from: 2013-2018
-    level: hurricane
-    logo: /images/uploads/pro-tech.png
-    name: Pro-Tech
-    url: 'http://www.protech.net/'
-  - desc: >
-      Providing both financial support as well as the literal roof over our
-      heads. And there's the whole education thing, which is kind of a big deal.
-    from: 2008-2018
-    level: torrent
-    logo: /images/uploads/vps.png
-    name: Vancouver Public Schools
-    url: 'http://vansd.org/'
-  - desc: >-
-      Our vision is to create technology that makes life better for everyone,
-      everywhere — every person, every organization, and every community around
-      the globe. HP has provided the team with financial support as well as
-      volunteer mentors.
-    from: 2008-2018
-    level: torrent
-    location: 'Vancouver, WA'
-    logo: /images/uploads/hp.png
-    name: Hewlett-Packard
-    url: 'http://www.hp.com/'
-  - desc: >
-      We supply the commercial vehicle industry with wheel ends, hub assemblies,
-      brake drums, hubs, rotors, aftermarket wheel products & OEM genuine
-      products.
-    from: 2016-2018
-    level: torrent
-    logo: /images/uploads/con-met.png
-    name: Con-Met
-    url: 'https://www.conmet.com/'
-  - desc: >-
-      USNR is the world's largest, most comprehensive supplier of equipment and
-      technologies for the wood processing industry. USNR shares its expertise
-      with the team through the volunteer mentors.
-    from: 2014-2018
-    level: thunderstorm
-    location: 'Woodland, WA'
-    logo: /images/uploads/usnr.png
-    name: United States Natural Resources
-    url: 'https://www.usnr.com/en/page/home'
-  - desc: >
-      Olympus Controls is an Engineering Services company that specializes in
-      the integration of motion control, machine vision, and robotic
-      technologies.
-    from: 2016-2018
-    level: thunderstorm
-    logo: /images/uploads/olympuscontrols.png
-    name: Olympus Controls
-    url: 'http://olympuscontrols.com/'
-  - desc: >
-      Vancouver Bolt offers us significant amounts of fasteners. They really
-      hold our team together.
-    from: 2013-2018
-    level: thunderstorm
-    logo: /images/uploads/vancouverbolt.png
-    name: Vancouver Bolt And Supply
-    url: 'http://vancouverbolt.com/'
-  - desc: >
-      High Tech Manufacturing has provided outsourced manufacturing services to
-      a local Semiconductor Industry Customer for many years and has developed
-      from a supplier who originally source only R&D parts to a full service
-      supplier able to support follow on manufacturing of production parts as
-      well.
-    from: 2016-2018
-    level: thunderstorm
-    logo: /images/uploads/htmfg.png
-    name: High Tech Manufacturing
-    url: 'http://htmfg.com/'
-  - desc: >-
-      Lanxess Aktiengesellschaft is a specialty chemicals company based in
-      Cologne, Germany that was founded in 2004 via the spin-off of the
-      chemicals division and parts of the polymers business from Bayer AG.
-    from: 2016-2018
-    level: zephyr
-    logo: /images/uploads/lanxess.png
-    name: Lanxess
-    url: 'https://lanxess.com/'
-  - desc: >-
-      Hungry? So were we until Garlic Jim's stepped in. Now we can afford to eat
-      in our late night and weekend building sprees.
-    from: 2010-2018
-    level: zephyr
-    location: 'Salmon Creek, WA'
-    logo: /images/uploads/garlicjims.png
-    name: Garlic Jim's Pizza
-    url: 'https://garlicjims.com/'
-  - desc: >
-      US Digital designs and manufactures optical encoders, inclinometers &
-      motion control components.
-    from: 2015-2018
-    level: hurricane
-    logo: /images/uploads/usdigital.png
-    name: US Digital
-    url: 'https://www.usdigital.com/'
-  - desc: |
-      At F5, we make apps go. Faster. Smarter. Safer.
-    from: 2018
-    level: torrent
-    logo: /images/uploads/f5.png
-    name: F5
-    url: 'http://f5.com'
-  - desc: |
-      We are a full service industrial machine shop in Woodland, WA.
-    from: 2018
-    level: thunderstorm
-    location: 'Woodland, WA'
-    logo: /images/uploads/dz.png
-    name: 'DZ & Family Machine Works, LLC'
-    url: 'http://www.machineworks.biz/'
-  - desc: >
-      FIRST Washington inspires all young people to be science and technology
-      leaders, by engaging them in exciting mentor-based programs that build
-      science, engineering, and technology skills, that inspire innovation, and
-      foster well-rounded life capabilities including self-confidence,
-      communication, and leadership.
-    from: 2018
-    level: torrent
-    logo: /images/uploads/first-washington-logo.png
-    name: FIRST Washington
-    url: 'https://www.firstwa.org/'
-  - desc: >
-      Humber Design Group specializes in the civil engineering and
-      re-engineering of sites for all types and sizes of projects throughout the
-      Pacific Northwest.
-    from: 2018
-    level: torrent
-    logo: /images/uploads/hdg-logo.png
-    name: 'Humber Design Group, Inc.'
-    url: 'http://hdgpdx.com/'
-  - desc: |
-      Wherever electricity goes, so does Thomas & Betts.
-    from: 2018
-    level: hurricane
-    logo: /images/uploads/tb-abb-logo.png
-    name: 'Thomas & Betts, A Member of the ABB Group'
-    url: 'http://www.tnb.com/pub/index.php'
-  - desc: >-
-      Microsoft enables digital transformation for the era of an intelligent
-      cloud and an intelligent edge. Its mission is to empower every person and
-      every organization on the planet to achieve more.
-    from: '2018'
-    level: thunderstorm
-    logo: /images/uploads/microsoft.png
-    name: Microsoft
-    url: 'https://www.microsoft.com'
-  - desc: >-
-      First Tech specializes in serving the needs of the world's most
-      forward-thinking companies, including HP, Microsoft, Agilent Technologies,
-      Amazon, Cisco and many more.
-    from: '2018'
-    level: torrent
-    logo: /images/uploads/first-tech-fed.jpg
-    name: First Tech Federal Credit Union
-    url: 'https://www.firsttechfed.com'
