@@ -41,11 +41,18 @@ publishDir = "public"
     url = "/partners/"
     weight = 5
     identifier = "partners"
+    
+[[menu.main]]
+    name = "Our Partners"
+    url = "/partners/"
+    weight = 1
+    identifier = "ourpartners"
+    parent = "partners"
 
 [[menu.main]]
     name = "Get Involved"
     url = "/get-involved"
-    weight = 1
+    weight = 2
     parent = "partners"
 
 [[menu.main]]
