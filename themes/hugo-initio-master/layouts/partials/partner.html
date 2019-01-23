@@ -8,7 +8,7 @@
     <td>
         <a href="{{ .partner.url }}">
             <h1>
-                {{safeHTML (replace (replace .partner.name "&" (htmlUnescape "<span class='clearfont'>&amp;</span>")) "-" (htmlUnescape "<span class='clearfont'>&ndash;</span>")) }}
+                {{.partner.name }}
             </h1>
         </a>
         <h4 class="clearfont">

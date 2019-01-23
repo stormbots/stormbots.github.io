@@ -7,7 +7,7 @@
         <div class="row">
 
             <!-- Article main content -->
-            <article class="col-sm-12 maincontent">
+            <article class="col-sm-8 maincontent">
 
                 <h1>{{ .Site.Data.Partners.title }}</h1>
                 
@@ -16,6 +16,14 @@
                 </table>
             </article>
             <!-- /Article -->
+
+            <div class="col-sm-1">&nbsp;</div>
+
+            <div class="col-sm-3">
+                {{ range .Site.Data.Partners.testimonials }}
+                    {{ partial "testimonial"  .}}
+                {{ end }}
+            </div>
 
 
         </div>
