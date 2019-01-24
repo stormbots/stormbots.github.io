@@ -1,106 +1,9 @@
-title: 'Get Involved: Invest in the Future!'
-content: >-
-  ## The Problem
-
-
-  We live in a society that idolizes entertainment – athletes, musicians, and
-  actors. Yet none of the scientific and technological advancements that have
-  bettered our standard of living since the Middle Ages have been due to
-  entertainment; they have been due to the hard work of scientists and engineers
-  around the world finding innovative solutions to the world’s problems. As the
-  world becomes more complex and the old ways of doing things becomes
-  insufficient, more and more scientists and engineers will be needed to solve
-  the difficult problems of tomorrow. However, not enough young people are
-  pursuing careers in science and technology to meet future needs. With the
-  introduction of FIRST Robotics, students from elementary through high school
-  now have an opportunity to further advance their knowledge on subjects that
-  not only interest them, but help them by giving them skills that are
-  applicable and desired in today's technology driven industries.
-
-
-  ## The Solution
-
-
-  To combat this problem, Dean Kamen, inventor and visionary, founded the
-  organization known as FIRST – [**F**or **I**nspiration and **R**ecognition of
-  **S**cience and
-  **T**echnology](https://www.firstinspires.org/about/vision-and-mission). FIRST
-  holds annual regional and national robot competitions for school and
-  community-based teams. These competitions celebrate the creative and
-  innovative use of science and technology in solving complex problems. Mentored
-  by working adults from all career fields, students learn that careers related
-  to science and technology can be fun, exciting, and rewarding.
-
-
-  ## Why me or my company?
-
-
-  Supporting the Skyview StormBots has many direct benefits to your company.
-  Besides supporting youth in the local community, working with the StormBots is
-  a great opportunity to help young people develop interest in careers at your
-  company. Professionals from your company can volunteer/mentor our team and
-  help students build industry desired knowledge and skills in a way that is
-  rewarding to both the students and the mentors.  Financial support provides
-  resources for the students to design and experiment as they code and build
-  functional robotic systems. As a financial or in-kind sponsor, your company
-  name will be promoted on our team's banners at all public team events, on our
-  website, on our tee-shirts, and in our team brochure. 
-
-
-  > To learn more about becoming a supporter of the Skyview StormBots please
-  contact us at: info@StormBots.com. Contributions to the StormBots are
-  tax-deductible. 
-
-
-  \[Thanks to Team 492 Titan Robotics Club for inspiration on reasons to support
-  robotics teams]
-Levels:
-  - amount: 10
-    name: hurricane
-  - amount: 20
-    name: zephyr
-  - amount: 30
-    name: torrent
-  - amount: 40
-    name: thunderstorm
-testimonials:
-  - grade: 'Class of 2014, 4 years a StormBot. BS Mechanical Engineering'
-    name: Rebecca L
-    testimonial: >-
-      I loved everything about being a StormBot! I loved working to solve
-      problems, coming up with new concepts and turning them into prototypes and
-      all the friends I made.
-  - grade: 'Class of 2013, 4 years a StormBot, BS Electrical Engineering'
-    name: 'Mike H. '
-    testimonial: >-
-      I did have the advantage of having gained the experience from FIRST that
-      most people didn't get until they were out of college. Going into college
-      with that head-start was extremely useful.
-  - grade: 'Class of 2015, BBA Accounting, 4 years a StormBot'
-    name: Katherine C.
-    testimonial: >-
-      In my interview with Intel I discussed how robotics has given me an
-      interest in technology. I told the interviewer how proud I was to work in
-      STEM and how I would love to continue supporting the STEM industry in my
-      career as an accountant. The interviewer even told me that my comments
-      about the tech industry made her feel even prouder to work at Intel. I am
-      confident that this set me apart from the hundreds of applicants and was a
-      significant factor in me getting the position.
-  - grade: 'Senior, 4 years a StormBot'
-    name: Jacob O.
-    testimonial: >-
-      Being on the StormBots taught me a lot about engineering and working in a
-      professional environment
-  - grade: 'Senior, 4 years a StormBot'
-    name: Steven S.
-    testimonial: >-
-      I enjoy the hands on experience, and i like to learn and teach others new
-      skills and be able to create new things.
 List:
   - desc: >-
       Electrical supply chain with a wide range of products including
-      generators, lighting, tools & fuses. Platt Electric has been a supporter
-      since our team's inception with donated materials and volunteer mentors.
+      generators, lighting, tools, and fuses. Platt Electric has been a
+      supporter since our team's inception with donated materials and volunteer
+      mentors.
     from: 2008-2018
     level: hurricane
     location: 'Vancouver, WA'
@@ -300,3 +203,101 @@ List:
     logo: /images/uploads/first-tech-fed.jpg
     name: First Tech Federal Credit Union
     url: 'https://www.firsttechfed.com'
+title: 'Get Involved: Invest in the Future!'
+content: >-
+  ## The Problem
+
+
+  We live in a society that idolizes entertainment – athletes, musicians, and
+  actors. Yet none of the scientific and technological advancements that have
+  bettered our standard of living since the Middle Ages have been due to
+  entertainment; they have been due to the hard work of scientists and engineers
+  around the world finding innovative solutions to the world’s problems. As the
+  world becomes more complex and the old ways of doing things becomes
+  insufficient, more and more scientists and engineers will be needed to solve
+  the difficult problems of tomorrow. However, not enough young people are
+  pursuing careers in science and technology to meet future needs. With the
+  introduction of FIRST Robotics, students from elementary through high school
+  now have an opportunity to further advance their knowledge on subjects that
+  not only interest them, but help them by giving them skills that are
+  applicable and desired in today's technology driven industries.
+
+
+  ## The Solution
+
+
+  To combat this problem, Dean Kamen, inventor and visionary, founded the
+  organization known as FIRST – [**F**or **I**nspiration and **R**ecognition of
+  **S**cience and
+  **T**echnology](https://www.firstinspires.org/about/vision-and-mission). FIRST
+  holds annual regional and national robot competitions for school and
+  community-based teams. These competitions celebrate the creative and
+  innovative use of science and technology in solving complex problems. Mentored
+  by working adults from all career fields, students learn that careers related
+  to science and technology can be fun, exciting, and rewarding.
+
+
+  ## Why me or my company?
+
+
+  Supporting the Skyview StormBots has many direct benefits to your company.
+  Besides supporting youth in the local community, working with the StormBots is
+  a great opportunity to help young people develop interest in careers at your
+  company. Professionals from your company can volunteer/mentor our team and
+  help students build industry desired knowledge and skills in a way that is
+  rewarding to both the students and the mentors.  Financial support provides
+  resources for the students to design and experiment as they code and build
+  functional robotic systems. As a financial or in-kind sponsor, your company
+  name will be promoted on our team's banners at all public team events, on our
+  website, on our tee-shirts, and in our team brochure. 
+
+
+  > To learn more about becoming a supporter of the Skyview StormBots please
+  contact us at: info@StormBots.com. Contributions to the StormBots are
+  tax-deductible. 
+
+
+  \[Thanks to Team 492 Titan Robotics Club for inspiration on reasons to support
+  robotics teams]
+Levels:
+  - amount: 10
+    name: hurricane
+  - amount: 20
+    name: zephyr
+  - amount: 30
+    name: torrent
+  - amount: 40
+    name: thunderstorm
+testimonials:
+  - grade: 'Class of 2014, 4 years a StormBot. BS Mechanical Engineering'
+    name: Rebecca L
+    testimonial: >-
+      I loved everything about being a StormBot! I loved working to solve
+      problems, coming up with new concepts and turning them into prototypes and
+      all the friends I made.
+  - grade: 'Class of 2013, 4 years a StormBot, BS Electrical Engineering'
+    name: 'Mike H. '
+    testimonial: >-
+      I did have the advantage of having gained the experience from FIRST that
+      most people didn't get until they were out of college. Going into college
+      with that head-start was extremely useful.
+  - grade: 'Class of 2015, BBA Accounting, 4 years a StormBot'
+    name: Katherine C.
+    testimonial: >-
+      In my interview with Intel I discussed how robotics has given me an
+      interest in technology. I told the interviewer how proud I was to work in
+      STEM and how I would love to continue supporting the STEM industry in my
+      career as an accountant. The interviewer even told me that my comments
+      about the tech industry made her feel even prouder to work at Intel. I am
+      confident that this set me apart from the hundreds of applicants and was a
+      significant factor in me getting the position.
+  - grade: 'Senior, 4 years a StormBot'
+    name: Jacob O.
+    testimonial: >-
+      Being on the StormBots taught me a lot about engineering and working in a
+      professional environment
+  - grade: 'Senior, 4 years a StormBot'
+    name: Steven S.
+    testimonial: >-
+      I enjoy the hands on experience, and i like to learn and teach others new
+      skills and be able to create new things.
