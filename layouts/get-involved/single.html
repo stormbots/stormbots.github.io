@@ -9,9 +9,9 @@
             <!-- Article main content -->
             <article class="col-sm-8 maincontent">
 
-                <h1>{{ .Site.Data.Partners.title }}</h1>
+                <h1>{{ .Site.Data.partner_content.title }}</h1>
                 
-                {{ .Site.Data.Partners.content | markdownify }}
+                {{ .Site.Data.partner_content.content | markdownify }}
 
                 </table>
             </article>
@@ -20,7 +20,7 @@
             <div class="col-sm-1">&nbsp;</div>
 
             <div class="col-sm-3">
-                {{ range .Site.Data.Partners.testimonials }}
+                {{ range .Site.Data.partner_content.testimonials }}
                     {{ partial "testimonial"  .}}
                 {{ end }}
             </div>

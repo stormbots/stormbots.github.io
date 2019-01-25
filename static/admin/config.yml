@@ -72,9 +72,9 @@ collections:
 - name: "partners_content"
   label: "Get Involved"
   files:
-    - name: "partner-content"
+    - name: "partner_content"
       label: "Content"
-      file: "data/partner-content.yml"
+      file: "data/partner_content.yml"
       fields:
         - label: Title
           name: title
