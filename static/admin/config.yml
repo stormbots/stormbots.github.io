@@ -54,8 +54,8 @@ collections:
 - name: "partners"
   label: "Partners"
   files:
-    - name: "partners-data-content"
-      label: "Content"
+    - name: "partners"
+      label: "Our Partners"
       file: "data/Partners.yml"
       fields:
         - label: "Partners List"
@@ -69,6 +69,13 @@ collections:
             - {label: "Description", name: "desc", widget: "markdown"}
             - {label: "Level", name: "level", widget: "select", options: ["hurricane", "torrent", "thunderstorm", "zephyr", "breeze"]}
             - {label: "Logo", name: "logo", widget: "image"}
+- name: "partners_content"
+  label: "Get Involved"
+  files:
+    - name: "partner-content"
+      label: "Content"
+      file: "data/partner-content.yml"
+      fields:
         - label: Title
           name: title
           widget: string
@@ -76,7 +83,7 @@ collections:
           name: content
           widget: markdown
         - label: "Partner Levels"
-          name: "Levels"
+          name: "levels"
           widget: "list"
           fields:
             - {label: "Name", name: "name", widget: "string"}
