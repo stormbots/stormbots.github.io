@@ -21,6 +21,7 @@ List:
       since our team's inception.
     from: 2008-2018
     level: hurricane
+    location: 'Seattle, WA'
     logo: /images/uploads/boeing-new.png
     name: The Boeing Company
     url: 'http://www.boeing.com/'
@@ -48,6 +49,7 @@ List:
       our robot and components.
     from: 2013-2018
     level: hurricane
+    location: 'Vancouver, WA'
     logo: /images/uploads/pro-tech.png
     name: Pro-Tech
     url: 'http://www.protech.net/'
@@ -56,6 +58,7 @@ List:
       heads. And there's the whole education thing, which is kind of a big deal.
     from: 2008-2018
     level: torrent
+    location: 'Vancouver, WA'
     logo: /images/uploads/vps.png
     name: Vancouver Public Schools
     url: 'http://vansd.org/'
@@ -76,6 +79,7 @@ List:
       products.
     from: 2016-2018
     level: torrent
+    location: 'Vancouver, WA'
     logo: /images/uploads/con-met.png
     name: Con-Met
     url: 'https://www.conmet.com/'
@@ -95,6 +99,7 @@ List:
       technologies.
     from: 2016-2018
     level: thunderstorm
+    location: 'Tualatin, OR'
     logo: /images/uploads/olympuscontrols.png
     name: Olympus Controls
     url: 'http://olympuscontrols.com/'
@@ -103,6 +108,7 @@ List:
       hold our team together.
     from: 2013-2018
     level: thunderstorm
+    location: 'Vancouver, WA'
     logo: /images/uploads/vancouverbolt.png
     name: Vancouver Bolt And Supply
     url: 'http://vancouverbolt.com/'
@@ -114,6 +120,7 @@ List:
       well.
     from: 2016-2018
     level: thunderstorm
+    location: 'Vancouver, WA'
     logo: /images/uploads/htmfg.png
     name: High Tech Manufacturing
     url: 'http://htmfg.com/'
@@ -123,6 +130,7 @@ List:
       chemicals division and parts of the polymers business from Bayer AG.
     from: 2016-2018
     level: zephyr
+    location: 'Cologne, Germany'
     logo: /images/uploads/lanxess.png
     name: Lanxess
     url: 'https://lanxess.com/'
@@ -140,6 +148,7 @@ List:
       motion control components.
     from: 2015-2018
     level: hurricane
+    location: 'Vancouver, WA'
     logo: /images/uploads/usdigital.png
     name: US Digital
     url: 'https://www.usdigital.com/'
@@ -147,6 +156,7 @@ List:
       At F5, we make apps go. Faster. Smarter. Safer.
     from: 2018
     level: torrent
+    location: 'Seattle, WA'
     logo: /images/uploads/f5.png
     name: F5
     url: 'http://f5.com'
@@ -166,6 +176,7 @@ List:
       communication, and leadership.
     from: 2018
     level: torrent
+    location: 'Seattle, WA'
     logo: /images/uploads/first-washington-logo.png
     name: FIRST Washington
     url: 'https://www.firstwa.org/'
@@ -175,6 +186,7 @@ List:
       Pacific Northwest.
     from: 2018
     level: torrent
+    location: 'Portland, OR'
     logo: /images/uploads/hdg-logo.png
     name: 'Humber Design Group, Inc.'
     url: 'http://hdgpdx.com/'
@@ -182,6 +194,7 @@ List:
       Wherever electricity goes, so does Thomas & Betts.
     from: 2018
     level: hurricane
+    location: 'Memphis, TN'
     logo: /images/uploads/tb-abb-logo.png
     name: 'Thomas & Betts, A Member of the ABB Group'
     url: 'http://www.tnb.com/pub/index.php'
@@ -191,6 +204,7 @@ List:
       every organization on the planet to achieve more.
     from: '2018'
     level: thunderstorm
+    location: 'Redmond, WA'
     logo: /images/uploads/microsoft.png
     name: Microsoft
     url: 'https://www.microsoft.com'
@@ -200,6 +214,21 @@ List:
       Amazon, Cisco and many more.
     from: '2018'
     level: torrent
+    location: 'Vancouver, WA'
     logo: /images/uploads/first-tech-fed.jpg
     name: First Tech Federal Credit Union
     url: 'https://www.firsttechfed.com'
+  - desc: >-
+      The StormBots are pleased to welcome SGA Engineering as a sponsor for
+      2018-19. 
+
+
+      SGA Engineering is a local full-service engineering and planning
+      consulting firm specializing in residential, commercial and industrial
+      development. SGA was formerly known as Sturtevant Golemo & Associates.
+    from: '2019'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/sga-engineering-logo.png
+    name: SGA Engineering
+    url: 'http://sgaengineering.com/about.php'
