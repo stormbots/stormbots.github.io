@@ -227,3 +227,14 @@ List:
     logo: /images/uploads/applied-moition-systems-screen-shot.png
     name: Applied Motion Systems
     url: 'http://www.appliedmotionsystems.com/'
+  - desc: >-
+      On Oct. 1, 2018, Andeavor and Marathon Petroleum Corp. (NYSE: MPC) closed
+      their strategic combination, creating a large-scale,
+      geographically-diversified and highly-integrated refining, marketing and
+      midstream company.
+    from: '2018'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/andeavor-now-marathon.jpg
+    name: Andeavor / Marathon Petroleum Corp.
+    url: 'http://www.marathonpetroleum.com/About_MPC/'
