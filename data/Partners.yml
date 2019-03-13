@@ -249,3 +249,14 @@ List:
     logo: /images/uploads/intellectual-ventures.jpg
     name: Intellectual Ventures
     url: 'https://www.intellectualventures.com/'
+  - desc: >-
+      SIGMADESIGN is a product development, engineering, and manufacturing firm.
+      With product development capabilities all in-house, including prototyping,
+      fabrication, assembly, testing and manufacturing, we craft solid and
+      appealing products for our clients.
+    from: '2012'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/sigmadesign_logo2017.01.18.png
+    name: Sigma Design
+    url: 'https://www.sigmadzn.com/sigmadesign-product-development-engineering/'
