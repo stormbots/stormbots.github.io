@@ -217,3 +217,13 @@ List:
     logo: /images/uploads/calderon-family-dentistry.jpg
     name: Calderon Family Dentistry
     url: 'http://calderondmd.com/'
+  - desc: >-
+      Applied Motion Systems, Inc. is a Mechatronics Technology Company
+      specializing in precision motor control and power conversion using high
+      performance inverter and motion technologies.
+    from: '2018'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/applied-moition-systems-screen-shot.png
+    name: Applied Motion Systems
+    url: 'http://www.appliedmotionsystems.com/'
