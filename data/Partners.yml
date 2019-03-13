@@ -93,37 +93,6 @@ List:
     logo: /images/uploads/usnr.png
     name: United States Natural Resources
     url: 'https://www.usnr.com/en/page/home'
-  - desc: >
-      Olympus Controls is an Engineering Services company that specializes in
-      the integration of motion control, machine vision, and robotic
-      technologies.
-    from: 2016-2018
-    level: thunderstorm
-    location: 'Tualatin, OR'
-    logo: /images/uploads/olympuscontrols.png
-    name: Olympus Controls
-    url: 'http://olympuscontrols.com/'
-  - desc: >
-      Vancouver Bolt offers us significant amounts of fasteners. They really
-      hold our team together.
-    from: 2013-2018
-    level: thunderstorm
-    location: 'Vancouver, WA'
-    logo: /images/uploads/vancouverbolt.png
-    name: Vancouver Bolt And Supply
-    url: 'http://vancouverbolt.com/'
-  - desc: >
-      High Tech Manufacturing has provided outsourced manufacturing services to
-      a local Semiconductor Industry Customer for many years and has developed
-      from a supplier who originally source only R&D parts to a full service
-      supplier able to support follow on manufacturing of production parts as
-      well.
-    from: 2016-2018
-    level: thunderstorm
-    location: 'Vancouver, WA'
-    logo: /images/uploads/htmfg.png
-    name: High Tech Manufacturing
-    url: 'http://htmfg.com/'
   - desc: >-
       Lanxess Aktiengesellschaft is a specialty chemicals company based in
       Cologne, Germany that was founded in 2004 via the spin-off of the
@@ -134,32 +103,6 @@ List:
     logo: /images/uploads/lanxess.png
     name: Lanxess
     url: 'https://lanxess.com/'
-  - desc: >-
-      Hungry? So were we until Garlic Jim's stepped in. Now we can afford to eat
-      in our late night and weekend building sprees.
-    from: 2010-2018
-    level: zephyr
-    location: 'Salmon Creek, WA'
-    logo: /images/uploads/garlicjims.png
-    name: Garlic Jim's Pizza
-    url: 'https://garlicjims.com/'
-  - desc: >
-      US Digital designs and manufactures optical encoders, inclinometers &
-      motion control components.
-    from: 2015-2018
-    level: hurricane
-    location: 'Vancouver, WA'
-    logo: /images/uploads/usdigital.png
-    name: US Digital
-    url: 'https://www.usdigital.com/'
-  - desc: |
-      At F5, we make apps go. Faster. Smarter. Safer.
-    from: 2018
-    level: torrent
-    location: 'Seattle, WA'
-    logo: /images/uploads/f5.png
-    name: F5
-    url: 'http://f5.com'
   - desc: |
       We are a full service industrial machine shop in Woodland, WA.
     from: 2018
@@ -190,14 +133,6 @@ List:
     logo: /images/uploads/hdg-logo.png
     name: 'Humber Design Group, Inc.'
     url: 'http://hdgpdx.com/'
-  - desc: |
-      Wherever electricity goes, so does Thomas & Betts.
-    from: 2018
-    level: hurricane
-    location: 'Memphis, TN'
-    logo: /images/uploads/tb-abb-logo.png
-    name: 'Thomas & Betts, A Member of the ABB Group'
-    url: 'http://www.tnb.com/pub/index.php'
   - desc: >-
       Microsoft enables digital transformation for the era of an intelligent
       cloud and an intelligent edge. Its mission is to empower every person and
@@ -241,3 +176,15 @@ List:
     logo: /images/uploads/jessica-jewlers-image.jpg
     name: Jessica Jewelers
     url: 'https://www.facebook.com/pages/Jessica-Jewelers/273609519347133'
+  - desc: >-
+      ICD High Performance Coatings manufactures paints, coatings and chemicals.
+      Historically, we have developed and manufactured coatings for the
+      architectural glass markets, specifically spandrel coatings and interior
+      wall cladding. Today, we are seen as both experts in silicone coating
+      technology and providing coatings solutions where none previously existed.
+    from: '2019'
+    level: thunderstorm
+    location: 'Ridgefield, WA'
+    logo: /images/uploads/icd-logo.png
+    name: ICD
+    url: 'http://www.icdcoatings.com/about-icd'
