@@ -195,3 +195,15 @@ List:
     logo: /images/uploads/tektronix-new-logo.png
     name: Tektronix
     url: 'https://www.tek.com/about-us'
+  - desc: >-
+      We are a world leading manufacturer of concrete products equipment. 
+
+
+      Columbia builds a complete line of equipment to outfit your entire
+      concrete products plant.
+    from: '2018'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/columbia-machine.png
+    name: Columbia Machine
+    url: 'http://columbiamachine.com/about-us/'
