@@ -1,6 +1,6 @@
 ---
 title: Let the games begin!
-date: 2019-03-13T20:15:00.000Z
+date: 2019-03-13T07:00:00.000Z
 image: /images/uploads/destdeepspace-logo.png
 ---
 MARCH 14-16, 2019PNW District SunDome Event (Qualifying Event)
