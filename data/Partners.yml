@@ -260,3 +260,13 @@ List:
     logo: /images/uploads/sigmadesign_logo2017.01.18.png
     name: Sigma Design
     url: 'https://www.sigmadzn.com/sigmadesign-product-development-engineering/'
+  - desc: >-
+      As a premier provider of carbon fiber composites, we partner with
+      manufacturers across a wide range of industries to take their vision and
+      products to the next level.
+    from: '2018'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/protech-composites.png
+    name: ProTech Composites
+    url: 'http://www.protechcomposites.com/'
