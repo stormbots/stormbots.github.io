@@ -188,3 +188,10 @@ List:
     logo: /images/uploads/icd-logo.png
     name: ICD
     url: 'http://www.icdcoatings.com/about-icd'
+  - desc: dsffd
+    from: '2013'
+    level: thunderstorm
+    location: 'Wilsonville, OR'
+    logo: /images/uploads/tektronix-new-logo.png
+    name: Tektronix
+    url: 'https://www.tek.com/about-us'
