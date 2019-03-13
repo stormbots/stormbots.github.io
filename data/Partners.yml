@@ -207,3 +207,13 @@ List:
     logo: /images/uploads/columbia-machine.png
     name: Columbia Machine
     url: 'http://columbiamachine.com/about-us/'
+  - desc: >-
+      Calderon Family Dentistry is a mercury-free, mercury-safe, fluoride-free
+      biological dental practice located in Vancouver, WA. Dr. Calderon focuses
+      on whole body dentistry.
+    from: '2018'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/calderon-family-dentistry.jpg
+    name: Calderon Family Dentistry
+    url: 'http://calderondmd.com/'
