@@ -238,3 +238,14 @@ List:
     logo: /images/uploads/andeavor-now-marathon.jpg
     name: Andeavor / Marathon Petroleum Corp.
     url: 'http://www.marathonpetroleum.com/About_MPC/'
+  - desc: >-
+      Intellectual Ventures was founded on the certainty that ideas have value.
+      Since then, we’ve created a global business that creates, incubates, and
+      commercializes impactful inventions—all while holding fast to the core
+      belief that we can change the world through the power of invention.
+    from: '2019'
+    level: thunderstorm
+    location: 'Vancouver, WA'
+    logo: /images/uploads/intellectual-ventures.jpg
+    name: Intellectual Ventures
+    url: 'https://www.intellectualventures.com/'
